@@ -1,45 +1,45 @@
-# 🔒 کانفیگ رایگان V2ray 🌐
+# 🔒 کانفیگ رایگان V2ray 🌐collector
 💻 این مخزن یک مجموعه از کانفیگ های پیکربندی V2ray رایگان را که می توانید با کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید، شامل می شود.
-[ENGLISH VERSION](https://github.com/Bardiafa/Free-V2ray-Config) | [中文版](https://github.com/Bardiafa/Free-V2ray-Config/blob/main/Chinese-README.md)
+[ENGLISH VERSION](https://github.com/M-Mashreghi/free-config-collector) | [中文版](https://github.com/M-Mashreghi/free-config-collector/blob/main/Chinese-README.md)
 
-![آخرین تغییرات](https://img.shields.io/github/last-commit/Bardiafa/Free-V2ray-Config.svg) [![MIT لایسنس](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub ستاره ها](https://img.shields.io/github/stars/Bardiafa/Free-V2ray-Config.svg)](https://github.com/Bardiafa/Free-V2ray-Config/stargazers) [![بروزرسانی میشود](https://github.com/Bardiafa/Free-V2ray-Config/actions/workflows/python-app.yml/badge.svg)](https://github.com/Bardiafa/Free-V2ray-Config/actions/workflows/python-app.yml) ![سایز این مجموعه](https://img.shields.io/github/repo-size/Bardiafa/Free-V2ray-Config) [![CodeFactor](https://www.codefactor.io/repository/github/Bardiafa/Free-V2ray-Config/badge)](https://www.codefactor.io/repository/github/Bardiafa/Free-V2ray-Config) 
+![آخرین تغییرات](https://img.shields.io/github/last-commit/M-Mashreghi/free-config-collector.svg) [![MIT لایسنس](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub ستاره ها](https://img.shields.io/github/stars/M-Mashreghi/free-config-collector.svg)](https://github.com/M-Mashreghi/free-config-collector/stargazers) [![بروزرسانی میشود](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml/badge.svg)](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml) ![سایز این مجموعه](https://img.shields.io/github/repo-size/M-Mashreghi/free-config-collector) [![CodeFactor](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector/badge)](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector) 
 
 
 ## راه‌اندازی
-👉 برای استفاده از یکی از این پیکربندی ها، فقط فایل `configs.txt` را در مسیر ریشه باز کنید. این فایل شامل لینک های مختلفی به فایل های پیکربندی V2ray است که می توانید با کلاینت V2ray خود استفاده کنید. [این لینک](https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/All_Configs_Sub.txt) را برای فایل پیکربندی مورد نظر از فایل configs.txt کپی کرده و آن را در کلاینت V2ray خود وارد کنید. برای اطلاعات بیشتر در مورد نحوه انجام این کار به مستندات کلاینت خود ارجاع دهید.
+👉 برای استفاده از یکی از این پیکربندی ها، فقط فایل `configs.txt` را در مسیر ریشه باز کنید. این فایل شامل لینک های مختلفی به فایل های پیکربندی V2ray است که می توانید با کلاینت V2ray خود استفاده کنید. [این لینک](https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/All_Configs_Sub.txt) را برای فایل پیکربندی مورد نظر از فایل configs.txt کپی کرده و آن را در کلاینت V2ray خود وارد کنید. برای اطلاعات بیشتر در مورد نحوه انجام این کار به مستندات کلاینت خود ارجاع دهید.
 
 این لینک ها را داخل نرم افزار خود بزارید :
 
-لینک 1 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub1.txt
+لینک 1 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub1.txt
 
-لینک 2 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub2.txt
+لینک 2 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub2.txt
 
-لینک 3 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub3.txt
+لینک 3 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub3.txt
 
-لینک 4 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub4.txt
+لینک 4 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub4.txt
 
-لینک 5 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub5.txt
+لینک 5 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub5.txt
 
-لینک 6 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub6.txt
+لینک 6 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub6.txt
 
-لینک 7 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub7.txt
+لینک 7 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub7.txt
 
-لینک 8 : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Sub8.txt
+لینک 8 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub8.txt
 
 
 🔒 برای بهبود عملکرد و امنیت بهتر، ما پیشنهاد می کنیم که از قابلیت لینک اشتراکگذاری جدیدترین پیکربندی های خود استفاده کنید. فقط لینک اشتراک گذاری را از فایل configs.txt کپی کرده و آن را در کلاینت V2ray خود وارد کنید تا به طور خودکار هر 10 دقیقه به روز شود.
 
 🗂️ برای مدیریت آسان تنظیمات، فایل های پیکربندی را به فایل های جداگانه برای هر پروتکل تقسیم کرده و آنها را در پوشه Splitted اضافه کرده ایم. جهت دسترسی آسان به پیکربندی های جداگانه از لینک های زیر استفاده کنید:
 
-Vmess : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Splitted-By-Protocol/vmess.txt
+Vmess : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/vmess.txt
 
-Vless : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Splitted-By-Protocol/vless.txt
+Vless : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/vless.txt
 
-Trojan : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Splitted-By-Protocol/trojan.txt
+Trojan : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/trojan.txt
 
-ShadowSocks : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Splitted-By-Protocol/ss.txt
+ShadowSocks : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/ss.txt
 
-ShadowSocksR : https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/Splitted-By-Protocol/ssr.txt
+ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/ssr.txt
 
 ℹ️ علاوه بر این، ما یک ویکی با دستورالعمل های جزئی درباره نحوه راه‌اندازی V2ray بر روی سیستم‌عامل‌های مختلف ایجاد کرده‌ایم. برای کسب اطلاعات بیشتر به ویکی ما مراجعه کنید.
 
