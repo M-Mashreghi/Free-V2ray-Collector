@@ -72,7 +72,11 @@ def sort():
     ss_list = []
     ssr_list = []
 
-    with open("H:\GIT project\V2ray Finder\Free-V2ray-Config-main\All_Configs_Sub.txt", 'r', encoding='utf-8') as f:
+    output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    file_name = "All_Configs_Sub.txt"
+    full_file_path = os.path.join(output_folder, file_name)
+
+    with open(full_file_path, 'r', encoding='utf-8') as f:
             line = f.readlines()
     for config in tqdm(line):
         config = replace_name(config)
@@ -81,7 +85,7 @@ def sort():
             # open(vmess_file, "a").write(config + "\n")     
         if config.startswith("vless"):
             vless_list.append(config)  
-        if config.startswith("trojan"):
+        if config.startswith("trojan://"):
             trojan_list.append(config)  
         if config.startswith("ss"):   
             ss_list.append(config)
@@ -113,3 +117,4 @@ def sort():
 
     return shuffled_config , shuffled_list
     
+

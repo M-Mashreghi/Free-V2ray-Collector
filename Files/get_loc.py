@@ -7,6 +7,8 @@ import socket
 import requests
 from ip2geotools.databases.noncommercial import DbIpCity
 from geopy.distance import distance
+from urllib.parse import urlparse
+
 # emoji1 = '\U0001F49A'
 emoji2 = '\U0001F499'
 new_name = " @𝕏en2ray " + emoji2 + " "
@@ -66,32 +68,29 @@ def update_vmess_name(vmess_url, replace_name):
 
     return new_vmess_url
 
+
+
+# Define a regular expression pattern for an IP address
+ip_pattern = r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$'
+
+# Function to check if a string is a valid IP address
+def is_valid_ip(ip_str):
+    return bool(re.match(ip_pattern, ip_str))
+
+
+
 def find_loc_trojan(config_str,new_name):
         # Use regular expressions to extract the IP address from the string
         ip_match = re.search(r'(?P<ip>\d+\.\d+\.\d+\.\d+)', config_str)
         if ip_match:
                 ip_address = ip_match.group("ip")
                 return test_find_loc(ip_address,new_name)
-
-
-
-       
-
-        # Use regular expressions to extract the IP address from the string
-        ip_match = re.search(r'(?P<ip>\d+\.\d+\.\d+\.\d+)', config_str)
-        if ip_match:
-                ip_address = ip_match.group("ip")
-                try:
-                    try:
-                        try:
-                             printDeails_2(ip_address,new_name)
-                        except:
-                            return printDetails(ip_address,new_name)
-                    except:
-                         ip_add = socket.gethostbyname(ip_address)
-                         return printDetails(ip_add,new_name)
-                except:
-                      return new_name
+        else:
+            # Parse the URL
+            parsed_url = urlparse(config_str)
+            # Extract the hostname (domain)
+            domain = parsed_url.hostname
+            return test_find_loc(domain,new_name)
 
 def find_location_vmess(vmess_url,new_name):
     # Decode the VMess URL
