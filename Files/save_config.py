@@ -45,13 +45,14 @@ def save_data(merged_configs):
 
 def save_data_shuffle(shuffled_config , shuffled_list):
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    output_folder_shuffled = "shuffle"  # Output folder where files will be created
 
     # Delete existing output files
     filename = os.path.join(output_folder, f'All_shuffled_config.txt')
     if os.path.exists(filename):
         os.remove(filename)
     for i in range(50):
-        filename = os.path.join(output_folder, f'Sub{i}_shuffled.conf')
+        filename = os.path.join(output_folder_shuffled, f'Sub{i}_shuffled.conf')
         if os.path.exists(filename):
             os.remove(filename)
 
@@ -67,13 +68,18 @@ def save_data_shuffle(shuffled_config , shuffled_list):
                 f.write("<<Unencodable Character>>\n")
             # f.write("\n")
 
+
     num_lines = len(shuffled_list)
     max_lines_per_file = 1000
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
+
+    # Create the 'shuffle' folder if it doesn't exist
+    os.makedirs(output_folder_shuffled, exist_ok=True)
+
     for i in range(num_files):
         start_index = i * max_lines_per_file
         end_index = (i + 1) * max_lines_per_file
-        filename = os.path.join(output_folder, f'Sub{i+1}_shuffled.conf')
+        filename = os.path.join(output_folder_shuffled, f'Sub{i + 1}_shuffled.conf')
         with open(filename, 'w', encoding='utf-8') as f:
             for line in shuffled_list[start_index:end_index]:
                 f.write(line + "\n")
