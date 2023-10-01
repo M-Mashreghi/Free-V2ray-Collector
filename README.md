@@ -66,7 +66,7 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 📝 This repository is licensed under the MIT license. See LICENSE for more information.
 
 ## Contact
-🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker.
+🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker or telegram channel [@Xen2ray](https://t.me/Xen2ray).
 
 ## Special Thanks To
 [@ircfspace](https://github.com/MrPooyaX)
