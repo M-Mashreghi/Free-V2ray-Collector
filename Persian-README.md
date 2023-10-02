@@ -10,21 +10,23 @@
 
 این لینک ها را داخل نرم افزار خود بزارید :
 
-لینک 1 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub1.txt
+1 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub1_shuffled.conf
+2 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub2_shuffled.conf
+3 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub3_shuffled.conf
+4 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub4_shuffled.conf
+5 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub5_shuffled.conf
+6 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub6_shuffled.conf
+7 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub7_shuffled.conf
+8 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub8_shuffled.conf
+9 لینک : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub9_shuffled.conf
+10 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub10_shuffled.conf
+11 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub11_shuffled.conf
+12 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub12_shuffled.conf
+13 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub13_shuffled.conf
+14 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub14_shuffled.conf
+15 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub15_shuffled.conf
+16 لینک  : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub16_shuffled.conf
 
-لینک 2 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub2.txt
-
-لینک 3 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub3.txt
-
-لینک 4 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub4.txt
-
-لینک 5 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub5.txt
-
-لینک 6 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub6.txt
-
-لینک 7 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub7.txt
-
-لینک 8 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub8.txt
 
 
 🔒 برای بهبود عملکرد و امنیت بهتر، ما پیشنهاد می کنیم که از قابلیت لینک اشتراکگذاری جدیدترین پیکربندی های خود استفاده کنید. فقط لینک اشتراک گذاری را از فایل configs.txt کپی کرده و آن را در کلاینت V2ray خود وارد کنید تا به طور خودکار هر 10 دقیقه به روز شود.
