@@ -80,8 +80,10 @@ def sort():
             line = f.readlines()
     for config in tqdm(line):
         config = replace_name(config)
-        if config.startswith("vmess"):
-            vmess_list.append(config)
+        if config.startswith("vmess://"):
+            # print(config)
+            config_new = config +'\n'
+            vmess_list.append(config_new)
             # open(vmess_file, "a").write(config + "\n")     
         if config.startswith("vless"):
             vless_list.append(config)  
@@ -92,11 +94,12 @@ def sort():
         if config.startswith("ssr"):
             ssr_list.append(config)
 
-    ssr = list(set(ssr))
-    vless = list(set(vless)) 
-    trojan = list(set(trojan)) 
-    ss = list(set(ss))
+    ssr_list = list(set(ssr_list))
+    vless_list = list(set(vless_list)) 
+    trojan_list = list(set(trojan_list)) 
+    ss_list = list(set(ss_list))
     vmess_list = list(set(vmess_list))
+
 
     all_list = vmess_list + ss_list + trojan_list + vless_list + ssr_list
     vmess = '\n'.join([str(item) for item in vmess_list])
