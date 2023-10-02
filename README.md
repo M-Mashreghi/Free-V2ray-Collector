@@ -2,9 +2,9 @@
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
 
 [ورژن فارسی](https://github.com/M-Mashreghi/free-config-collector/main/Persian-README.md) | [中文版](https://github.com/M-Mashreghi/free-config-collector/main/Chinese-README.md)
-
+<!--
 ![GitHub last commit](https://img.shields.io/github/last-commit/M-Mashreghi/free-config-collector.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/M-Mashreghi/free-config-collector.svg)](https://github.com/M-Mashreghi/free-config-collector/stargazers) [![Update Configs](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml/badge.svg)](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/M-Mashreghi/free-config-collector) [![CodeFactor](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector/badge)](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector) 
-
+-->
 
 
 
