@@ -13,21 +13,38 @@
 
 Just Copy these links to your client to use :
 
-Subscription 1 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub1.txt
+Subscription 1 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub1_shuffled.conf
 
-Subscription 2 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub2.txt
+Subscription 2 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub2_shuffled.conf
 
-Subscription 3 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub3.txt
+Subscription 3 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub3_shuffled.conf
 
-Subscription 4 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub4.txt
+Subscription 4 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub4_shuffled.conf
 
-Subscription 5 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub5.txt
+Subscription 5 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub5_shuffled.conf
 
-Subscription 6 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub6.txt
+Subscription 6 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub6_shuffled.conf
 
-Subscription 7 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub7.txt
+Subscription 7 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub7_shuffled.conf
 
-Subscription 8 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Sub8.txt
+Subscription 8 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub8_shuffled.conf
+
+Subscription 9 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub9_shuffled.conf
+
+Subscription 10 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub10_shuffled.conf
+
+Subscription 11 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub11_shuffled.conf
+
+Subscription 12 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub12_shuffled.conf
+
+Subscription 13 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub13_shuffled.conf
+
+Subscription 14 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub14_shuffled.conf
+
+Subscription 15 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub15_shuffled.conf
+
+Subscription 16 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub16_shuffled.conf
+
 
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
 
