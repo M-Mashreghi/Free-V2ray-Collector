@@ -4,7 +4,7 @@ import json
 import requests
 import socket
 import requests
-from pip install ip2geo import DbIpCity
+from ip2geotools.databases.noncommercial import DbIpCity
 from geopy.distance import distance
 from urllib.parse import urlparse
 

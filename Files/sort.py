@@ -2,7 +2,6 @@ import requests
 import os
 import base64
 from tqdm import tqdm
-import yaml
 import re
 import base64
 import json
