@@ -1,11 +1,10 @@
-import yaml
 import re
 import base64
 import json
 import requests
 import socket
 import requests
-from ip2geotools.databases.noncommercial import DbIpCity
+from pip install ip2geo import DbIpCity
 from geopy.distance import distance
 from urllib.parse import urlparse
 
