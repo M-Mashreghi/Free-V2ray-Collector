@@ -98,7 +98,22 @@ def main():
         'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
         'https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free',
         'https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/v2ray.config.txt',
-        'https://tt.vg/freev2'
+        'https://tt.vg/freev2',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7',
+        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8',
+        'https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt',
+        'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
+        'https://raw.githubusercontent.com/freefq/free/master/v2',
+        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2'
+
+
+
     ]
     dir_links = [
         'https://vpn.fail/free-proxy/v2ray',
@@ -113,16 +128,24 @@ def main():
         'https://raw.githubusercontent.com/baipiao250/HigeFreeProxies/master/sub/sub_merge.txt',
         'https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
-        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt'
+        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt',
+        'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt',
+        'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt',
+        'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt'
+
     ]
 
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)
-    with open('test.txt', 'r') as file:
-        # Read all lines from the file into a list
-        lines = file.readlines()
+    lines = []
+    try:
+        with open('test.txt', '+r') as file:
+            # Read all lines from the file into a list
+            lines = file.readlines()
+    except:
+        print("file not found")
     merged_configs = decoded_links + decoded_dir_links + lines
-    # merged_configs = list(set(merged_configs))
+    merged_configs = list(set(merged_configs))
     save_config.save_data(merged_configs)
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
