@@ -7,7 +7,7 @@ import requests
 from ip2geotools.databases.noncommercial import DbIpCity
 from geopy.distance import distance
 from urllib.parse import urlparse
-
+from emoji import find_emoji
 # emoji1 = '\U0001F49A'
 emoji2 = '\U0001F499'
 new_name = " @𝕏en2ray " + emoji2 + " "
@@ -16,7 +16,7 @@ new_name = " @𝕏en2ray " + emoji2 + " "
 
 def printDetails(ip,new_name):
     res = DbIpCity.get(ip, api_key="free")
-    name = new_name + res.city+ ' ' + res.region
+    name = new_name + res.city+ ' ' + find_emoji(res.region)
     return name
 
 def printDeails_2(ip_address ,new_name ):
@@ -27,7 +27,7 @@ def printDeails_2(ip_address ,new_name ):
          geolocation_data = response.json()
          city = geolocation_data.get("city")
          country = geolocation_data.get("country")
-         name = new_name  + city + ' ' + country
+         name = new_name  + city + ' ' + find_emoji(country)
          return name
      else:
           raise ZeroDivisionError("This is a custom ZeroDivisionError") 
