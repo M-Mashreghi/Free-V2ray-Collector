@@ -9,6 +9,7 @@ import requests
 import get_loc
 import random
 import  save_config 
+import pycountry
 # emoji1 = '\U0001F49A'
 emoji2 = '\U0001F499'
 new_name =  "@Xen2ray" + emoji2 + " "
@@ -16,6 +17,10 @@ new_name =  "@Xen2ray" + emoji2 + " "
 
 def replace_name(url):
      # Modify URLs
+    # countries = {}
+    # for country in pycountry.countries:
+    #      countries[country.name] = country.alpha_2
+
 
     if url.startswith("vmess://"):
         try:

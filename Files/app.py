@@ -6,7 +6,8 @@ import datetime
 import sort
 import save_config 
 import base64
-
+import flag
+from Run import Update
 def generate_urls(base_url_format):
     current_date = datetime.datetime.now()
     formatted_date = current_date.strftime(base_url_format)
@@ -149,6 +150,7 @@ def main():
     save_config.save_data(merged_configs)
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
+    Update()
 
 
 if __name__ == "__main__":
