@@ -150,6 +150,18 @@ def main():
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
 
+import time
+
+def my_script():
+    # Your Python code goes here
+    print("My script is running!")
+
+
+
 
 if __name__ == "__main__":
-    main()
+    while True:
+        main()
+        # Sleep for 12 hours (in seconds)
+        time.sleep(11 * 60 * 60)
+
