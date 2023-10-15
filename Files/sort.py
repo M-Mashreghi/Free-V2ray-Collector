@@ -51,7 +51,7 @@ def replace_name(url):
 
 
 
-def sort():
+def sort(cleaned_lines):
     ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
     vmess_file = os.path.join(ptt, 'Splitted-By-Protocol/vmess.txt')
     vless_file = os.path.join(ptt, 'Splitted-By-Protocol/vless.txt')
@@ -75,7 +75,7 @@ def sort():
     trojan_list = []
     ss_list = []
     ssr_list = []
-
+    new_configs = []
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     file_name = "All_Configs_Sub.txt"
     full_file_path = os.path.join(output_folder, file_name)
@@ -83,7 +83,11 @@ def sort():
     with open(full_file_path, 'r', encoding='utf-8') as f:
             line = f.readlines()
     for config in tqdm(line):
-        config = replace_name(config)
+        new_configs.append(replace_name(config))
+    all_config = new_configs + cleaned_lines
+    all_config = list(set(all_config))
+    for config in tqdm(all_config):
+        # config = replace_name(config)
         if config.startswith("vmess://"):
             # print(config)
             config_new = config +'\n'
