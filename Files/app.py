@@ -7,6 +7,8 @@ import sort
 import save_config 
 import base64
 import flag
+import time
+
 from Run import Update
 def generate_urls(base_url_format):
     current_date = datetime.datetime.now()
@@ -151,12 +153,6 @@ def main():
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
     Update()
-
-import time
-
-def my_script():
-    # Your Python code goes here
-    print("My script is running!")
 
 
 
