@@ -201,7 +201,7 @@ def main():
   
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     file_name = "All_shuffled_config.txt"
-    full_file_path = os.path.join(output_fol0der, file_name)
+    full_file_path = os.path.join(output_folder, file_name)
     with open(full_file_path, 'rb+') as file:
         # Read all lines from the file into a list
         lines = file.read().decode("utf-8").splitlines()
