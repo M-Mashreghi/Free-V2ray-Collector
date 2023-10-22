@@ -197,20 +197,11 @@ def main():
 
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)
-    lines = []
-  
-    output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
-    file_name = "All_shuffled_config.txt"
-    full_file_path = os.path.join(output_folder, file_name)
-    with open(full_file_path, 'rb+') as file:
-        # Read all lines from the file into a list
-        lines = file.read().decode("utf-8").splitlines()
-    cleaned_lines = [line for line in lines if line.strip()]
 
     merged_configs = decoded_links + decoded_dir_links
     merged_configs = list(set(merged_configs))
     save_config.save_data(merged_configs)
-    shuffled_config , shuffled_list = sort.sort(cleaned_lines)
+    shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
     Update()
 

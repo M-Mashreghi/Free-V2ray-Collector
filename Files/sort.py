@@ -51,7 +51,7 @@ def replace_name(url):
 
 
 
-def sort(cleaned_lines):
+def sort():
     ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
     vmess_file = os.path.join(ptt, 'Splitted-By-Protocol/vmess.txt')
     vless_file = os.path.join(ptt, 'Splitted-By-Protocol/vless.txt')
@@ -76,6 +76,14 @@ def sort(cleaned_lines):
     ss_list = []
     ssr_list = []
     new_configs = []
+
+    output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    file_name = "All_shuffled_config.txt"
+    full_file_path = os.path.join(output_folder, file_name)
+    with open(full_file_path, 'r', encoding='utf-8') as file:
+        # Read all lines from the file into a list
+        cleaned_lines = file.readlines()
+
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     file_name = "All_Configs_Sub.txt"
     full_file_path = os.path.join(output_folder, file_name)
