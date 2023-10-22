@@ -90,6 +90,8 @@ def sort():
 
     with open(full_file_path, 'r', encoding='utf-8') as f:
             line = f.readlines()
+
+            
     for config in tqdm(line):
         new_configs.append(replace_name(config))
     all_config = new_configs + cleaned_lines
