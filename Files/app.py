@@ -140,6 +140,7 @@ def decode_dir_links(dir_links):
 
 def main():
     links = [
+        'https://raw.githubusercontent.com/internet4jina/daily/main/studious',
         'https://raw.githubusercontent.com/HenryPorternew/sbs/main/ssb/sw',
         generate_urls("https://nodefree.org/dy/%Y/%m/%Y%m%d.txt"),
         generate_urls("https://clashnode.com/wp-content/uploads/%Y/%m/%Y%m%d.txt"),
