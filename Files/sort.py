@@ -103,8 +103,8 @@ def sort():
         # config = replace_name(config)
         if config.startswith("vmess://"):
             # print(config)
-            config_new = config +'\n'
-            vmess_list.append(config_new)
+            # config_new = config +'\n' #old
+            vmess_list.append(config)
             # open(vmess_file, "a").write(config + "\n")     
         if config.startswith("vless"):
             vless_list.append(config)  
@@ -123,6 +123,8 @@ def sort():
 
 
     all_list = vmess_list + ss_list + trojan_list + vless_list + ssr_list
+    all_list = list(set(all_list))
+
     vmess = '\n'.join([str(item) for item in vmess_list])
     vless = '\n'.join([str(item) for item in vless_list])
     trojan = '\n'.join([str(item) for item in trojan_list])
