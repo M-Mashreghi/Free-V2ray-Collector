@@ -100,20 +100,23 @@ def sort():
     all_config = new_configs + cleaned_lines
     all_config = list(set(all_config))
     for config in tqdm(all_config):
+        try:
         # config = replace_name(config)
-        if config.startswith("vmess://"):
+            if config.startswith("vmess://"):
             # print(config)
             # config_new = config +'\n' #old
-            vmess_list.append(config)
+                vmess_list.append(config)
             # open(vmess_file, "a").write(config + "\n")     
-        if config.startswith("vless"):
-            vless_list.append(config)  
-        if config.startswith("trojan://"):
-            trojan_list.append(config)  
-        if config.startswith("ss"):   
-            ss_list.append(config)
-        if config.startswith("ssr"):
-            ssr_list.append(config)
+            if config.startswith("vless"):
+               vless_list.append(config)  
+            if config.startswith("trojan://"):
+               trojan_list.append(config)  
+            if config.startswith("ss"):   
+                ss_list.append(config)
+            if config.startswith("ssr"):
+               ssr_list.append(config)
+        except:
+            print("er")
 
     ssr_list = list(set(ssr_list))
     vless_list = list(set(vless_list)) 
