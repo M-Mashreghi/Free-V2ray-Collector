@@ -172,11 +172,25 @@ def main():
         'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
         'https://raw.githubusercontent.com/freefq/free/master/v2',
         'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2'
-
-
-
+        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix',
+        'https://v2.alicivil.workers.dev/?list=1',
+        'https://v2.alicivil.workers.dev/?list=2',
+        'https://v2.alicivil.workers.dev/?list=3',
+        'https://v2.alicivil.workers.dev/?list=4',
+        'https://v2.alicivil.workers.dev/?list=5',
+        'https://v2.alicivil.workers.dev/?list=6',
+        'https://v2.alicivil.workers.dev/?list=8',
+        'https://v2.alicivil.workers.dev/?list=7',        
     ]
     dir_links = [
+
+
+
+        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality',
+        'https://raw.githubusercontent.com/ImMyron/V2ray/main/Telegram',
+        'https://rentry.co/mohammad885/raw',
+        'https://raw.githubusercontent.com/ImMyron/V2ray/main/Web',
+        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
         'https://vpn.fail/free-proxy/v2ray',
         'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt',
