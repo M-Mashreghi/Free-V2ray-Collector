@@ -15,40 +15,42 @@ emoji2 = '\U0001F499'
 new_name =  "@Xen2ray" + emoji2 + " "
 
 
-def replace_name(url):
+def replace_name_1(url):
      # Modify URLs
     # countries = {}
     # for country in pycountry.countries:
     #      countries[country.name] = country.alpha_2
-
-
-    if url.startswith("vmess://"):
-        try:
-            name_vmess = get_loc.find_location_vmess(url,new_name)
-        except:
-            name_vmess = new_name
-        return get_loc.update_vmess_name(url,name_vmess)
-    elif url.startswith("ss://"):
-        try:
-            name_ss = get_loc.find_loc_ss(url,new_name)
-        except:
-            name_ss = new_name
-        return re.sub(r'#.*', f'#{name_ss}', url)
-    elif url.startswith("vless://"):
-        try:
-            name_vless = get_loc.find_loc_vless(url,new_name)
-        except:
-            name_vless = new_name
-        return re.sub(r'#.*', f'#{name_vless}', url)
-    elif url.startswith("trojan://"):
-        try:
-            name_trojan = get_loc.find_loc_trojan(url,new_name)
-        except:
-            name_trojan = new_name
-        return re.sub(r'#.*', f'#{name_trojan}', url)
-    else:
-        return re.sub(r'#.*', f'#{new_name}', url)
-
+    try:
+        
+        if url.startswith("vmess://"):
+            try:
+                name_vmess = get_loc.find_location_vmess(url,new_name)
+            except:
+                name_vmess = new_name
+            return get_loc.update_vmess_name(url,name_vmess)
+        elif url.startswith("ss://"):
+            try:
+                name_ss = get_loc.find_loc_ss(url,new_name)
+            except:
+                name_ss = new_name
+            return re.sub(r'#.*', f'#{name_ss}', url)
+        elif url.startswith("vless://"):
+            try:
+                name_vless = get_loc.find_loc_vless(url,new_name)
+            except:
+                name_vless = new_name
+            return re.sub(r'#.*', f'#{name_vless}', url)
+        elif url.startswith("trojan://"):
+            try:
+                name_trojan = get_loc.find_loc_trojan(url,new_name)
+            except:
+                name_trojan = new_name
+            return re.sub(r'#.*', f'#{name_trojan}', url)
+        else:
+            return re.sub(r'#.*', f'#{new_name}', url)
+    except:
+        return None
+    
 
 
 def sort():
@@ -96,7 +98,7 @@ def sort():
 
             
     for config in tqdm(line):
-        new_configs.append(replace_name(config))
+        new_configs.append(replace_name_1(config))
     all_config = new_configs + cleaned_lines
     all_config = list(set(all_config))
     for config in tqdm(all_config):

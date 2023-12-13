@@ -2,7 +2,7 @@ import git
 from datetime import datetime
 def Update():
     # Specify the path to your Git repository
-    repo_path = r'D:\git project\free-config-collector'
+    repo_path = r'C:\Github\free-config-collector'
 
     # Initialize the Git repository
     repo = git.Repo(repo_path)

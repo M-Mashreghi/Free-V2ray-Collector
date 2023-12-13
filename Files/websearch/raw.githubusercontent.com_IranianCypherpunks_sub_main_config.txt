@@ -1,3 +1,19 @@
-vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@discord.com:443/?type=ws&encryption=none&host=singbox.cypherpunks.asia&path=%2Fcypherpunks&security=tls&sni=singbox.cypherpunks.asia&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Sing-Box%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@discord.com:443/?type=ws&encryption=none&host=current.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=current.iraniancp.click&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Load-balance%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.233.226:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%282%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%283%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%284%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%285%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8E%97Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
