@@ -41,58 +41,58 @@ def generate_v2ray_configs(decoded_data):
     return sorted_configs
 
 
-def check_not_be_old_data_bytes(link,encoded_bytes):
-    # Create a folder path for "websearch" if it doesn't exist
-    folder_name = "websearch"
-    if not os.path.exists(folder_name):
-        os.mkdir(folder_name)
+# def check_not_be_old_data_bytes(link,encoded_bytes):
+#     # Create a folder path for "websearch" if it doesn't exist
+#     folder_name = "websearch"
+#     if not os.path.exists(folder_name):
+#         os.mkdir(folder_name)
     
-    # Construct the filename using the URL
-    filename = os.path.join(folder_name, link.split("//")[1].replace("/", "_") + ".txt")
+#     # Construct the filename using the URL
+#     filename = os.path.join(folder_name, link.split("//")[1].replace("/", "_") + ".txt")
 
-    # Read the previous content from the file
-    try:
-        with open(filename, "rb") as file:
-            previous_content = file.read()
-    except FileNotFoundError:
-        previous_content = b""  # If the file doesn't exist, set previous_content as empty bytes
+#     # Read the previous content from the file
+#     try:
+#         with open(filename, "rb") as file:
+#             previous_content = file.read()
+#     except FileNotFoundError:
+#         previous_content = b""  # If the file doesn't exist, set previous_content as empty bytes
     
-    # Compare the previous content with the new content
-    if previous_content == encoded_bytes:
-        # print(f"Content from {link} is the same as the previous content. Doing nothing.")
-        return False
-    else:
-        with open(filename, "wb") as file:
-            file.write(encoded_bytes)
-        # print(f"Content from {link} is different from the previous content. Saving new content to {filename}. You can perform some action here.")
-        return True
+#     # Compare the previous content with the new content
+#     if previous_content == encoded_bytes:
+#         # print(f"Content from {link} is the same as the previous content. Doing nothing.")
+#         return False
+#     else:
+#         with open(filename, "wb") as file:
+#             file.write(encoded_bytes)
+#         # print(f"Content from {link} is different from the previous content. Saving new content to {filename}. You can perform some action here.")
+#         return True
 
 
 
-def check_not_be_old_data_decoded(link,encoded_bytes):
-    # Create a folder path for "websearch" if it doesn't exist
-    folder_name = "websearch"
-    if not os.path.exists(folder_name):
-        os.mkdir(folder_name)
+# def check_not_be_old_data_decoded(link,encoded_bytes):
+#     # Create a folder path for "websearch" if it doesn't exist
+#     folder_name = "websearch"
+#     if not os.path.exists(folder_name):
+#         os.mkdir(folder_name)
     
-    # Construct the filename using the URL
-    filename = os.path.join(folder_name, link.split("//")[1].replace("/", "_") + ".txt")
+#     # Construct the filename using the URL
+#     filename = os.path.join(folder_name, link.split("//")[1].replace("/", "_") + ".txt")
 
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as file:
-            previous_text = file.read()
-    else:
-        previous_text = ""  # If the file doesn't exist, set previous_text as an empty string
+#     if os.path.exists(filename):
+#         with open(filename, "r", encoding="utf-8") as file:
+#             previous_text = file.read()
+#     else:
+#         previous_text = ""  # If the file doesn't exist, set previous_text as an empty string
 
-    # Compare the previous text with the new text
-    if previous_text == encoded_bytes:
-        # print(f"Text content from {link} is the same as the previous content. Doing nothing.")
-        return False
-    else:
-        with open(filename, "w", encoding="utf-8") as file:
-            file.write(encoded_bytes)
-        # print(f"Text content from {link} is different from the previous content. Saving new content to {filename}. You can perform some action here.")
-        return True
+#     # Compare the previous text with the new text
+#     if previous_text == encoded_bytes:
+#         # print(f"Text content from {link} is the same as the previous content. Doing nothing.")
+#         return False
+#     else:
+#         with open(filename, "w", encoding="utf-8") as file:
+#             file.write(encoded_bytes)
+#         # print(f"Text content from {link} is different from the previous content. Saving new content to {filename}. You can perform some action here.")
+#         return True
 
 
 
@@ -105,16 +105,15 @@ def decode_links(links):
 
             response = requests.get(link)
             encoded_bytes = response.content
-            if check_not_be_old_data_bytes(link,encoded_bytes):
-                decoded_text = decode_base64(encoded_bytes)
-                lines = encoded_bytes.split(b'\n')
-                if len(lines) > 1 :
-                    for line in lines:
-                        decoded_text = decode_base64(line)
-                        decoded_data.append(decoded_text)
-
-                else:
+            # if check_not_be_old_data_bytes(link,encoded_bytes):
+            decoded_text = decode_base64(encoded_bytes)
+            lines = encoded_bytes.split(b'\n')
+            if len(lines) > 1 :
+                for line in lines:
+                    decoded_text = decode_base64(line)
                     decoded_data.append(decoded_text)
+            else:
+                decoded_data.append(decoded_text)
 
         except:
             print("error for" , link)
@@ -132,8 +131,8 @@ def decode_dir_links(dir_links):
     for link in dir_links:
         response = requests.get(link)
         decoded_text = response.text
-        if check_not_be_old_data_decoded(link,decoded_text):
-            decoded_dir_links.append(decoded_text)
+        # if check_not_be_old_data_decoded(link,decoded_text):
+        decoded_dir_links.append(decoded_text)
 
     return decoded_dir_links
 

@@ -1,0 +1,8 @@
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.autos&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.autos&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#@Xen2ray💙 Pozos CR
+vless://02c2f27c-3c1c-4334-b533-3ae73020c137@190.93.246.18:2053?mode=gun&security=tls&encryption=none&alpn=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=po.GrV2ray.cfd#@Xen2ray💙 Pozos CR
+vless://9ad96239-6967-4925-8f7f-79e6b31a7906@190.93.246.18:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnReallity.Online#@Xen2ray💙 Pozos CR
+vless://9b796734-f0f4-4690-9688-d90f85eec559@190.93.247.155:2095?encryption=none&host=KingSpeedV2rayng.VPNCUSTOMIZE.online&path=%2F%3Fed%3D2048&security=none&type=ws#@Xen2ray💙 Pozos CR
+vless://4cbe996d-be71-4e96-f1c3-8af2430396d3@190.93.247.155:8443?encryption=none&host=tm.HiV2ray.cfd&path=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2%3Fed%3D2048&security=tls&sni=tm.HiV2ray.cfd&type=ws#@Xen2ray💙 Pozos CR
+vless://ec2ce9ef-8181-47a9-8ccc-db58bd88c642@190.93.246.241:8443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&sni=Fast.zed-zoon.tech#@Xen2ray💙 Pozos CR
+vless://fb1ed176-5fec-4e4c-98d4-9e9c3ac9fcde@190.93.246.241:2096?encryption=none&mode=gun&security=tls&serviceName=%40proxy_kafee%2C%40proxy_kafee%2C%40proxy_kafee&sni=tm.AnV2ray.site&type=grpc#@Xen2ray💙 Pozos CR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#@Xen2ray💙 San José CR
