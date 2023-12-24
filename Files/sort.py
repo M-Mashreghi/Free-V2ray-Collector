@@ -79,15 +79,15 @@ def sort():
     ssr_list = []
     new_configs = []
     cleaned_lines = []
-    try:
-        output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
-        file_name = "All_shuffled_config.txt"
-        full_file_path = os.path.join(output_folder, file_name)
-        with open(full_file_path, 'r+', encoding='utf-8') as file:
-           # Read all lines from the file into a list
-          cleaned_lines = file.readlines()
-    except:
-        print("file not found")
+    # try:
+    #     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    #     file_name = "All_shuffled_config.txt"
+    #     full_file_path = os.path.join(output_folder, file_name)
+    #     with open(full_file_path, 'r+', encoding='utf-8') as file:
+    #        # Read all lines from the file into a list
+    #       cleaned_lines = file.readlines()
+    # except:
+    #     print("file not found")
 
     output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     file_name = "All_Configs_Sub.txt"
@@ -99,7 +99,8 @@ def sort():
             
     for config in tqdm(line):
         new_configs.append(replace_name_1(config))
-    all_config = new_configs + cleaned_lines
+    # all_config = new_configs + cleaned_lines
+    all_config = new_configs
     all_config = list(set(all_config))
     for config in tqdm(all_config):
         try:

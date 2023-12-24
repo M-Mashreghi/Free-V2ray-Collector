@@ -9,6 +9,7 @@ import base64
 import flag
 import time
 
+from seperate_config_country import seperate_by_country
 from Run import Update
 def generate_urls(base_url_format):
     current_date = datetime.datetime.now()
@@ -217,6 +218,7 @@ def main():
     save_config.save_data(merged_configs)
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
+    seperate_by_country()
     Update()
 
 
