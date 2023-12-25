@@ -1,12 +1,8 @@
-trojan://56075693-634d-322b-bea7-fb4c038c33cf@193.123.82.85:13596?security=tls&sni=freedb02.jd0001.top&type=grpc&serviceName=freedb02#@Xen2ray💙 Dubai AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:802#@Xen2ray💙 Sharjah AE
-trojan://df285431-91b0-3e85-bc0b-6be1f4cabdca@193.123.82.85:16146?security=tls&sni=freedb02.jd0001.top&type=grpc&serviceName=freedb02#@Xen2ray💙 Dubai AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:805#@Xen2ray💙 Sharjah AE
 trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@jp1117.ljydw.top:80?security=tls&sni=jp1117.ljydw.top#@Xen2ray💙 Dubai AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:809#@Xen2ray💙 Sharjah AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:806#@Xen2ray💙 Sharjah AE
-trojan://2e0cb061-2d9c-412e-aa8b-f35aa3aa00c3@94.140.0.203:443?security=tls&sni=k5jp1.yfjc.sbs&type=ws&path=/yfjc/kjp1&Host=k5jp1.yfjc.sbs#@Xen2ray💙 Abu Dhabi AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:801#@Xen2ray💙 Sharjah AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:805#@Xen2ray💙 Sharjah AE
 trojan://e6450940-62d5-33c6-8791-142122245d13@193.123.82.85:17351?security=tls&sni=freedb02.jd0001.top&type=grpc&serviceName=freedb02#@Xen2ray💙 Dubai AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:810#@Xen2ray💙 Sharjah AE
 trojan://your_password@3.29.95.54:443?security=tls&sni=aws-uae-1.f1rocketnode.com#@Xen2ray💙 Dubai AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:806#@Xen2ray💙 Sharjah AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:810#@Xen2ray💙 Sharjah AE
+trojan://2e0cb061-2d9c-412e-aa8b-f35aa3aa00c3@94.140.0.203:443?security=tls&sni=k5jp1.yfjc.sbs&type=ws&path=/yfjc/kjp1&Host=k5jp1.yfjc.sbs#@Xen2ray💙 Abu Dhabi AE
