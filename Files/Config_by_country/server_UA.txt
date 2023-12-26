@@ -1,5 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMUlaZGFDQ2RHOGxWT2JxdDRYYzBXd2xBS3drVWZEbVBtMnI4SU94U29pNTdNbHk@176.103.61.162:51348#@Xen2ray💙 Kharkiv UA
-vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@195.137.167.101:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=%40vipv2rey%40vipv2rey%40vipv2rey#@Xen2ray💙 Kyiv UA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#@Xen2ray💙 Kharkiv UA
+vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YWZSaENnVzd1ZDRLZ3ZkUzNHMm1kbTU2ZEhwVVBsSlY3VWJ5dTZXNHZkSjV3MGc@176.103.61.162:51348#@Xen2ray💙 Kharkiv UA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
