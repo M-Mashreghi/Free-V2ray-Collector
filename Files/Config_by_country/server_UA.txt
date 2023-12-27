@@ -1,8 +1,8 @@
-vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3eU9EUkRCWDhqV2NxUHJ5Z2oxUm5FSEpmUGNEMUxFQU9iNHlTN0lFMmdWT05QOW8@193.0.61.96:51348#@Xen2ray💙 Mena UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YWZSaENnVzd1ZDRLZ3ZkUzNHMm1kbTU2ZEhwVVBsSlY3VWJ5dTZXNHZkSjV3MGc@176.103.61.162:51348#@Xen2ray💙 Kharkiv UA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBelhDVFg0cnVQWHpkUWJXbVJvVVo2V2VVSlpMa2ppWkk3dkl0R0lka3c0U1dWWjU@31.172.65.242:51348#@Xen2ray💙 Kyiv UA
+vless://34c8cf3e-32cd-4ead-b5de-d50bad50d971@45.137.155.49:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=grpc&path=%2F&allowInsecure=1#@Xen2ray💙 Kyiv UA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpic1FWTVVlUWFrWVRWUHFrYllza3hsTWR6cWEzaHdNbWFNclNsS0lMNU9OTldtUUs@194.38.23.137:51348#@Xen2ray💙 Dnipro UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOHNEOTExckpKeVh1ZlU4SUVxUVM5OGdsYzRhb1ZkTXp1QkVOeENxWERsdFJiUng@217.12.223.190:51348#@Xen2ray💙 Kharkiv UA
+vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3eU9EUkRCWDhqV2NxUHJ5Z2oxUm5FSEpmUGNEMUxFQU9iNHlTN0lFMmdWT05QOW8@193.0.61.96:51348#@Xen2ray💙 Mena UA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#@Xen2ray💙 Kharkiv UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOHNEOTExckpKeVh1ZlU4SUVxUVM5OGdsYzRhb1ZkTXp1QkVOeENxWERsdFJiUng@217.12.223.190:51348#@Xen2ray💙 Kharkiv UA

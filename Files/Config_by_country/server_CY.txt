@@ -1,2 +1,1 @@
-vless://1f6f405b-cf72-4b05-8cc3-3b794e25c3fc@195.85.59.87:443?security=tls&sni=finland.boxgs.online&type=grpc&serviceName=%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN&fp=chrome#@Xen2ray💙 Kato Lakatameia CY
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#@Xen2ray💙 Nicosia CY
