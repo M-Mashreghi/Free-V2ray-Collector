@@ -1,6 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob2M2N0hHRjY4SGVzdWpsaWQ=@93.170.73.59:51348#@Xen2ray💙 Almaty KZ
-vless://dbb86ee0-b8a4-4daf-93fa-9819e4467de9@94.131.2.150:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=grpc&path=%2F&allowInsecure=1#@Xen2ray💙 Almaty KZ
-vless://dbb86ee0-b8a4-4daf-93fa-9819e4467de9@94.131.2.150:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2Fvless&allowInsecure=1#@Xen2ray💙 Almaty KZ
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.176.26.23:443?security=tls&sni=httpswwwqmbir.oskar4-224.workers.dev&type=ws&host=httpswwwqmbir.oskar4-224.workers.dev&path=%2F&fp=chrome#@Xen2ray💙 Almaty KZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob2M2N0hHRjY4SGVzdWpsaWQ@93.170.73.59:51348#@Xen2ray💙 Almaty KZ
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#@Xen2ray💙 Almaty KZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBR3I1Nkc2NUdGZ2w3cGhvYk1vaXRz@93.170.73.104:51348#@Xen2ray💙 Almaty KZ
