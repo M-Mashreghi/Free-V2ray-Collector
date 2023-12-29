@@ -1,1 +1,3 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#@Xen2ray💙 Nicosia CY
+vless://407a96a7-7120-493e-b4dd-0eaaa19a568b@195.85.59.177:2053?security=tls&sni=mci.hamrahdomains.lol&type=ws&host=mci.hamrahdomains.lol&path=%2F#@Xen2ray💙 Kato Lakatameia CY
+vless://fd80f56e-93f3-4c85-b2a8-c77216c509a7@195.85.59.161:2052?type=ws&host=asia.tunn.free.hr&path=%2Fvls%3Fed%3D2048#@Xen2ray💙 Kato Lakatameia CY
