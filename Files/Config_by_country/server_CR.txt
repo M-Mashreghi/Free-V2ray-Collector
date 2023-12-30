@@ -1,8 +1,9 @@
-vless://8a8bfbad-e6ef-4776-d62c-e790c3da5683@190.93.247.155:2087?alpn=%40bored_vpn%2C%40bored_vpn&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2&sni=mt.AntiV2ray.site&type=grpc#@Xen2ray💙 Pozos CR
+vless://CONFIG@190.93.247.155:443?alpn=h2&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=%E2%80%8C+%40VPNCUSTOMIZE+%E2%80%8C&sni=FreeV2rayng.VPNCUSTOMIZE.tech&type=grpc#@Xen2ray💙 Pozos CR
 vless://3aca12a0-2b75-45e7-bc2a-45ae0f1319fe@190.93.246.241:8080?encryption=none&host=Liv2ray.p-lightning6.cfd&path=%2F%40LIGHTNING6&security=none&type=ws#@Xen2ray💙 Pozos CR
-vless://32b8f48b-4193-4dfa-9bbb-e714ea38bf6f@190.93.246.241:2087?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ipV2Ray&sni=tm.ipV2Ray.fun&type=grpc#@Xen2ray💙 Pozos CR
-vless://dcc5daa8-0df1-415a-87fa-f00ed3ec101b@190.93.246.241:2096?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ipV2Ray&sni=fm.ipV2Ray.fun&type=grpc#@Xen2ray💙 Pozos CR
-vless://beb47747-5ec2-4971-fb01-c1a0a516490f@190.93.246.219:8443?security=tls&sni=fn.AnV2ray.site&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2&alpn=%40TEHRANARGO%2C%40TEHRANARGO%2C%40TEHRANARGO%2C%40TEHRANARGO%2C%40TEHRANARGO%2C%40TEHRANARGO%2C%40TEHRANARGO#@Xen2ray💙 Pozos CR
+vless://9ad96239-6967-4925-8f7f-79e6b31a7906@190.93.246.18:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnReallity.Online#@Xen2ray💙 Pozos CR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989#@Xen2ray💙 San José CR
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#@Xen2ray💙 Pozos CR
-vless://9ad96239-6967-4925-8f7f-79e6b31a7906@190.93.246.18:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnReallity.Online#@Xen2ray💙 Pozos CR
+vless://b7a9102b-2036-45ad-a929-bd7af37e561c@190.93.246.18:443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=%2F#@Xen2ray💙 Pozos CR
+vless://ec2ce9ef-8181-47a9-8ccc-db58bd88c642@190.93.246.241:8443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&sni=Fast.zed-zoon.tech#@Xen2ray💙 Pozos CR
+vless://ef9e70de-6792-4251-8f5c-91ff37f131ea@190.93.246.241:2096?encryption=none&fp=chrome&host=fx-alpha.nv10.sbs&path=Telegram%3A+%40V2ray_Alpha&security=tls&sni=fx-alpha.nv10.sbs&type=ws#@Xen2ray💙 Pozos CR
+vless://2d05d847-8b9d-44c9-bdc6-6beaa649c26f@190.93.246.241:2082?encryption=none&host=hamrah.academiwollf.sbs&path=%2F%3Fed%3D2048&security=none&type=ws#@Xen2ray💙 Pozos CR
