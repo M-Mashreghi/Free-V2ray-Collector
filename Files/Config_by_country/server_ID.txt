@@ -1,6 +1,5 @@
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Xen2ray💙 Medan ID
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Xen2ray💙 Jakarta ID
 trojan://idc117okt@103.226.139.201:443?security=tls#@Xen2ray💙 Cicurug ID
-vless://ef0936b9-c866-4659-b3ab-097066622461@172.232.251.166:443?security=tls&sni=id-full.privateip.net&type=ws&path=%2Fvless&allowInsecure=1#@Xen2ray💙 Jakarta ID
-trojan://idc117okt@103.176.78.153:443?security=tls#@Xen2ray💙 Cicurug ID
 trojan://vvip-periantara@id3tr.jagoan.vip:443?security=tls&sni=id3tr.jagoan.vip#@Xen2ray💙 Medan ID
+trojan://idc117okt@103.176.78.153:443?security=tls#@Xen2ray💙 Cicurug ID

@@ -1,10 +1,9 @@
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?encryption=none&security=none&type=tcp&headerType=http#@Xen2ray💙 Bern CH
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@84.17.53.163:110#@Xen2ray💙 Zurich CH
 vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80/?encryption=none&host=internet.life.com.by&type=tcp&headerType=http#@Xen2ray💙 Bern CH
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#@Xen2ray💙 Zurich CH
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#@Xen2ray💙 Zurich CH
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@84.17.53.163:110#@Xen2ray💙 Zurich CH
+vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?encryption=none&headerType=http&security=none&type=tcp#@Xen2ray💙 Bern CH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMHJ5NTZYMkF4ZkZnY2dJN3NIRFdE@94.131.12.58:26669#@Xen2ray💙 Bern CH
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#@Xen2ray💙 Zurich CH
 vless://91273d10-3ea5-4d99-9697-2d9135b3ce43@185.12.7.33:57530?security=none&encryption=none&headerType=none&type=tcp#@Xen2ray💙 Zurich CH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSzRKMXNSdDJ2M2RMRFVWQzJQNWxq@94.131.12.245:37726#@Xen2ray💙 Bern CH
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?encryption=none&headerType=http&security=none&type=tcp#@Xen2ray💙 Bern CH
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#@Xen2ray💙 Zurich CH
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#@Xen2ray💙 Zurich CH

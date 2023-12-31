@@ -1,2 +1,2 @@
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=%40vipv2rey%40vipv2rey%40vipv2rey#@Xen2ray💙 Vilnius LT
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#@Xen2ray💙 Vilnius LT
+vless://2b30aad7-fc12-4530-87bb-3f55936239fb@89.116.250.14:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#@Xen2ray💙 Vilnius LT
