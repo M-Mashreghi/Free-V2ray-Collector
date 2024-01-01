@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYXRkR0ZlNExrTU43MTBhSGVkeQ==@85.239.52.174:51348#@Xen2ray💙 Atlanta GE
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.65:7001#@Xen2ray💙 Atlanta GE
-vless://d0cf4930-7dbf-4607-b930-dc05eda72901@23.94.48.229:6326?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C5Ot4nQBJMxk2DKCe3JTSqcithC9IHVSnixotp4VUVk&security=reality&sni=www.pcmag.com&type=tcp#@Xen2ray💙 Atlanta GE
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#@Xen2ray💙 Atlanta GE
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:8080#@Xen2ray💙 Atlanta GE
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:5500#@Xen2ray💙 Atlanta GE
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#@Xen2ray💙 Atlanta GE
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.63.79:8090#@Xen2ray💙 Atlanta GE
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#@Xen2ray💙 Atlanta GE
