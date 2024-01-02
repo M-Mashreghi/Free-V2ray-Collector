@@ -1,1 +1,2 @@
+vless://343bfa7f-9e9b-4263-a7d9-9b8253e3173a@186.233.118.171:8888?security=none&type=ws&host=br8.redbullplus.xyz&path=%2Fredbullvpns#@Xen2ray💙 Barra da Tijuca BR
 vless://97fa0486-400c-4da2-a61e-cf68f82f88c7@172.233.15.250:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=pNpRrx3XfjXdlQY-6OKyYuvDhhX57FiVDZNVvBoyKBU&sid=96306603&type=grpc&encryption=none#@Xen2ray💙 São Paulo BR

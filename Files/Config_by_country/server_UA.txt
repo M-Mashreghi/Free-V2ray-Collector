@@ -1,10 +1,8 @@
-vless://4487a8d0-17bd-4e38-83d0-d3cb8e474646@45.137.155.49:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2Fvless&allowInsecure=1#@Xen2ray💙 Kyiv UA
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.152.44.250:443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&path=%2F%3Fed#@Xen2ray💙 Kyiv UA
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Ymx3UWpjRU54NFVlNGd5UjNYNjVIRTR0aXEyN3NGSDJobWhiUXU4bTFCbXVJNjQ@176.103.61.162:51348#@Xen2ray💙 Kharkiv UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSekRyNUlXUnloSXpzdVRsY2dPTEh2MDJJVUZLRldHTHlCekQwdXY4NUpoZm1tbmU@31.172.65.242:51348#@Xen2ray💙 Kyiv UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbTVSZEkzY1JzREQ2TFlmczlXUU8xMDA3a0ZzWnJIQk9VMGZ6T1RYYlR5aWRHWG0@217.12.223.190:51348#@Xen2ray💙 Kharkiv UA
-vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RjA1QmE2QUYxdUJ6RU1sZGN6SnpTWm15WnFwTGZpbE9pTzFJTmwxT3NtUERzMzA@194.38.23.137:51348#@Xen2ray💙 Dnipro UA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#@Xen2ray💙 Kharkiv UA
-trojan://fe6e325a-4811-4be8-b31c-6cf1f4846eea@ua-full.privateip.net:443?security=tls#@Xen2ray💙 Kyiv UA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
+vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
+vless://4487a8d0-17bd-4e38-83d0-d3cb8e474646@45.137.155.49:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2Fvless&allowInsecure=1#@Xen2ray💙 Kyiv UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbTVSZEkzY1JzREQ2TFlmczlXUU8xMDA3a0ZzWnJIQk9VMGZ6T1RYYlR5aWRHWG0@217.12.223.190:51348#@Xen2ray💙 Kharkiv UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSekRyNUlXUnloSXpzdVRsY2dPTEh2MDJJVUZLRldHTHlCekQwdXY4NUpoZm1tbmU@31.172.65.242:51348#@Xen2ray💙 Kyiv UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RjA1QmE2QUYxdUJ6RU1sZGN6SnpTWm15WnFwTGZpbE9pTzFJTmwxT3NtUERzMzA@194.38.23.137:51348#@Xen2ray💙 Dnipro UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Ymx3UWpjRU54NFVlNGd5UjNYNjVIRTR0aXEyN3NGSDJobWhiUXU4bTFCbXVJNjQ@176.103.61.162:51348#@Xen2ray💙 Kharkiv UA
