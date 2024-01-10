@@ -1,11 +1,4 @@
-trojan://ad9a59fe-b588-47ae-b55a-634ac0eeea79@sg4.421421.xyz:20230?allowInsecure=0&peer=421421.xyz&sni=421421.xyz#@Xen2ray💙 Milan IT
-vless://b9af3249-3b29-4218-88bb-b84c1d9c3a79@185.247.184.34:25365?mode=gun&security=reality&encryption=none&pbk=_n6NHbwAWtq89OjJNkRI2wvFySLv6eDWpYkzaiW5MmE&fp=chrome&spx=%2F&type=grpc&serviceName=TELEGRAM%3A%40ZEDMODEON%2CTELEGRAM%3A%40ZEDMODEON%2CTELEGRAM%3A%40ZEDMODEON%2CTELEGRAM%3A%40ZEDMODEON&sni=sourceforge.net&sid=1e9186bf#@Xen2ray💙 Milan IT
-ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#@Xen2ray💙 Rome IT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMXdCZ0NJVjMyOXF0NzdJRnZERUdF@beeconf.xyz:8080#@Xen2ray💙 Milan IT
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Rome IT
-trojan://ad9a59fe-b588-47ae-b55a-634ac0eeea79@jp6.421421.xyz:20230?allowInsecure=0&peer=421421.xyz&sni=421421.xyz#@Xen2ray💙 Milan IT
-trojan://cf59b41b-6ffc-4c95-9caf-7a772ffd88d1@it-full.privateip.net:443?security=tls#@Xen2ray💙 Milan IT
+vless://b9af3249-3b29-4218-88bb-b84c1d9c3a79@185.247.184.34:25365?mode=gun&security=reality&encryption=none&pbk=_n6NHbwAWtq89OjJNkRI2wvFySLv6eDWpYkzaiW5MmE&fp=chrome&spx=%2F&type=grpc&serviceName=TELEGRAM%3A%40ZEDMODEON%2CTELEGRAM%3A%40ZEDMODEON%2CTELEGRAM%3A%40ZEDMODEON%2CTELEGRAM%3A%40ZEDMODEON&sni=sourceforge.net&sid=1e9186bf#@Xen2ray💙 Milan IT
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#@Xen2ray💙 Rome IT
-vless://1ec7a09f-76aa-47b1-a381-549523089949@172.232.208.169:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2FVLESS&allowInsecure=1#@Xen2ray💙 Milan IT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@beeconf.xyz:8080#@Xen2ray💙 Milan IT
-vless://d41f9cfb-9610-49bf-a07f-56fd43c54f1f@45.82.101.8:80?security=none&type=ws&host=alwaysconnect.ddns.net&path=%2Falwaysconnect#@Xen2ray💙 Milan IT
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#@Xen2ray💙 Rome IT
