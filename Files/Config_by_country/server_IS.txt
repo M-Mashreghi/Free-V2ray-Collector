@@ -1,4 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#@Xen2ray💙 Hafnarfjordur IS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.162:989#@Xen2ray💙 Hafnarfjordur IS
-vless://37a250a7-0d13-4c40-80a0-e980535c23b8@89.221.224.13:80?security=none&type=ws&host=is3-vless.sshmax.xyz&path=%2Fvless#@Xen2ray💙 Keflavík IS
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz#@Xen2ray💙 Keflavík IS
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@is2-t.sshmax.xyz:443?security=tls&sni=is2-t.sshmax.xyz&type=ws&host=is2-t.sshmax.xyz&path=%2F#@Xen2ray💙 Keflavík IS
+vless://37a250a7-0d13-4c40-80a0-e980535c23b8@89.221.224.13:80?security=none&type=ws&host=is3-vless.sshmax.xyz&path=%2Fvless#@Xen2ray💙 Keflavík IS
