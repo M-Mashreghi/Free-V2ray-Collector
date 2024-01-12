@@ -1,1 +1,2 @@
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@89.116.250.27:443?security=tls&sni=3k.pureboy.eu.org&type=ws&path=%2F%3Fed&fp=chrome#@Xen2ray💙 Vilnius LT
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#@Xen2ray💙 Vilnius LT
