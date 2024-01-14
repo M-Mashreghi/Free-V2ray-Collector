@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
-vless://4487a8d0-17bd-4e38-83d0-d3cb8e474646@45.137.155.49:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=grpc&path=%2F&allowInsecure=1#@Xen2ray💙 Kyiv UA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#@Xen2ray💙 Kharkiv UA
-vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
 vless://4487a8d0-17bd-4e38-83d0-d3cb8e474646@45.137.155.49:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2Fvless&allowInsecure=1#@Xen2ray💙 Kyiv UA
+vless://4487a8d0-17bd-4e38-83d0-d3cb8e474646@45.137.155.49:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=grpc&path=%2F&allowInsecure=1#@Xen2ray💙 Kyiv UA
+vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Kyiv UA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#@Xen2ray💙 Kyiv UA
