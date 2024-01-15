@@ -1,7 +1,6 @@
-trojan://3869cf51-5c65-4dac-a4ef-33e49b6ebb4b@jp4.421421.xyz:20230?security=tls&sni=421421.xyz#@Xen2ray💙 Milan IT
-vless://c626ae39-f34f-481a-8bca-07bc83069e07@172.232.193.67:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2F&allowInsecure=1#@Xen2ray💙 Milan IT
 ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#@Xen2ray💙 Rome IT
-vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Rome IT
 trojan://3d442d21-4351-49b3-ab82-1107ec28124e@it-full.privateip.net:443?security=tls#@Xen2ray💙 Milan IT
-vless://c626ae39-f34f-481a-8bca-07bc83069e07@172.232.193.67:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2FVLESS&allowInsecure=1#@Xen2ray💙 Milan IT
+vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Rome IT
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#@Xen2ray💙 Rome IT
+vless://c626ae39-f34f-481a-8bca-07bc83069e07@172.232.193.67:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2F&allowInsecure=1#@Xen2ray💙 Milan IT
+vless://c626ae39-f34f-481a-8bca-07bc83069e07@172.232.193.67:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2FVLESS&allowInsecure=1#@Xen2ray💙 Milan IT
