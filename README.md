@@ -62,7 +62,7 @@ ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/free-config-collect
 
 🌐 We have also divided the configuration based on their respective locations. Here are some locations for usage:
 
-Australia 🇦🇺: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_AU.txt
+Australia 🇦🇺 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_AU.txt
 
 Canada 🇨🇦: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_CA.txt
 
