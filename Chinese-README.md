@@ -1,9 +1,9 @@
 # 🔒 免费的 V2ray 配置 🌐
 💻 这个仓库包含了一系列免费的 V2ray 配置文件，你可以在你的 V2ray 客户端中使用它们来安全、匿名地访问互联网。
 
-[ورژن فارسی](https://github.com/M-Mashreghi/free-config-collector/blob/main/Persian-README.md) | [English Version](https://github.com/M-Mashreghi/free-config-collector)
+[ورژن فارسی](https://github.com/M-Mashreghi/Free-V2ray-Collector/blob/main/Persian-README.md) | [English Version](https://github.com/M-Mashreghi/Free-V2ray-Collector)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/M-Mashreghi/free-config-collector.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/M-Mashreghi/free-config-collector.svg)](https://github.com/M-Mashreghi/free-config-collector/stargazers) [![Update Configs](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml/badge.svg)](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/M-Mashreghi/free-config-collector) [![CodeFactor](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector/badge)](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector) 
+![GitHub last commit](https://img.shields.io/github/last-commit/M-Mashreghi/Free-V2ray-Collector.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/M-Mashreghi/Free-V2ray-Collector.svg)](https://github.com/M-Mashreghi/Free-V2ray-Collector/stargazers) [![Update Configs](https://github.com/M-Mashreghi/Free-V2ray-Collector/actions/workflows/python-app.yml/badge.svg)](https://github.com/M-Mashreghi/Free-V2ray-Collector/actions/workflows/python-app.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/M-Mashreghi/Free-V2ray-Collector) [![CodeFactor](https://www.codefactor.io/repository/github/M-Mashreghi/Free-V2ray-Collector/badge)](https://www.codefactor.io/repository/github/M-Mashreghi/Free-V2ray-Collector) 
 
 
 
@@ -12,37 +12,37 @@
 
 Just Copy these links to your client to use :
 
-Subscription 1 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub1_shuffled.conf
+Subscription 1 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub1_shuffled.conf
 
-Subscription 2 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub2_shuffled.conf
+Subscription 2 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub2_shuffled.conf
 
-Subscription 3 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub3_shuffled.conf
+Subscription 3 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub3_shuffled.conf
 
-Subscription 4 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub4_shuffled.conf
+Subscription 4 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub4_shuffled.conf
 
-Subscription 5 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub5_shuffled.conf
+Subscription 5 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub5_shuffled.conf
 
-Subscription 6 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub6_shuffled.conf
+Subscription 6 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub6_shuffled.conf
 
-Subscription 7 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub7_shuffled.conf
+Subscription 7 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub7_shuffled.conf
 
-Subscription 8 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub8_shuffled.conf
+Subscription 8 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub8_shuffled.conf
 
-Subscription 9 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub9_shuffled.conf
+Subscription 9 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub9_shuffled.conf
 
-Subscription 10 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub10_shuffled.conf
+Subscription 10 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub10_shuffled.conf
 
-Subscription 11 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub11_shuffled.conf
+Subscription 11 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub11_shuffled.conf
 
-Subscription 12 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub12_shuffled.conf
+Subscription 12 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub12_shuffled.conf
 
-Subscription 13 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub13_shuffled.conf
+Subscription 13 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub13_shuffled.conf
 
-Subscription 14 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub14_shuffled.conf
+Subscription 14 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub14_shuffled.conf
 
-Subscription 15 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub15_shuffled.conf
+Subscription 15 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub15_shuffled.conf
 
-Subscription 16 : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/shuffle/Sub16_shuffled.conf
+Subscription 16 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub16_shuffled.conf
 
 
 
@@ -50,15 +50,15 @@ Subscription 16 : https://raw.githubusercontent.com/M-Mashreghi/free-config-coll
 
 🗂️ 为了更方便地管理配置，我们将配置文件拆分为每个协议的单独文件，并将它们添加到 Splitted 文件夹中。以下是访问分离配置的简单方法：
 
-Vmess : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/vmess.txt
+Vmess : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Splitted-By-Protocol/vmess.txt
 
-Vless : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/vless.txt
+Vless : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Splitted-By-Protocol/vless.txt
 
-Trojan : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/trojan.txt
+Trojan : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Splitted-By-Protocol/trojan.txt
 
-ShadowSocks : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/ss.txt
+ShadowSocks : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Splitted-By-Protocol/ss.txt
 
-ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/ssr.txt
+ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Splitted-By-Protocol/ssr.txt
 
 ℹ️ 此外，我们创建了一个 Wiki 页面，详细介绍如何在不同的操作系统上设置 V2ray。欢迎访问我们的 Wiki 获取更多信息。
 
