@@ -1,8 +1,8 @@
 # 🔒 Free V2ray Config 🌐
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
-
-[ورژن فارسی](https://github.com/M-Mashreghi/free-config-collector/main/Persian-README.md) | [中文版](https://github.com/M-Mashreghi/free-config-collector/main/Chinese-README.md)
 <!--
+[ورژن فارسی](https://github.com/M-Mashreghi/free-config-collector/main/Persian-README.md) | [中文版](https://github.com/M-Mashreghi/free-config-collector/main/Chinese-README.md)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/M-Mashreghi/free-config-collector.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/M-Mashreghi/free-config-collector.svg)](https://github.com/M-Mashreghi/free-config-collector/stargazers) [![Update Configs](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml/badge.svg)](https://github.com/M-Mashreghi/free-config-collector/actions/workflows/python-app.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/M-Mashreghi/free-config-collector) [![CodeFactor](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector/badge)](https://www.codefactor.io/repository/github/M-Mashreghi/free-config-collector) 
 -->
 
@@ -59,6 +59,38 @@ Trojan : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/mai
 ShadowSocks : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/ss.txt
 
 ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Splitted-By-Protocol/ssr.txt
+
+🌐 We have also divided the configuration based on their respective locations. Here are some locations for usage:
+
+Australia 🇦🇺: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_AU.txt
+
+Canada 🇨🇦: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_CA.txt
+
+China 🇨🇳: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_CN.txt
+
+Germany 🇩🇪: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_DE.txt
+
+Finland 🇫🇮: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_FI.txt
+
+France 🇫🇷: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_FR.txt
+
+United Kingdom 🇬🇧: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_GB.txt
+
+Hong Kong 🇭🇰: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_HK.txt
+
+Japan 🇯🇵: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_JP.txt
+
+Netherlands 🇳🇱: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_NL.txt
+
+Poland 🇵🇱: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_PL.txt
+
+Sweden 🇸🇪: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_SE.txt
+
+Singapore 🇸🇬: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_SG.txt
+
+United States 🇺🇸: https://raw.githubusercontent.com/M-Mashreghi/free-config-collector/main/Files/Config_by_country/server_US.txt
+
+
 
 ℹ️ Additionally, we have created a Wiki with detailed instructions on how to set up V2ray on different operating systems. Visit our Wiki for more information.
 
