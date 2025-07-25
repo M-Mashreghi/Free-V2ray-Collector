@@ -1,0 +1,7 @@
+trojan://ttfang@20.235.105.146:443?security=tls&sni=ttfang.fange.me&type=ws&path=/&Host=ttfang.fange.me#@Xen2ray💙 Pune IN
+trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#@Xen2ray💙 Hyderabad IN
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#@Xen2ray💙 Hyderabad IN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#@Xen2ray💙 Mumbai IN
+trojan://ttfang@20.235.105.146:443?security=tls&sni=ttfang.fange.me&type=ws&path=/&Host=ttfang.fange.me&fp=chrome&allowInsecure=1#@Xen2ray💙 Pune IN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@43.204.29.0:805#@Xen2ray💙 Mumbai IN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#@Xen2ray💙 Bengaluru IN

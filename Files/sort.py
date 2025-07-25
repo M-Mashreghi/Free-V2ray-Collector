@@ -52,14 +52,29 @@ def replace_name_1(url):
         return None
     
 
+def ensure_directory_exists(file_path):
+    """Ensure the directory exists for file storage"""
+    dir_name = os.path.dirname(file_path)
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
+
+
+
 
 def sort():
     ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
-    vmess_file = os.path.join(ptt, 'Splitted-By-Protocol/vmess.txt')
+    vmess_file = os.path.join(ptt, r"Splitted-By-Protocol/vmess.txt")
     vless_file = os.path.join(ptt, 'Splitted-By-Protocol/vless.txt')
     trojan_file = os.path.join(ptt, 'Splitted-By-Protocol/trojan.txt')
     ss_file = os.path.join(ptt, 'Splitted-By-Protocol/ss.txt')
     ssr_file = os.path.join(ptt, 'Splitted-By-Protocol/ssr.txt')
+    # Ensure directories exist
+    ensure_directory_exists(vmess_file)
+    ensure_directory_exists(vless_file)
+    ensure_directory_exists(trojan_file)
+    ensure_directory_exists(ss_file)
+    ensure_directory_exists(ssr_file)
+
 
     open(vmess_file, "w").close()
     open(vless_file, "w").close()

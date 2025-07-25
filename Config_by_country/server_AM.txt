@@ -1,0 +1,5 @@
+trojan://Aimer@188.164.159.214:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&path=/&Host=epmk.ambercc.filegear-sg.me#@Xen2ray💙 Yerevan AM
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me#@Xen2ray💙 Yerevan AM
+trojan://Aimer@188.164.159.185:8443?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me#@Xen2ray💙 Yerevan AM
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me&fp=chrome&allowInsecure=1#@Xen2ray💙 Yerevan AM
+trojan://Aimer@188.164.159.98:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&path=/&Host=epmk.ambercc.filegear-sg.me#@Xen2ray💙 Yerevan AM

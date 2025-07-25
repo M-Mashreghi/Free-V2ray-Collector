@@ -1,0 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#@Xen2ray💙 Jakarta ID
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Xen2ray💙 Jakarta ID
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me#@Xen2ray💙 Medan ID
+trojan://idc117okt@103.226.139.201:443?security=tls#@Xen2ray💙 Cicurug ID
+trojan://idc117okt@103.176.78.153:443?security=tls#@Xen2ray💙 Cicurug ID
+trojan://Aimer@46.254.93.243:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&path=/&Host=epmk.ambercc.filegear-sg.me#@Xen2ray💙 Medan ID
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Xen2ray💙 Medan ID

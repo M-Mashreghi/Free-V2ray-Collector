@@ -8,6 +8,7 @@ import save_config
 import base64
 import flag
 import time
+from helpers import safe_get
 
 from seperate_config_country import seperate_by_country
 from Run import Update
@@ -94,48 +95,87 @@ def generate_v2ray_configs(decoded_data):
 #             file.write(encoded_bytes)
 #         # print(f"Text content from {link} is different from the previous content. Saving new content to {filename}. You can perform some action here.")
 #         return True
-
-
-
 def decode_links(links):
-
     decoded_data = []
-
     for link in links:
-        try:
+        resp = safe_get(link)
+        if not resp:
+            print("error for", link)
+            continue
 
-            response = requests.get(link)
-            encoded_bytes = response.content
-            # if check_not_be_old_data_bytes(link,encoded_bytes):
-            decoded_text = decode_base64(encoded_bytes)
-            lines = encoded_bytes.split(b'\n')
-            if len(lines) > 1 :
-                for line in lines:
-                    decoded_text = decode_base64(line)
-                    decoded_data.append(decoded_text)
-            else:
+        encoded_bytes = resp.content
+        # if check_not_be_old_data_bytes(link,encoded_bytes):
+        decoded_text = decode_base64(encoded_bytes)
+        lines = encoded_bytes.split(b'\n')
+        if len(lines) > 1 :
+            for line in lines:
+                decoded_text = decode_base64(line)
                 decoded_data.append(decoded_text)
+        else:
+            decoded_data.append(decoded_text)
 
-        except:
-            print("error for" , link)
 
     sorted_configs = generate_v2ray_configs(decoded_data)
 
     return sorted_configs
 
 
+
+
+# def decode_links(links):
+
+#     decoded_data = []
+
+#     for link in links:
+#         try:
+
+#             response = requests.get(link)
+#             encoded_bytes = response.content
+#             # if check_not_be_old_data_bytes(link,encoded_bytes):
+#             decoded_text = decode_base64(encoded_bytes)
+#             lines = encoded_bytes.split(b'\n')
+#             if len(lines) > 1 :
+#                 for line in lines:
+#                     decoded_text = decode_base64(line)
+#                     decoded_data.append(decoded_text)
+#             else:
+#                 decoded_data.append(decoded_text)
+
+#         except:
+#             print("error for" , link)
+
+#     sorted_configs = generate_v2ray_configs(decoded_data)
+
+#     return sorted_configs
+
+
+# def decode_dir_links(dir_links):
+
+
+#     decoded_dir_links = []
+
+#     for link in dir_links:
+
+#         response = requests.get(link)
+#         decoded_text = response.text
+#         # if check_not_be_old_data_decoded(link,decoded_text):
+#         decoded_dir_links.append(decoded_text)
+
+#     return decoded_dir_links
+
 def decode_dir_links(dir_links):
-
-
     decoded_dir_links = []
-
     for link in dir_links:
-        response = requests.get(link)
-        decoded_text = response.text
-        # if check_not_be_old_data_decoded(link,decoded_text):
-        decoded_dir_links.append(decoded_text)
-
+        resp = safe_get(link)
+        if not resp:
+            print("error for", link)
+            continue
+        decoded_dir_links.append(resp.text)
     return decoded_dir_links
+
+
+
+
 
 
 def main():
