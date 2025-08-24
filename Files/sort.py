@@ -226,9 +226,10 @@ def sort():
     all_config = list(set(new_configs))
     # Then: stronger de-dupe by "same server" (ignoring port/secret)
     all_config = dedupe_by_server(all_config)
-    
+
     # bucket by protocol …
     vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
+    
     for config in tqdm(all_config, desc="Sorting by protocol", unit="cfg"):
         try:
             if config.startswith("vmess://"):

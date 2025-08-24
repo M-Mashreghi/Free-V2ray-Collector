@@ -41,7 +41,7 @@ def printDeails_2(ip_address ,new_name ):
      response = requests.get(api_url)
      if response.status_code == 200:
         geolocation_data = response.json()
-        
+
         city = (geolocation_data.get("city") or "").strip()
         code_or_name = geolocation_data.get("countryCode") or geolocation_data.get("country") or ""
         flag = find_emoji(code_or_name)
@@ -83,23 +83,23 @@ def test_find_loc(ip_address, new_name):
             # print(f"printDeails_2 took {elapsed:.2f} ms for {ip_address}")
             return result
         except Exception:
-            return new_name
+            # return new_name
 
             # second attempt
-            # try:
-            #     t0 = time.perf_counter()
-            #     result = printDetails(ip_address, new_name)
-            #     elapsed = (time.perf_counter() - t0) * 1000.0
-            #     print(f"printDetails took {elapsed:.2f} ms for {ip_address}")
-            #     return result
-            # except Exception:
-            #     # fallback with DNS resolution
-            #     t0 = time.perf_counter()
-            #     ip_add = socket.gethostbyname(ip_address)
-            #     result = printDetails(ip_add, new_name)
-            #     elapsed = (time.perf_counter() - t0) * 1000.0
-            #     print(f"socket.gethostbyname + printDetails took {elapsed:.2f} ms for {ip_address}")
-            #     return result
+            try:
+                t0 = time.perf_counter()
+                result = printDetails(ip_address, new_name)
+                elapsed = (time.perf_counter() - t0) * 1000.0
+                print(f"printDetails took {elapsed:.2f} ms for {ip_address}")
+                return result
+            except Exception:
+                # fallback with DNS resolution
+                t0 = time.perf_counter()
+                ip_add = socket.gethostbyname(ip_address)
+                result = printDetails(ip_add, new_name)
+                elapsed = (time.perf_counter() - t0) * 1000.0
+                print(f"socket.gethostbyname + printDetails took {elapsed:.2f} ms for {ip_address}")
+                return result
     except Exception:
         return new_name
 
