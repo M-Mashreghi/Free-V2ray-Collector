@@ -215,6 +215,12 @@ def sort():
     with open(full_file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
+    # Remove blanks/whitespace-only lines (and optionally keep only known schemes)
+    lines = [c.strip() for c in lines if c and c.strip()]
+    # (optional) keep only valid protocols:
+    VALID = ("vmess://","vless://","trojan://","ss://","ssr://","hysteria2://")
+    lines = [c for c in lines if c.startswith(VALID)]
+
     get_loc.prefetch_geo_for_configs(lines)  # <<< add this BEFORE the tqdm "Renaming configs" loop
     # 👇 Show progress bar with tqdm
     for config in tqdm(lines, desc="Renaming configs", unit="cfg"):
@@ -230,11 +236,6 @@ def sort():
     # bucket by protocol …
     vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
 
-    # Remove blanks/whitespace-only lines (and optionally keep only known schemes)
-    all_config = [c.strip() for c in all_config if c and c.strip()]
-    # (optional) keep only valid protocols:
-    VALID = ("vmess://","vless://","trojan://","ss://","ssr://","hysteria2://")
-    all_config = [c for c in all_config if c.startswith(VALID)]
 
 
     for config in tqdm(all_config, desc="Sorting by protocol", unit="cfg"):
