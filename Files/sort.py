@@ -74,41 +74,36 @@ def ensure_directory_exists(file_path):
     if dir_name and not os.path.exists(dir_name):
         os.makedirs(dir_name)
 
-def sort():
-    # Use CURRENT working directory consistently
-    ptt = os.getcwd()
 
+def sort():
+    ptt = os.getcwd()
     vmess_file = os.path.join(ptt, "Splitted-By-Protocol/vmess.txt")
     vless_file = os.path.join(ptt, "Splitted-By-Protocol/vless.txt")
     trojan_file = os.path.join(ptt, "Splitted-By-Protocol/trojan.txt")
     ss_file = os.path.join(ptt, "Splitted-By-Protocol/ss.txt")
     ssr_file = os.path.join(ptt, "Splitted-By-Protocol/ssr.txt")
 
-    # Ensure directories exist
     for fp in (vmess_file, vless_file, trojan_file, ss_file, ssr_file):
         ensure_directory_exists(fp)
         open(fp, "w").close()
 
-
-
-    vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
     new_configs = []
 
-    # Read from CURRENT folder
     full_file_path = os.path.join(ptt, "All_Configs_Sub.txt")
     with open(full_file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    for config in lines:
+    # 👇 Show progress bar with tqdm
+    for config in tqdm(lines, desc="Renaming configs", unit="cfg"):
         cfg = replace_name_1(config.strip())
         if cfg:
             new_configs.append(cfg)
 
-    # Deduplicate
     all_config = list(set(new_configs))
 
-    # Bucket per protocol (unchanged)
-    for config in all_config:
+    # bucket by protocol …
+    vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
+    for config in tqdm(all_config, desc="Sorting by protocol", unit="cfg"):
         try:
             if config.startswith("vmess://"):
                 vmess_list.append(config)
@@ -122,6 +117,7 @@ def sort():
                 ssr_list.append(config)
         except Exception:
             pass
+
 
     vmess_list = list(set(vmess_list))
     vless_list = list(set(vless_list))
