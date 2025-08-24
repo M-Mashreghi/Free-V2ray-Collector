@@ -24,7 +24,14 @@ emoji2 = '\U0001F499'
 # find_emoji(
 def printDetails(ip,new_name):
     res = DbIpCity.get(ip, api_key="free")
-    name = new_name + res.city+ ' ' + countries.get(res.region, res.region)
+
+    city = (getattr(res, "city", "") or "").strip()
+    country_label = getattr(res, "country", None) or getattr(res, "region", "")
+    flag = find_emoji(country_label) or countries.get(country_label, country_label)
+    name = f"{new_name}{city} {flag}".strip()
+
+
+    # name = new_name + res.city+ ' ' + countries.get(res.region, res.region)
     return name
 
 def printDeails_2(ip_address ,new_name ):
@@ -32,13 +39,18 @@ def printDeails_2(ip_address ,new_name ):
      api_url = f"http://ip-api.com/json/{ip_address}"
      response = requests.get(api_url)
      if response.status_code == 200:
-         geolocation_data = response.json()
-         city = geolocation_data.get("city")
-         country = geolocation_data.get("country")
-         name = new_name  + city + ' ' + countries.get(country, country)
-         return name
+        geolocation_data = response.json()
+        city = (geolocation_data.get("city") or "").strip()
+        country = geolocation_data.get("country") or ""
+        flag = find_emoji(country) or countries.get(country, country)
+        name = f"{new_name}{city} {flag}".strip()
+
+        #  city = geolocation_data.get("city")
+        #  country = geolocation_data.get("country")
+        #  name = new_name  + city + ' ' + countries.get(country, country)
+        return name
      else:
-          raise ZeroDivisionError("This is a custom ZeroDivisionError") 
+        raise ZeroDivisionError("This is a custom ZeroDivisionError") 
 
 # def test_find_loc(ip_address,new_name):
 #     try:
