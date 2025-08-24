@@ -1,3 +1,0 @@
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#@Xen2ray💙 Dublin IE
-trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#@Xen2ray💙 Dublin IE
-trojan://telegram-id-privatevpns@34.253.98.73:22222?security=tls&encryption=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome&allowInsecure=1#@Xen2ray💙 Dublin IE

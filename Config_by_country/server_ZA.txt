@@ -1,2 +1,0 @@
-trojan://0ecc6dac-81c5-4d81-a368-6d86b763a828@212.90.123.130:443?security=tls&sni=www.download.windowsupdate1.com#@Xen2ray💙 Johannesburg ZA
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#@Xen2ray💙 Johannesburg ZA

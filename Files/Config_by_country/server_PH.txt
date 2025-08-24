@@ -1,1 +1,0 @@
-vless://ed9f9894-d439-44e4-abcf-d488752a18f2@154.83.2.90:2053?security=tls&sni=Daily_Configs.DarkMood.cfd&type=grpc&serviceName=%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs%40daily_configs&fp=chrome#@Xen2ray💙 Manila PH

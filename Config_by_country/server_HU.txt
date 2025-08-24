@@ -1,1 +1,0 @@
-trojan://Aimer@141.11.203.191:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&path=/&Host=epmk.ambercc.filegear-sg.me#@Xen2ray💙 Budapest HU
