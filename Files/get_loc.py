@@ -62,10 +62,10 @@ def test_find_loc(ip_address, new_name):
     try:
         # first attempt
         try:
-            t0 = time.perf_counter()
+            # t0 = time.perf_counter()
             result = printDeails_2(ip_address, new_name)
-            elapsed = (time.perf_counter() - t0) * 1000.0
-            print(f"printDeails_2 took {elapsed:.2f} ms for {ip_address}")
+            # elapsed = (time.perf_counter() - t0) * 1000.0
+            # print(f"printDeails_2 took {elapsed:.2f} ms for {ip_address}")
             return result
         except Exception:
             return new_name

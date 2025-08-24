@@ -1,4 +1,2 @@
-trojan://253bc477d4e43c209f2d427272968280@43.199.31.125:443?allowInsecure=1&sni=v1-dy.ixigua.com#@Xen2ray💙 Hong Kong HK
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636#@Xen2ray🧡 Tsuen Wan HK
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.139:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#@Xen2ray💚 Hong Kong HK
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12031#@Xen2ray🤍 Hong Kong HK
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.191:8388#@Xen2ray🤎 Wan Chai HK
+ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@hk1-20250813213806be3c17japantm01.tmdns-sing.top:13872#@Xen2ray💙 Hong Kong HK
