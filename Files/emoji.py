@@ -259,72 +259,55 @@ country_emojis = {
 }
 
 
+
 def _flag_from_alpha2(code: str) -> str:
     code = (code or "").strip().upper()
     if len(code) != 2 or not code.isalpha():
         return code
-    base = 0x1F1E6  # Regional Indicator 'A'
+    base = 0x1F1E6  # regional indicator 'A'
     return chr(base + ord(code[0]) - ord('A')) + chr(base + ord(code[1]) - ord('A'))
 
-# --- Build a mapping in the format you want: {"DE": "🇩🇪", "Germany": "🇩🇪", ...} ---
-country_emojis: Dict[str, str] = {}
-
-for c in pycountry.countries:
-    code = c.alpha_2
-    flag = _flag_from_alpha2(code)
-    # Map the code and common names to the flag
-    country_emojis[code] = flag
-    country_emojis[c.name] = flag
-    if getattr(c, "official_name", None):
-        country_emojis[c.official_name] = flag
-    if getattr(c, "common_name", None):
-        country_emojis[c.common_name] = flag
-
-# Handy aliases & regional names you mentioned (tweak as you like)
-country_emojis.update({
-    "USA": country_emojis["US"],
-    "United States of America": country_emojis["US"],
-    "UK": country_emojis["GB"],
-    "South Korea": country_emojis["KR"],
-    "North Korea": _flag_from_alpha2("KP"),
-    "Russia": country_emojis["RU"],
-    "Viet Nam": country_emojis["VN"],
-    "Turkey": country_emojis["TR"],
-    "Palestine": _flag_from_alpha2("PS"),
-
-    # Regions → parent country flags
-    "Bavaria": country_emojis["DE"],
-    "Hesse": country_emojis["DE"],
-    "Saxony": country_emojis["DE"],
-    "North Holland": country_emojis["NL"],
-})
-
 def find_emoji(country_or_code: str) -> str:
-    """Return flag emoji if known; otherwise return a country code fallback."""
+    """
+    Always try to return a FLAG emoji.
+    Strategy: prefer alpha-2 code -> synthesize flag. Else resolve name via pycountry.
+    """
     if not country_or_code:
         return ""
 
-    cand = {
-        country_or_code,
-        country_or_code.strip(),
-        country_or_code.strip().title(),
-        country_or_code.strip().upper(),
-    }
-    for k in cand:
-        if k in country_emojis:
-            return country_emojis[k]
+    raw = country_or_code.strip()
 
-    # Try pycountry lookup (handles names, alpha2, alpha3)
+    # If it already looks like a code, synthesize immediately
+    if len(raw) == 2 and raw.isalpha():
+        return _flag_from_alpha2(raw)
+
+    # Try to resolve any kind of name/code via pycountry
     try:
-        m = pycountry.countries.lookup(country_or_code)
-        return country_emojis.get(m.alpha_2, _flag_from_alpha2(m.alpha_2))
-    except LookupError:
+        import pycountry
+        m = pycountry.countries.lookup(raw)
+        return _flag_from_alpha2(m.alpha_2)
+    except Exception:
         pass
 
-    # If it looks like a 2-letter code, synthesize the flag even if not in dict
-    cc = country_or_code.strip().upper()
-    if len(cc) == 2 and cc.isalpha():
+    # Some common special-case names from geo APIs
+    special = {
+        "Iran, Islamic Republic of": "IR",
+        "Korea, Republic of": "KR",
+        "Korea, Democratic People's Republic of": "KP",
+        "Taiwan, Province of China": "TW",
+        "Viet Nam": "VN",
+        "Czechia": "CZ",
+        "Russian Federation": "RU",
+        "Palestine, State of": "PS",
+        "United States of America": "US",
+        "United Kingdom": "GB",
+    }
+    cc = special.get(raw) or special.get(raw.title())
+    if cc:
         return _flag_from_alpha2(cc)
 
-    # Final fallback: just return the normalized code/text
-    return cc
+    # Last resort: if user passes something like "bf" etc., still try to synthesize
+    if len(raw) == 2 and raw.isalpha():
+        return _flag_from_alpha2(raw)
+
+    return raw  # nothing else worked
