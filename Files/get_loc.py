@@ -26,8 +26,8 @@ def printDetails(ip,new_name):
     res = DbIpCity.get(ip, api_key="free")
 
     city = (getattr(res, "city", "") or "").strip()
-    country_label = getattr(res, "country", None) or getattr(res, "region", "")
-    flag = find_emoji(country_label) or countries.get(country_label, country_label)
+    country = getattr(res, "country", None) or getattr(res, "region", "")
+    flag = find_emoji(country)
     name = f"{new_name}{city} {flag}".strip()
 
 
@@ -41,8 +41,8 @@ def printDeails_2(ip_address ,new_name ):
      if response.status_code == 200:
         geolocation_data = response.json()
         city = (geolocation_data.get("city") or "").strip()
-        country = geolocation_data.get("country") or ""
-        flag = find_emoji(country) or countries.get(country, country)
+        country = geolocation_data.get("country") or geolocation_data.get("countryCode") or ""
+        flag = find_emoji(country)
         name = f"{new_name}{city} {flag}".strip()
 
         #  city = geolocation_data.get("city")
