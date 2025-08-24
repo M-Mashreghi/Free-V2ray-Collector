@@ -23,14 +23,15 @@ HEARTS = [
 ]
 
 def _new_name():
-    heart = random.choice(HEARTS)
-    # Keep it short and URL-friendly; trailing space helps readability after '#'
-    return f"@Xen2ray{heart} "
+    return f"@Xen2ray{random.choice(HEARTS)} "
+
+
 
 def replace_name_1(url: str):
     name_tag = _new_name()
     try:
         if url.startswith("vmess://"):
+            # keep your location logic for vmess
             try:
                 loc_name = get_loc.find_location_vmess(url, name_tag)
             except Exception:
@@ -58,8 +59,13 @@ def replace_name_1(url: str):
                 loc_name = name_tag
             return re.sub(r'#.*', f'#{loc_name}', url)
 
+        elif url.startswith("hysteria2://"):
+            # no dedicated locator in your code—just tag it cleanly
+            return re.sub(r'#.*', f'#{name_tag}', url) if '#' in url else f'{url}#{name_tag}'
+
         else:
-            return re.sub(r'#.*', f'#{name_tag}', url)
+            # other schemes: set/replace the fragment to our tag
+            return re.sub(r'#.*', f'#{name_tag}', url) if '#' in url else f'{url}#{name_tag}'
     except Exception:
         return None
 
@@ -83,15 +89,17 @@ def sort():
         ensure_directory_exists(fp)
         open(fp, "w").close()
 
+
+
     vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
     new_configs = []
 
-    # Read All_Configs_Sub.txt from CURRENT folder (matches save_config.py)
+    # Read from CURRENT folder
     full_file_path = os.path.join(ptt, "All_Configs_Sub.txt")
     with open(full_file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    for config in tqdm(lines):
+    for config in lines:
         cfg = replace_name_1(config.strip())
         if cfg:
             new_configs.append(cfg)
@@ -99,7 +107,8 @@ def sort():
     # Deduplicate
     all_config = list(set(new_configs))
 
-    for config in tqdm(all_config):
+    # Bucket per protocol (unchanged)
+    for config in all_config:
         try:
             if config.startswith("vmess://"):
                 vmess_list.append(config)
@@ -114,16 +123,12 @@ def sort():
         except Exception:
             pass
 
-    # Deduplicate each
     vmess_list = list(set(vmess_list))
     vless_list = list(set(vless_list))
     trojan_list = list(set(trojan_list))
     ss_list = list(set(ss_list))
     ssr_list = list(set(ssr_list))
 
-    # Flatten and shuffle
-    all_list = list(set(vmess_list + ss_list + trojan_list + vless_list + ssr_list))
-    shuffled_list = random.sample(all_list, len(all_list))
 
     # Write outputs (base64 for vless/trojan/ss/ssr as in your original file)
     open(vmess_file, "w", encoding="utf-8").write("\n".join(vmess_list))
@@ -132,5 +137,13 @@ def sort():
     open(ss_file, "w", encoding="utf-8").write(base64.b64encode("\n".join(ss_list).encode("utf-8")).decode("utf-8"))
     open(ssr_file, "w", encoding="utf-8").write(base64.b64encode("\n".join(ssr_list).encode("utf-8")).decode("utf-8"))
 
+    # Shuffle for downstream usage (unchanged)
+    all_list = list(set(vmess_list + ss_list + trojan_list + vless_list + ssr_list))
+    shuffled_list = random.sample(all_list, len(all_list))
     shuffled_config = "\n".join(shuffled_list)
+
+    # ✅ OVERWRITE All_Configs_Sub.txt WITH RENAMED LINES
+    with open(full_file_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_config))
+
     return shuffled_config, shuffled_list
