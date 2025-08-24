@@ -91,6 +91,7 @@ def test_find_loc(ip_address, new_name):
                 result = printDetails(ip_address, new_name)
                 elapsed = (time.perf_counter() - t0) * 1000.0
                 print(f"printDetails took {elapsed:.2f} ms for {ip_address}")
+                print(result)
                 return result
             except Exception:
                 # fallback with DNS resolution
