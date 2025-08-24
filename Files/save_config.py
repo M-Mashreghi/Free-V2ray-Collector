@@ -6,6 +6,7 @@ def save_data(merged_configs):
 
     # Delete existing output files
     filename = os.path.join(output_folder, f'All_Configs_Sub.txt')
+    print(output_folder)
     if os.path.exists(filename):
         os.remove(filename)
     for i in range(30):
@@ -13,7 +14,9 @@ def save_data(merged_configs):
         if os.path.exists(filename):
             os.remove(filename)
     
-    
+    print("deleted")
+    print(output_folder)
+
     # Write merged configs to output file
     output_file = os.path.join(output_folder, 'All_Configs_Sub.txt')
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -24,6 +27,7 @@ def save_data(merged_configs):
                 # Handle characters that cannot be encoded
                 f.write("<<Unencodable Character>>\n")
 
+    print("writed_2")
 
     
     # Split merged configs into files with no more than 1000 configs per file

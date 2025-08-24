@@ -256,6 +256,7 @@ def main():
     merged_configs = decoded_links + decoded_dir_links
     merged_configs = list(set(merged_configs))
     save_config.save_data(merged_configs)
+    print("saved_configs")
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
     seperate_by_country()
