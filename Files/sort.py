@@ -8,6 +8,12 @@ import get_loc
 import random
 import save_config
 import pycountry
+import socket
+from urllib.parse import urlsplit, parse_qs
+import base64
+import json as _json
+
+
 
 # Pick ONE random colored heart per config
 HEARTS = [
@@ -24,6 +30,123 @@ HEARTS = [
 
 def _new_name():
     return f"@Xen2ray{random.choice(HEARTS)} "
+
+
+
+# Set to True if you want to resolve domains to IPs (slower but stricter)
+RESOLVE_DNS = False
+
+def _safe_b64decode(s: str) -> bytes:
+    # vmess payloads sometimes miss padding
+    s = s.strip()
+    s += "=" * (-len(s) % 4)
+    return base64.urlsafe_b64decode(s)
+
+def _extract_vmess_host(vmess_url: str) -> str | None:
+    # vmess://<base64 json>
+    try:
+        payload_b64 = vmess_url.split("://", 1)[1]
+        data = _safe_b64decode(payload_b64).decode("utf-8", errors="ignore")
+        obj = _json.loads(data)
+        host = (obj.get("add") or "").strip()
+        # If SNI/Host header present, it might represent the actual server
+        sni = (obj.get("sni") or obj.get("host") or "").strip()
+        return sni or host or None
+    except Exception:
+        return None
+
+def _extract_standard_host(url: str) -> str | None:
+    # vless/trojan/ss/ssr/hysteria2: parse netloc, then strip userinfo and port
+    try:
+        u = urlsplit(url)
+        host = u.hostname  # strips userinfo and port
+        if not host:
+            return None
+        # hy2 sometimes includes 'sni' query; if present, it often indicates the true TLS host
+        if u.scheme in ("vless", "trojan", "hysteria2"):
+            q = parse_qs(u.query)
+            sni = q.get("sni", [None])[0]
+            if sni:
+                return sni
+        return host
+    except Exception:
+        return None
+
+def _canonical_host(config: str) -> tuple[str, str] | None:
+    """
+    Returns a key like (scheme, canonical_host)
+    canonical_host is either hostname or resolved IP (if RESOLVE_DNS=True).
+    """
+    try:
+        scheme = config.split("://", 1)[0].lower()
+        if scheme == "vmess":
+            host = _extract_vmess_host(config)
+        else:
+            host = _extract_standard_host(config)
+        if not host:
+            return None
+        host = host.strip().lower()
+        if RESOLVE_DNS:
+            try:
+                host = socket.gethostbyname(host)
+            except Exception:
+                # keep hostname if resolution fails
+                pass
+        return (scheme, host)
+    except Exception:
+        return None
+
+def _score_config_for_keep(url: str) -> tuple:
+    """
+    Lower tuple wins. Prioritize TLS and common ports.
+    You can tweak the priorities freely.
+    """
+    u = urlsplit(url)
+    scheme = u.scheme.lower()
+
+    # Prefer TLS-ish configs
+    q = parse_qs(u.query)
+    security = (q.get("security", [""])[0] or q.get("type", [""])[0]).lower()
+
+    # Port pref: 443 best, then 8443, 80, others
+    port = u.port or 0
+    port_rank = {443: 0, 8443: 1, 80: 2}.get(port, 9)
+
+    # Prefer http/2 or ws over tcp (example heuristic)
+    transm = (q.get("type", [""])[0] or q.get("net", [""])[0]).lower()
+    trans_rank = {"h2": 0, "http": 1, "ws": 2, "grpc": 3, "tcp": 4}.get(transm, 5)
+
+    # Prefer vless/trojan over ss over vmess (purely an example—tune as you like)
+    scheme_rank = {"vless": 0, "trojan": 1, "ss": 2, "hysteria2": 3, "vmess": 4}.get(scheme, 5)
+
+    # Prefer TLS-like security
+    tls_rank = 0 if ("tls" in security or "reality" in security or "xtls" in security) else 1
+
+    # Finally, shorter URL (as a tie breaker), to avoid super-bloated params
+    length = len(url)
+
+    return (tls_rank, port_rank, trans_rank, scheme_rank, length)
+
+def dedupe_by_server(configs: list[str]) -> list[str]:
+    """
+    Keep exactly one config per (scheme, canonical_host).
+    Chosen by _score_config_for_keep priority.
+    """
+    buckets: dict[tuple[str, str], str] = {}
+    for cfg in configs:
+        key = _canonical_host(cfg)
+        if not key:
+            # If we can't parse a host, keep it using a unique fallback key
+            buckets[(cfg.split("://", 1)[0].lower(), f"__raw__:{hash(cfg)}")] = cfg
+            continue
+        if key not in buckets:
+            buckets[key] = cfg
+        else:
+            # decide which one to keep
+            current = buckets[key]
+            if _score_config_for_keep(cfg) < _score_config_for_keep(current):
+                buckets[key] = cfg
+    return list(buckets.values())
 
 
 
@@ -99,8 +222,11 @@ def sort():
         if cfg:
             new_configs.append(cfg)
 
+    # First: basic de-dupe by exact string
     all_config = list(set(new_configs))
-
+    # Then: stronger de-dupe by "same server" (ignoring port/secret)
+    all_config = dedupe_by_server(all_config)
+    
     # bucket by protocol …
     vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
     for config in tqdm(all_config, desc="Sorting by protocol", unit="cfg"):
