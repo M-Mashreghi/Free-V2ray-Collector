@@ -62,7 +62,9 @@ def ensure_directory_exists(file_path):
 
 
 def sort():
-    ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    # ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
+    ptt =os.getcwd()
+
     vmess_file = os.path.join(ptt, r"Splitted-By-Protocol/vmess.txt")
     vless_file = os.path.join(ptt, 'Splitted-By-Protocol/vless.txt')
     trojan_file = os.path.join(ptt, 'Splitted-By-Protocol/trojan.txt')
