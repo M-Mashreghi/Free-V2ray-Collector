@@ -18,7 +18,7 @@ countries = {'Aruba': 'AW', 'Afghanistan': 'AF', 'Angola': 'AO', 'Anguilla': 'AI
 
 # emoji1 = '\U0001F49A'
 emoji2 = '\U0001F499'
-new_name = " @𝕏en2ray " + emoji2 + " "
+# new_name = " @𝕏en2ray " + emoji2 + " "
 
 
 # find_emoji(
