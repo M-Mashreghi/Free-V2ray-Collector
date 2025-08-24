@@ -5,23 +5,25 @@ import json
 import socket
 from functools import lru_cache
 from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 from ip2geotools.databases.noncommercial import DbIpCity
 from emoji import find_emoji
 
-# -------------------------------
-# Fast HTTP session (Keep-Alive)
-# -------------------------------
+# ---------------------------------
+# Fast HTTP session & ip-api fields
+# ---------------------------------
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "Xen2rayLoc/1.0"})
-# keep response tiny & fast
-IP_API_FIELDS = "status,country,countryCode,city"
+SESSION.headers.update({"User-Agent": "Xen2rayLoc/1.1"})
+IP_API_FIELDS = "status,country,countryCode,city"  # keep responses tiny
 
-# -------------------------------
-# Utilities
-# -------------------------------
+# ---------------------------------
+# Regex / helpers
+# ---------------------------------
 IP_RE = re.compile(r"^\d{1,3}(?:\.\d{1,3}){3}$")
+AT_HOST_RE = re.compile(r'@([\w\.-]+):')         # for ss/vless/etc "user@host:port"
+INLINE_IP_RE = re.compile(r'(?P<ip>\d+\.\d+\.\d+\.\d+)')
 
 def is_valid_ip(ip_str: str) -> bool:
     return bool(IP_RE.match(ip_str or ""))
@@ -31,57 +33,182 @@ def _b64decode_padded(s: str) -> bytes:
     s += "=" * (-len(s) % 4)
     return base64.b64decode(s)
 
-@lru_cache(maxsize=50000)
-def _resolve_ip(host_or_ip: str) -> str | None:
-    """Resolve hostname to IPv4 once; return IP if string is already an IP."""
-    if not host_or_ip:
-        return None
-    val = host_or_ip.strip()
-    if is_valid_ip(val):
-        return val
+# -----------------------
+# Prefetch global cache
+# -----------------------
+# Maps IP -> (city, flag_emoji)
+PREFETCH_CITY_FLAG: dict[str, tuple[str, str]] = {}
+
+# ---------------------------------
+# Host/IP extraction from configs
+# ---------------------------------
+def _extract_host_vmess(line: str) -> str | None:
     try:
-        return socket.gethostbyname(val)
+        payload = line.split("://", 1)[1]
+        cfg = json.loads(_b64decode_padded(payload).decode("utf-8", errors="ignore"))
+        return (cfg.get("add") or "").strip() or None
     except Exception:
         return None
 
-@lru_cache(maxsize=50000)
+def _extract_host_generic(line: str) -> str | None:
+    # Try "scheme://host..." first
+    try:
+        u = urlparse(line)
+        if u.hostname:
+            return u.hostname
+    except Exception:
+        pass
+    # Try "...@host:port" pattern (ss/vless often)
+    m = AT_HOST_RE.search(line or "")
+    if m:
+        return m.group(1)
+    return None
+
+def extract_host_from_line(line: str) -> str | None:
+    if not line:
+        return None
+    line = line.strip()
+    if line.startswith("vmess://"):
+        return _extract_host_vmess(line)
+    # quick win: if an inline IP is present, return it (fast path)
+    m = INLINE_IP_RE.search(line)
+    if m:
+        return m.group("ip")
+    return _extract_host_generic(line)
+
+# ---------------------------------
+# DNS resolve (batched & cached)
+# ---------------------------------
+@lru_cache(maxsize=100000)
+def _resolve_ip(host_or_ip: str) -> str | None:
+    """Resolve hostname to IPv4 once; return IP if already an IP."""
+    if not host_or_ip:
+        return None
+    v = host_or_ip.strip()
+    if is_valid_ip(v):
+        return v
+    try:
+        return socket.gethostbyname(v)
+    except Exception:
+        return None
+
+def _resolve_many(hosts: list[str], workers: int = 50) -> dict[str, str]:
+    out: dict[str, str] = {}
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futs = {ex.submit(_resolve_ip, h): h for h in hosts}
+        for fut in as_completed(futs):
+            h = futs[fut]
+            try:
+                ip = fut.result()
+                if ip:
+                    out[h] = ip
+            except Exception:
+                pass
+    return out
+
+# ---------------------------------
+# ip-api BULK lookup
+# ---------------------------------
+def _ip_api_batch(ips: list[str]) -> dict[str, tuple[str, str]]:
+    """
+    Query up to 100 IPs per POST /batch.
+    Returns {ip: (city, flag)}
+    """
+    if not ips:
+        return {}
+    payload = [{"query": ip, "fields": IP_API_FIELDS} for ip in ips]
+    try:
+        r = SESSION.post("http://ip-api.com/batch", json=payload, timeout=4)
+        if not r.ok:
+            return {}
+        results = r.json()
+    except Exception:
+        return {}
+
+    out: dict[str, tuple[str, str]] = {}
+    for ip, item in zip(ips, results):
+        if not isinstance(item, dict):
+            continue
+        if item.get("status") == "success":
+            city = (item.get("city") or "").strip()
+            code_or_name = item.get("countryCode") or item.get("country") or ""
+            flag = find_emoji(code_or_name)
+            out[ip] = (city, flag)
+    return out
+
+def _ip_api_batch_many(ips: list[str], chunk_size: int = 100) -> dict[str, tuple[str, str]]:
+    out: dict[str, tuple[str, str]] = {}
+    n = len(ips)
+    for i in range(0, n, chunk_size):
+        chunk = ips[i:i + chunk_size]
+        out.update(_ip_api_batch(chunk))
+    return out
+
+# ---------------------------------
+# Public: prefetch everything once
+# ---------------------------------
+def prefetch_geo_for_configs(lines: list[str]) -> None:
+    """
+    Extract unique hosts/IPs from config lines, resolve to IPs,
+    bulk query ip-api (in chunks), fill PREFETCH_CITY_FLAG.
+    """
+    # 1) Collect unique hosts
+    hosts: set[str] = set()
+    for ln in lines or []:
+        h = extract_host_from_line((ln or "").strip())
+        if h:
+            hosts.add(h)
+
+    if not hosts:
+        return
+
+    # 2) Resolve to IPs (parallel)
+    host_to_ip = _resolve_many(list(hosts))
+    ips = sorted(set(host_to_ip.values()))
+    if not ips:
+        return
+
+    # 3) Bulk geolocate IPs
+    ip_to_city_flag = _ip_api_batch_many(ips, chunk_size=100)
+
+    # 4) Save into global prefetch cache
+    PREFETCH_CITY_FLAG.update(ip_to_city_flag)
+
+# ---------------------------------
+# On-demand lookup (hits prefetch first)
+# ---------------------------------
+@lru_cache(maxsize=100000)
 def _lookup_city_flag(ip: str) -> tuple[str, str]:
-    """
-    Return (city, flag_emoji) for an IP.
-    Tries ip-api (fast) then DbIpCity (fallback). Cached per IP.
-    """
+    """Return (city, flag) for IP. Prefer prefetch; else query, then fallback DbIpCity."""
     if not ip or not is_valid_ip(ip):
         return "", find_emoji("")
+    # Prefetch win
+    if ip in PREFETCH_CITY_FLAG:
+        return PREFETCH_CITY_FLAG[ip]
 
-    # 1) ip-api (fast)
+    # Single ip-api call (tiny fields)
     try:
-        r = SESSION.get(
-            f"http://ip-api.com/json/{ip}?fields={IP_API_FIELDS}",
-            timeout=1.5,
-        )
+        r = SESSION.get(f"http://ip-api.com/json/{ip}?fields={IP_API_FIELDS}", timeout=1.5)
         if r.ok:
             data = r.json()
             if data.get("status") == "success":
                 city = (data.get("city") or "").strip()
-                # prefer code for reliable flags
                 code_or_name = data.get("countryCode") or data.get("country") or ""
                 flag = find_emoji(code_or_name)
                 return city, flag
     except Exception:
         pass
 
-    # 2) DbIpCity fallback
+    # Fallback DbIpCity
     try:
         res = DbIpCity.get(ip, api_key="free")
         city = (getattr(res, "city", "") or "").strip()
-        # DbIpCity.country may be a name; region sometimes holds a code/name too
         code_or_name = getattr(res, "country", None) or getattr(res, "region", "")
         flag = find_emoji(code_or_name)
         return city, flag
     except Exception:
         pass
 
-    # 3) Unknown
     return "", find_emoji("")
 
 def _build_name(new_name: str, city: str, flag: str) -> str:
@@ -94,50 +221,37 @@ def _build_name(new_name: str, city: str, flag: str) -> str:
         parts.append(flag)
     return " ".join(parts).strip()
 
-# -------------------------------
+# ---------------------------------
 # Public helpers (kept compatible)
-# -------------------------------
+# ---------------------------------
 def printDetails(ip: str, new_name: str) -> str:
-    """DbIpCity path (kept for compatibility) – now uses the cached lookup."""
     city, flag = _lookup_city_flag(ip)
     return _build_name(new_name, city, flag)
 
 def printDeails_2(ip_address: str, new_name: str) -> str:
-    """ip-api path (kept for compatibility) – now uses the cached lookup."""
     city, flag = _lookup_city_flag(ip_address)
     return _build_name(new_name, city, flag)
 
 def test_find_loc(ip_address_or_host: str, new_name: str) -> str:
-    """
-    Fast path:
-    - Resolve domain→IP once (cached)
-    - Lookup city+flag once per IP (cached)
-    """
     ip = _resolve_ip(ip_address_or_host)
     if not ip:
         return new_name
     city, flag = _lookup_city_flag(ip)
     return _build_name(new_name, city, flag)
 
-# -------------------------------
-# VMess name updater
-# -------------------------------
+# ---------------------------------
+# VMess name updater (unchanged)
+# ---------------------------------
 def update_vmess_name(vmess_url: str, replace_name: str) -> str:
-    """Decode vmess, replace ps (name), re-encode."""
     vmess_url = (vmess_url or "").strip()
     try:
         payload_b64 = vmess_url.split("://", 1)[1]
-    except Exception:
-        return vmess_url
-
-    try:
         config_json = _b64decode_padded(payload_b64).decode("utf-8", errors="ignore")
         config = json.loads(config_json)
     except Exception:
         return vmess_url
 
     config["ps"] = replace_name
-
     try:
         updated_config_json = json.dumps(config, separators=(",", ":"), ensure_ascii=False)
         updated_b64 = base64.b64encode(updated_config_json.encode("utf-8")).decode("utf-8")
@@ -145,42 +259,39 @@ def update_vmess_name(vmess_url: str, replace_name: str) -> str:
     except Exception:
         return vmess_url
 
-# -------------------------------
+# ---------------------------------
 # Protocol-specific finders
-# -------------------------------
+# ---------------------------------
 def find_loc_trojan(config_str: str, new_name: str) -> str:
-    """Find location for trojan:// – use IP if present, else hostname."""
-    ip_match = re.search(r'(?P<ip>\d+\.\d+\.\d+\.\d+)', config_str or "")
-    if ip_match:
-        ip_address = ip_match.group("ip")
-        return test_find_loc(ip_address, new_name)
+    m = INLINE_IP_RE.search(config_str or "")
+    if m:
+        return test_find_loc(m.group("ip"), new_name)
     parsed = urlparse(config_str or "")
     host = parsed.hostname
+    if not host:
+        m2 = AT_HOST_RE.search(config_str or "")
+        host = m2.group(1) if m2 else None
     return test_find_loc(host, new_name) if host else new_name
 
 def find_location_vmess(vmess_url: str, new_name: str) -> str:
-    """Find location for vmess:// by decoding the JSON and using 'add'."""
     try:
-        vmess_config_base64 = vmess_url.split("://", 1)[1]
-        vmess_config_json = _b64decode_padded(vmess_config_base64).decode("utf-8", errors="ignore")
-        vmess_config = json.loads(vmess_config_json)
-        server_address = vmess_config.get("add")
+        payload = vmess_url.split("://", 1)[1]
+        cfg = json.loads(_b64decode_padded(payload).decode("utf-8", errors="ignore"))
+        server_address = cfg.get("add")
         return test_find_loc(server_address, new_name) if server_address else new_name
     except Exception:
         return new_name
 
 def find_loc_ss(config_str: str, new_name: str) -> str:
-    """Find location for ss:// – try IP, else domain in @host:port."""
-    ip_match = re.search(r'@(\d+\.\d+\.\d+\.\d+)', config_str or "")
-    if ip_match:
-        return test_find_loc(ip_match.group(1), new_name)
-    m = re.search(r'@([\w\.-]+):', config_str or "")
+    ipm = re.search(r'@(\d+\.\d+\.\d+\.\d+)', config_str or "")
+    if ipm:
+        return test_find_loc(ipm.group(1), new_name)
+    m = AT_HOST_RE.search(config_str or "")
     return test_find_loc(m.group(1), new_name) if m else new_name
 
 def find_loc_vless(config_str: str, new_name: str) -> str:
-    """Find location for vless:// – try IP, else domain in @host:port."""
-    ip_match = re.search(r'@(\d+\.\d+\.\d+\.\d+)', config_str or "")
-    if ip_match:
-        return test_find_loc(ip_match.group(1), new_name)
-    m = re.search(r'@([\w\.-]+):', config_str or "")
+    ipm = re.search(r'@(\d+\.\d+\.\d+\.\d+)', config_str or "")
+    if ipm:
+        return test_find_loc(ipm.group(1), new_name)
+    m = AT_HOST_RE.search(config_str or "")
     return test_find_loc(m.group(1), new_name) if m else new_name

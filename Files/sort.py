@@ -14,7 +14,6 @@ import base64
 import json as _json
 
 
-
 # Pick ONE random colored heart per config
 HEARTS = [
     "\u2764\uFE0F",  # ❤️
@@ -216,6 +215,7 @@ def sort():
     with open(full_file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
+    get_loc.prefetch_geo_for_configs(lines)  # <<< add this BEFORE the tqdm "Renaming configs" loop
     # 👇 Show progress bar with tqdm
     for config in tqdm(lines, desc="Renaming configs", unit="cfg"):
         cfg = replace_name_1(config.strip())
