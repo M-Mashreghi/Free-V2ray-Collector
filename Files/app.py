@@ -269,5 +269,5 @@ if __name__ == "__main__":
     while True:
         main()
         # Sleep for 12 hours (in seconds)
-        time.sleep(11* 2 * 60 * 60)
+        time.sleep(12* 60 * 60)
 

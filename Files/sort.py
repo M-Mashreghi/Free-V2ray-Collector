@@ -188,6 +188,7 @@ def replace_name_1(url: str):
         else:
             # other schemes: set/replace the fragment to our tag
             return re.sub(r'#.*', f'#{name_tag}', url) if '#' in url else f'{url}#{name_tag}'
+
     except Exception:
         return None
 
@@ -204,8 +205,9 @@ def sort():
     trojan_file = os.path.join(ptt, "Splitted-By-Protocol/trojan.txt")
     ss_file = os.path.join(ptt, "Splitted-By-Protocol/ss.txt")
     ssr_file = os.path.join(ptt, "Splitted-By-Protocol/ssr.txt")
+    hy2_file   = os.path.join(ptt, "Splitted-By-Protocol/hysteria2.txt")
 
-    for fp in (vmess_file, vless_file, trojan_file, ss_file, ssr_file):
+    for fp in (vmess_file, vless_file, trojan_file, ss_file, ssr_file,hy2_file):
         ensure_directory_exists(fp)
         open(fp, "w").close()
 
@@ -234,7 +236,7 @@ def sort():
     all_config = dedupe_by_server(all_config)
 
     # bucket by protocol …
-    vmess_list, vless_list, trojan_list, ss_list, ssr_list = [], [], [], [], []
+    vmess_list, vless_list, trojan_list, ss_list, ssr_list,hy2_list  = [], [], [], [], [], []
 
 
 
@@ -250,6 +252,8 @@ def sort():
                 ss_list.append(config)
             if config.startswith("ssr://"):
                 ssr_list.append(config)
+            if config.startswith("hysteria2://") or config.startswith("hy2://"):
+                hy2_list.append(config)
         except Exception:
             pass
 
@@ -259,6 +263,7 @@ def sort():
     trojan_list = list(set(trojan_list))
     ss_list = list(set(ss_list))
     ssr_list = list(set(ssr_list))
+    hy2_list = list(set(hy2_list))
 
 
     # Write outputs (base64 for vless/trojan/ss/ssr as in your original file)
@@ -267,9 +272,12 @@ def sort():
     open(trojan_file, "w", encoding="utf-8").write(base64.b64encode("\n".join(trojan_list).encode("utf-8")).decode("utf-8"))
     open(ss_file, "w", encoding="utf-8").write(base64.b64encode("\n".join(ss_list).encode("utf-8")).decode("utf-8"))
     open(ssr_file, "w", encoding="utf-8").write(base64.b64encode("\n".join(ssr_list).encode("utf-8")).decode("utf-8"))
+    open(hy2_file, "w", encoding="utf-8").write(
+        base64.b64encode("\n".join(hy2_list).encode("utf-8")).decode("utf-8")
+    )
 
     # Shuffle for downstream usage (unchanged)
-    all_list = list(set(vmess_list + ss_list + trojan_list + vless_list + ssr_list))
+    all_list = list(set(vmess_list + ss_list + trojan_list + vless_list + ssr_list + hy2_list))
     shuffled_list = random.sample(all_list, len(all_list))
     shuffled_config = "\n".join(shuffled_list)
 
