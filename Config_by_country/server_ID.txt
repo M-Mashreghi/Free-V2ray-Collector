@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#@Xen2ray💙 Jakarta ID
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Xen2ray💙 Jakarta ID
-trojan://Aimer@46.254.92.142:2087?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me#@Xen2ray💙 Medan ID
-trojan://idc117okt@103.226.139.201:443?security=tls#@Xen2ray💙 Cicurug ID
-trojan://idc117okt@103.176.78.153:443?security=tls#@Xen2ray💙 Cicurug ID
-trojan://Aimer@46.254.93.243:8443?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&path=/&Host=epmk.ambercc.filegear-sg.me#@Xen2ray💙 Medan ID
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Xen2ray💙 Medan ID
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.8:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#@Xen2ray💙 Medan ID
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.254.92.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#@Xen2ray💙 Medan ID
