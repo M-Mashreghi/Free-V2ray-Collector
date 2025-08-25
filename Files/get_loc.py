@@ -346,14 +346,12 @@ try:
 except Exception:
     geoip2 = None
 
-_GEOIP_DB_PATH = "GeoLite2-City.mmdb"
 # add near the top of get_loc.py
 import os
 from pathlib import Path
 
-# Try multiple common locations; override via env GEOIP_DB
-_GEOIP_DB_ENV = os.getenv("GEOIP_DB", "").strip()
-_GEOIP_DB_PATH = _GEOIP_DB_ENV or "GeoLite2-City.mmdb"
+_GEOIP_DB_PATH = "GeoLite2-City.mmdb"
+
 
 def _candidate_db_paths() -> list[str]:
     here = Path(__file__).resolve().parent
