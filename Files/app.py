@@ -182,7 +182,7 @@ def main():
     links = [
         # 'https://raw.githubusercontent.com/internet4jina/daily/main/studious',
         # 'https://raw.githubusercontent.com/HenryPorternew/sbs/main/ssb/sw',
-        # generate_urls("https://nodefree.org/dy/%Y/%m/%Y%m%d.txt"),
+        generate_urls("https://nodefree.org/dy/%Y/%m/%Y%m%d.txt"),
         # generate_urls("https://clashnode.com/wp-content/uploads/%Y/%m/%Y%m%d.txt"),
         # generate_urls("https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/%m%d.txt"),
         # 'https://proxypool.link/sip002/sub',
@@ -196,7 +196,7 @@ def main():
         # 'https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray',
         # 'https://raw.fastgit.org/freefq/free/master/v2',
         # 'https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt',
-        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
+        # 'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
         # 'https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free',
         # 'https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/v2ray.config.txt',
         # 'https://tt.vg/freev2',
@@ -220,13 +220,13 @@ def main():
         # 'https://v2.alicivil.workers.dev/?list=5',
         # 'https://v2.alicivil.workers.dev/?list=6',
         # 'https://v2.alicivil.workers.dev/?list=8',
-        'https://v2.alicivil.workers.dev/?list=7',        
+        # 'https://v2.alicivil.workers.dev/?list=7',        
     ]
     dir_links = [
 
 
 
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality',
+        # 'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality',
         # 'https://raw.githubusercontent.com/ImMyron/V2ray/main/Telegram',
         # 'https://rentry.co/mohammad885/raw',
         # 'https://raw.githubusercontent.com/ImMyron/V2ray/main/Web',
@@ -246,7 +246,7 @@ def main():
         # 'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt',
         # 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt',
         # 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt',
-        'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt'
+        # 'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt'
 
     ]
 
