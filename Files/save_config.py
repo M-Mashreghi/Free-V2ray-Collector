@@ -10,7 +10,7 @@ def save_data(merged_configs):
     if os.path.exists(filename):
         os.remove(filename)
     for i in range(30):
-        filename = os.path.join(output_folder, f'Sub{i}.txt')
+        filename = os.path.join(output_folder, f'Sub{i}.conf')
         if os.path.exists(filename):
             os.remove(filename)
     
@@ -27,21 +27,6 @@ def save_data(merged_configs):
                 f.write("<<Unencodable Character>>\n")
 
 
-    
-    # Split merged configs into files with no more than 1000 configs per file
-    with open(output_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-    num_lines = len(lines)
-    max_lines_per_file = 1000
-    num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
-    for i in range(num_files):
-        start_index = i * max_lines_per_file
-        end_index = (i + 1) * max_lines_per_file
-        filename = os.path.join(output_folder, f'Sub{i+1}.conf')
-        with open(filename, 'w', encoding='utf-8') as f:
-            for line in lines[start_index:end_index]:
-                f.write(line + '\n')
-    
 
 
 def save_data_shuffle(shuffled_config , shuffled_list):

@@ -202,8 +202,8 @@ def main():
         'https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt',
         'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
         'https://raw.githubusercontent.com/freefq/free/master/v2',
-        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2'
-        'https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt'
+        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
+        'https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt',
         'https://v2.alicivil.workers.dev/?list=1',
         'https://v2.alicivil.workers.dev/?list=2',
         'https://v2.alicivil.workers.dev/?list=3',
@@ -217,19 +217,18 @@ def main():
 
         'https://raw.githubusercontent.com/ImMyron/V2ray/main/Telegram',
         'https://rentry.co/mohammad885/raw',
-        'https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt'
+        'https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt',
         'https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all',
-        'https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt'
+        'https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt',
         'https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
-        'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt'
+        'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt',
         'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt',
         'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt',
-        'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt'
-
-    ]
+        'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt',
+        ]
 
     decoded_links = decode_links(links)
     decoded_dir_links = decode_dir_links(dir_links)

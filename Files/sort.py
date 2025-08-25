@@ -14,7 +14,17 @@ import base64
 import json as _json
 
 
-# Pick ONE random colored heart per config
+
+import re
+from urllib.parse import urlsplit
+
+_SCHEME_DEFAULT_PORT = {
+    "ss": 8388, "ssr": 8388,
+    "trojan": 443, "vless": 443, "vmess": 443,
+    "hysteria2": 443, "hy2": 443, "https": 443, "http": 80,
+}
+
+
 HEARTS = [
     "\u2764\uFE0F",  # ❤️
     "\U0001F499",    # 💙
@@ -34,6 +44,32 @@ def _new_name():
 
 # Set to True if you want to resolve domains to IPs (slower but stricter)
 RESOLVE_DNS = False
+
+
+
+def _safe_host_port(url: str) -> tuple[str, int, str]:
+    """
+    Return (host, port, scheme) without raising ValueError on malformed ports.
+    Falls back to scheme defaults; returns port=0 if unknown.
+    """
+    url = (url or "").strip()
+    u = urlsplit(url)
+    scheme = (u.scheme or "").lower()
+    host = (u.hostname or "").strip()
+
+    # Try the normal way first
+    try:
+        port = u.port  # may raise ValueError
+    except ValueError:
+        # Manually extract digits after ':' in netloc
+        m = re.search(r":\s*(\d+)\b", u.netloc or "")
+        port = int(m.group(1)) if m else None
+
+    if port is None:
+        port = _SCHEME_DEFAULT_PORT.get(scheme, 0)
+
+    return host, int(port), scheme
+
 
 def _safe_b64decode(s: str) -> bytes:
     # vmess payloads sometimes miss padding
@@ -95,36 +131,68 @@ def _canonical_host(config: str) -> tuple[str, str] | None:
     except Exception:
         return None
 
-def _score_config_for_keep(url: str) -> tuple:
-    """
-    Lower tuple wins. Prioritize TLS and common ports.
-    You can tweak the priorities freely.
-    """
-    u = urlsplit(url)
-    scheme = u.scheme.lower()
 
-    # Prefer TLS-ish configs
-    q = parse_qs(u.query)
-    security = (q.get("security", [""])[0] or q.get("type", [""])[0]).lower()
+def _score_config_for_keep(cfg: str):
+    host, port, scheme = _safe_host_port(cfg)
 
-    # Port pref: 443 best, then 8443, 80, others
-    port = u.port or 0
-    port_rank = {443: 0, 8443: 1, 80: 2}.get(port, 9)
+    # tls rank: prefer 443, 8443
+    if port in (443, 8443):
+        tls_rank = 0
+    else:
+        tls_rank = 1
 
-    # Prefer http/2 or ws over tcp (example heuristic)
-    transm = (q.get("type", [""])[0] or q.get("net", [""])[0]).lower()
-    trans_rank = {"h2": 0, "http": 1, "ws": 2, "grpc": 3, "tcp": 4}.get(transm, 5)
+    # port rank: prefer common ones
+    if port in (80, 8080, 2052, 2082, 2086, 2095, 8443):
+        port_rank = 0
+    else:
+        port_rank = 1
 
-    # Prefer vless/trojan over ss over vmess (purely an example—tune as you like)
-    scheme_rank = {"vless": 0, "trojan": 1, "ss": 2, "hysteria2": 3, "vmess": 4}.get(scheme, 5)
+    # transport rank (example: maybe deduce from query/netloc)
+    trans_rank = 0  # keep whatever logic you had before
 
-    # Prefer TLS-like security
-    tls_rank = 0 if ("tls" in security or "reality" in security or "xtls" in security) else 1
+    # scheme rank
+    if scheme in ("trojan", "vless", "vmess", "ss", "hy2", "hysteria2"):
+        scheme_rank = 0
+    else:
+        scheme_rank = 1
 
-    # Finally, shorter URL (as a tie breaker), to avoid super-bloated params
-    length = len(url)
+    length = len(cfg)
 
     return (tls_rank, port_rank, trans_rank, scheme_rank, length)
+
+
+
+
+# def _score_config_for_keep(url: str) -> tuple:
+#     """
+#     Lower tuple wins. Prioritize TLS and common ports.
+#     You can tweak the priorities freely.
+#     """
+#     u = urlsplit(url)
+#     scheme = u.scheme.lower()
+
+#     # Prefer TLS-ish configs
+#     q = parse_qs(u.query)
+#     security = (q.get("security", [""])[0] or q.get("type", [""])[0]).lower()
+
+#     # Port pref: 443 best, then 8443, 80, others
+#     port = u.port or 0
+#     port_rank = {443: 0, 8443: 1, 80: 2}.get(port, 9)
+
+#     # Prefer http/2 or ws over tcp (example heuristic)
+#     transm = (q.get("type", [""])[0] or q.get("net", [""])[0]).lower()
+#     trans_rank = {"h2": 0, "http": 1, "ws": 2, "grpc": 3, "tcp": 4}.get(transm, 5)
+
+#     # Prefer vless/trojan over ss over vmess (purely an example—tune as you like)
+#     scheme_rank = {"vless": 0, "trojan": 1, "ss": 2, "hysteria2": 3, "vmess": 4}.get(scheme, 5)
+
+#     # Prefer TLS-like security
+#     tls_rank = 0 if ("tls" in security or "reality" in security or "xtls" in security) else 1
+
+#     # Finally, shorter URL (as a tie breaker), to avoid super-bloated params
+#     length = len(url)
+
+#     return (tls_rank, port_rank, trans_rank, scheme_rank, length)
 
 def dedupe_by_server(configs: list[str]) -> list[str]:
     """
@@ -284,5 +352,25 @@ def sort():
     # ✅ OVERWRITE All_Configs_Sub.txt WITH RENAMED LINES
     with open(full_file_path, "w", encoding="utf-8") as f:
         f.write("\n".join(all_config))
+
+    # ✅ OVERWRITE All_Configs_Sub.txt WITH RENAMED LINES
+    with open(full_file_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_config))
+
+    
+    # Split merged configs into files with no more than 1000 configs per file
+    with open(full_file_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    num_lines = len(lines)
+    max_lines_per_file = 1000
+    num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
+    for i in range(num_files):
+        start_index = i * max_lines_per_file
+        end_index = (i + 1) * max_lines_per_file
+        filename = os.path.join(os.getcwd(), f'Sub{i+1}.conf')
+        with open(filename, 'w', encoding='utf-8') as f:
+            for line in lines[start_index:end_index]:
+                f.write(line + '\n')
+    
 
     return shuffled_config, shuffled_list
