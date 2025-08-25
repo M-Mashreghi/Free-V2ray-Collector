@@ -347,6 +347,25 @@ except Exception:
     geoip2 = None
 
 _GEOIP_DB_PATH = "GeoLite2-City.mmdb"
+# add near the top of get_loc.py
+import os
+from pathlib import Path
+
+# Try multiple common locations; override via env GEOIP_DB
+_GEOIP_DB_ENV = os.getenv("GEOIP_DB", "").strip()
+_GEOIP_DB_PATH = _GEOIP_DB_ENV or "GeoLite2-City.mmdb"
+
+def _candidate_db_paths() -> list[str]:
+    here = Path(__file__).resolve().parent
+    return [
+        _GEOIP_DB_PATH,                                 # explicit path or filename in CWD
+        str(here / "GeoLite2-City.mmdb"),               # same folder as get_loc.py
+        str(here.parent / "GeoLite2-City.mmdb"),        # parent folder
+        str(Path(os.getcwd()) / "GeoLite2-City.mmdb"),  # current working dir
+    ]
+
+
+
 
 IP_RE = re.compile(r"^\d{1,3}(?:\.\d{1,3}){3}$")
 AT_HOST_RE = re.compile(r'@([\w\.-]+)')
@@ -377,14 +396,35 @@ def _resolve_ip(host: str) -> str:
 _reader = None
 def _get_reader():
     global _reader
-    if _reader is None:
-        if geoip2 is None:
-            raise RuntimeError("Please install geoip2: pip install geoip2")
-        _reader = geoip2.database.Reader(_GEOIP_DB_PATH)
-    return _reader
+    if _reader is not None:
+        return _reader
+
+    if geoip2 is None:
+        raise RuntimeError("geoip2 not installed. Run: pip install geoip2")
+
+    last_err = None
+    for p in _candidate_db_paths():
+        try:
+            if p and os.path.exists(p):
+                _reader = geoip2.database.Reader(p)
+                return _reader
+        except Exception as e:
+            last_err = e
+
+    # If we get here, DB was not found anywhere
+    searched = "\n  - " + "\n  - ".join(_candidate_db_paths())
+    raise RuntimeError(
+        "GeoLite2-City.mmdb not found.\n"
+        "Set env GEOIP_DB to the full path or place the file next to get_loc.py.\n"
+        f"Searched:{searched}\n"
+        f"Last error: {last_err}"
+    )
+
+_warned_geoip = False
 
 @lru_cache(maxsize=100000)
 def _city_flag_from_ip(ip: str) -> tuple[str, str]:
+    global _warned_geoip
     if not ip:
         return '', ''
     try:
@@ -393,8 +433,12 @@ def _city_flag_from_ip(ip: str) -> tuple[str, str]:
         city = (getattr(resp.city, "name", "") or "").strip()
         cc = (getattr(resp.country, "iso_code", "") or "").strip()
         return city, _to_flag(cc)
-    except Exception:
+    except Exception as e:
+        if not _warned_geoip:
+            _warned_geoip = True
+            print(f"[get_loc] GeoIP lookup failed (will return blanks). Reason: {e}")
         return '', ''
+
 
 def extract_host_from_line(line: str) -> str | None:
     if not line:
