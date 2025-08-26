@@ -33,7 +33,7 @@ ENV MAIN_SCRIPT = Files/app.py
 RUN printf '%s\n' \
     '#!/bin/sh' \
     'set -e' \
-    ': "${MAIN_SCRIPT:=Files/Run.py}"' \
+    ': "${MAIN_SCRIPT:=Files/app.py}"' \
     'if [ -n "$GIT_USER_NAME" ]; then git config --global user.name "$GIT_USER_NAME"; fi' \
     'if [ -n "$GIT_USER_EMAIL" ]; then git config --global user.email "$GIT_USER_EMAIL"; fi' \
     'if [ -n "$LOOP_INTERVAL_MINUTES" ]; then' \
