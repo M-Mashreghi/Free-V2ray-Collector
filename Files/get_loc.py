@@ -1,25 +1,13 @@
 # get_loc.py
-import re
-import base64
-import json
-import socket
-from functools import lru_cache
-from urllib.parse import urlparse
-from concurrent.futures import ThreadPoolExecutor, as_completed
-
 import requests
 from ip2geotools.databases.noncommercial import DbIpCity
-from emoji import find_emoji
-
-
-# get_loc.py  — only the relevant diffs shown
 import re, base64, json, socket
 from functools import lru_cache
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from emoji import find_emoji
-
-# NEW: local GeoIP
+import logging
+logger = logging.getLogger("get_loc")
 import geoip2.database
 _GEO_CITY_DB = geoip2.database.Reader("GeoLite2-City.mmdb")
 
@@ -33,7 +21,8 @@ def _city_flag_from_ip(ip: str) -> tuple[str, str]:
         city = (resp.city.name or "").strip()
         cc   = (resp.country.iso_code or "").strip()
         return city, find_emoji(cc)
-    except Exception:
+    except Exception as e:
+        logger.debug("GeoLite2 lookup failed for %s: %s", ip, e)
         return "", ""
 
 @lru_cache(maxsize=100000)
@@ -79,18 +68,6 @@ def _b64decode_padded(s: str) -> bytes:
 # -----------------------
 # Maps IP -> (city, flag_emoji)
 PREFETCH_CITY_FLAG: dict[str, tuple[str, str]] = {}
-
-def _country_flag_from_ip(ip: str) -> tuple[str, str]:
-    """Return (city, flag). With Country DB we return ('', flag)."""
-    if not ip:
-        return "", ""
-    try:
-        resp = _GEO_COUNTRY_DB.country(ip)
-        cc = (resp.country.iso_code or "").strip()
-        return "", find_emoji(cc)  # no city in the Country DB
-    except Exception:
-        return "", ""
-
 
 
 
@@ -234,42 +211,6 @@ def prefetch_geo_for_configs(lines: list[str]) -> None:
     # 4) Save into global prefetch cache
     PREFETCH_CITY_FLAG.update(ip_to_city_flag)
 
-# ---------------------------------
-# On-demand lookup (hits prefetch first)
-# ---------------------------------
-# @lru_cache(maxsize=100000)
-# def _lookup_city_flag(ip: str) -> tuple[str, str]:
-#     """Return (city, flag) for IP. Prefer prefetch; else query, then fallback DbIpCity."""
-#     if not ip or not is_valid_ip(ip):
-#         return "", find_emoji("")
-#     # Prefetch win
-#     if ip in PREFETCH_CITY_FLAG:
-#         return PREFETCH_CITY_FLAG[ip]
-
-#     # Single ip-api call (tiny fields)
-#     try:
-#         r = SESSION.get(f"http://ip-api.com/json/{ip}?fields={IP_API_FIELDS}", timeout=1.5)
-#         if r.ok:
-#             data = r.json()
-#             if data.get("status") == "success":
-#                 city = (data.get("city") or "").strip()
-#                 code_or_name = data.get("countryCode") or data.get("country") or ""
-#                 flag = find_emoji(code_or_name)
-#                 return city, flag
-#     except Exception:
-#         pass
-
-#     # Fallback DbIpCity
-#     try:
-#         res = DbIpCity.get(ip, api_key="free")
-#         city = (getattr(res, "city", "") or "").strip()
-#         code_or_name = getattr(res, "country", None) or getattr(res, "region", "")
-#         flag = find_emoji(code_or_name)
-#         return city, flag
-#     except Exception:
-#         pass
-
-#     return "", find_emoji("")
 
 def _build_name(new_name: str, city: str, flag: str) -> str:
     city = (city or "").strip()
@@ -356,275 +297,3 @@ def find_loc_vless(config_str: str, new_name: str) -> str:
     m = AT_HOST_RE.search(config_str or "")
     return test_find_loc(m.group(1), new_name) if m else new_name
 
-
-# # get_loc.py — offline city+flag with prefetch
-# import base64
-# import json
-# import re
-# import socket
-# from functools import lru_cache
-# from urllib.parse import urlparse, urlsplit, parse_qs
-# from concurrent.futures import ThreadPoolExecutor, as_completed
-
-# from emoji import find_emoji
-
-# try:
-#     import geoip2.database
-# except Exception:
-#     geoip2 = None
-
-# # add near the top of get_loc.py
-# import os
-# from pathlib import Path
-
-# _GEOIP_DB_PATH = "GeoLite2-City.mmdb"
-
-
-# def _candidate_db_paths() -> list[str]:
-#     here = Path(__file__).resolve().parent
-#     return [
-#         _GEOIP_DB_PATH,                                 # explicit path or filename in CWD
-#         str(here / "GeoLite2-City.mmdb"),               # same folder as get_loc.py
-#         str(here.parent / "GeoLite2-City.mmdb"),        # parent folder
-#         str(Path(os.getcwd()) / "GeoLite2-City.mmdb"),  # current working dir
-#     ]
-
-
-
-
-# IP_RE = re.compile(r"^\d{1,3}(?:\.\d{1,3}){3}$")
-# AT_HOST_RE = re.compile(r'@([\w\.-]+)')
-
-# def _to_flag(country_iso2: str) -> str:
-#     try:
-#         return find_emoji((country_iso2 or '').upper()) or ''
-#     except Exception:
-#         return ''
-
-# def is_valid_ip(ip_str: str) -> bool:
-#     return bool(IP_RE.match(ip_str or ""))
-
-# @lru_cache(maxsize=100000)
-# def _resolve_ip(host: str) -> str:
-#     if not host:
-#         return ''
-#     if is_valid_ip(host):
-#         return host
-#     try:
-#         infos = socket.getaddrinfo(host, None, socket.AF_INET, socket.SOCK_STREAM)
-#         if infos:
-#             return infos[0][4][0]
-#     except Exception:
-#         pass
-#     return ''
-
-# _reader = None
-# def _get_reader():
-#     global _reader
-#     if _reader is not None:
-#         return _reader
-
-#     if geoip2 is None:
-#         raise RuntimeError("geoip2 not installed. Run: pip install geoip2")
-
-#     last_err = None
-#     for p in _candidate_db_paths():
-#         try:
-#             if p and os.path.exists(p):
-#                 _reader = geoip2.database.Reader(p)
-#                 return _reader
-#         except Exception as e:
-#             last_err = e
-
-#     # If we get here, DB was not found anywhere
-#     searched = "\n  - " + "\n  - ".join(_candidate_db_paths())
-#     raise RuntimeError(
-#         "GeoLite2-City.mmdb not found.\n"
-#         "Set env GEOIP_DB to the full path or place the file next to get_loc.py.\n"
-#         f"Searched:{searched}\n"
-#         f"Last error: {last_err}"
-#     )
-
-# _warned_geoip = False
-
-# @lru_cache(maxsize=100000)
-# def _city_flag_from_ip(ip: str) -> tuple[str, str]:
-#     global _warned_geoip
-#     if not ip:
-#         return '', ''
-#     try:
-#         reader = _get_reader()
-#         resp = reader.city(ip)
-#         city = (getattr(resp.city, "name", "") or "").strip()
-#         cc = (getattr(resp.country, "iso_code", "") or "").strip()
-#         return city, _to_flag(cc)
-#     except Exception as e:
-#         if not _warned_geoip:
-#             _warned_geoip = True
-#             print(f"[get_loc] GeoIP lookup failed (will return blanks). Reason: {e}")
-#         return '', ''
-
-
-# def extract_host_from_line(line: str) -> str | None:
-#     if not line:
-#         return None
-#     # Standard URL parse first
-#     try:
-#         u = urlparse(line)
-#         if u.hostname:
-#             return u.hostname
-#     except Exception:
-#         pass
-#     # Fallback for raw "...@host:port"
-#     m = AT_HOST_RE.search(line)
-#     if m:
-#         return m.group(1)
-#     return None
-
-# def _city_flag_from_host(host: str) -> tuple[str, str]:
-#     ip = _resolve_ip(host)
-#     return _city_flag_from_ip(ip)
-
-# def _compose_name(base: str, city: str, flag: str) -> str:
-#     parts = [p for p in [base.strip(), city.strip() if city else '', flag.strip() if flag else ''] if p]
-#     return ' '.join(parts)
-
-# # -------------------------
-# # vmess helpers
-# # -------------------------
-# _VM_PARSE_RE = re.compile(r'^vmess://(?P<b64>.+)$', re.IGNORECASE)
-
-# def _safe_b64decode(s: str) -> bytes:
-#     s = s.strip()
-#     s += "=" * (-len(s) % 4)
-#     return base64.urlsafe_b64decode(s.encode('utf-8'))
-
-# def _safe_b64encode(b: bytes) -> str:
-#     return base64.urlsafe_b64encode(b).decode('utf-8').rstrip('=')
-
-# def _extract_vmess_host(vmess_url: str) -> str | None:
-#     m = _VM_PARSE_RE.match(vmess_url or '')
-#     if not m:
-#         return None
-#     try:
-#         payload = json.loads(_safe_b64decode(m.group('b64')))
-#     except Exception:
-#         return None
-#     # Prefer SNI/Host if present
-#     for key in ('sni', 'host', 'add'):
-#         h = (payload.get(key) or '').strip()
-#         if h:
-#             return h
-#     return None
-
-# # -------------------------
-# # Public API (used by sort.py)
-# # -------------------------
-# def find_loc_ss(config_str: str, new_name: str) -> str:
-#     host = extract_host_from_line(config_str)
-#     city, flag = _city_flag_from_host(host) if host else ('','')
-#     return _compose_name(new_name, city, flag)
-
-# def find_loc_vless(config_str: str, new_name: str) -> str:
-#     # allow hy2 SNI in query
-#     host = extract_host_from_line(config_str)
-#     if host:
-#         city, flag = _city_flag_from_host(host)
-#     else:
-#         # try to read sni= from query if present
-#         try:
-#             u = urlsplit(config_str)
-#             sni = (parse_qs(u.query).get("sni", [""])[0] or "").strip()
-#             city, flag = _city_flag_from_host(sni) if sni else ('','')
-#         except Exception:
-#             city, flag = '',''
-#     return _compose_name(new_name, city, flag)
-
-# def find_loc_trojan(config_str: str, new_name: str) -> str:
-#     host = extract_host_from_line(config_str)
-#     city, flag = _city_flag_from_host(host) if host else ('','')
-#     return _compose_name(new_name, city, flag)
-
-# def find_location_vmess(vmess_url: str, new_name: str) -> str:
-#     host = _extract_vmess_host(vmess_url) or extract_host_from_line(vmess_url)
-#     city, flag = _city_flag_from_host(host) if host else ('','')
-#     return _compose_name(new_name, city, flag)
-
-# def update_vmess_name(vmess_url: str, new_name: str) -> str:
-#     m = _VM_PARSE_RE.match(vmess_url or '')
-#     if not m:
-#         return vmess_url
-#     try:
-#         payload = json.loads(_safe_b64decode(m.group('b64')))
-#     except Exception:
-#         return vmess_url
-#     payload['ps'] = new_name
-#     new_b64 = _safe_b64encode(json.dumps(payload, separators=(',', ':')).encode('utf-8'))
-#     return f"vmess://{new_b64}"
-
-# # -------------------------
-# # Prefetch used by sort.sort()
-# # -------------------------
-# # IP -> (city, flag) cache for quick reuse
-# PREFETCH_CITY_FLAG: dict[str, tuple[str, str]] = {}
-
-# def prefetch_geo_for_configs(lines: list[str]) -> None:
-#     """
-#     Pre-resolve host->IP and lookup (city, flag) locally.
-#     No network I/O (GeoLite2-City.mmdb only).
-#     Safe to call with thousands of lines.
-#     """
-#     if not lines:
-#         return
-
-#     hosts = set()
-#     for ln in lines:
-#         ln = (ln or "").strip()
-#         if not ln:
-#             continue
-#         # vmess has opaque payload; try vmess extractor first
-#         if ln.startswith("vmess://"):
-#             h = _extract_vmess_host(ln)
-#             if h:
-#                 hosts.add(h)
-#         # generic host extraction
-#         h2 = extract_host_from_line(ln)
-#         if h2:
-#             hosts.add(h2)
-
-#         # hy2 may include ?sni=
-#         try:
-#             if ln.startswith("hysteria2://") or ln.startswith("hy2://"):
-#                 u = urlsplit(ln)
-#                 sni = (parse_qs(u.query).get("sni", [""])[0] or "").strip()
-#                 if sni:
-#                     hosts.add(sni)
-#         except Exception:
-#             pass
-
-#     if not hosts:
-#         return
-
-#     # Resolve hosts -> IPs (local DNS)
-#     def _to_ip(h: str) -> str:
-#         return _resolve_ip(h)
-
-#     # Parallel resolve to speed up large sets
-#     host_to_ip: dict[str, str] = {}
-#     with ThreadPoolExecutor(max_workers=32) as ex:
-#         futs = {ex.submit(_to_ip, h): h for h in hosts}
-#         for fut in as_completed(futs):
-#             h = futs[fut]
-#             try:
-#                 ip = fut.result()
-#                 if ip:
-#                     host_to_ip[h] = ip
-#             except Exception:
-#                 pass
-
-#     # Prefill IP -> (city, flag)
-#     unique_ips = set(host_to_ip.values())
-#     for ip in unique_ips:
-#         city, flag = _city_flag_from_ip(ip)
-#         if city or flag:
-#             PREFETCH_CITY_FLAG[ip] = (city, flag)

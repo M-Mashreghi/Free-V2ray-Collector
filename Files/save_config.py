@@ -1,9 +1,11 @@
 import os
-
+import logging
+logger = logging.getLogger("save_config")
   
 def save_data(merged_configs):
     # output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     output_folder = os.getcwd()
+    logger.info("Saving %d configs to %s", len(merged_configs), output_folder)
 
     # Delete existing output files
     filename = os.path.join(output_folder, f'All_Configs_Sub.txt')
@@ -25,6 +27,8 @@ def save_data(merged_configs):
             except UnicodeEncodeError:
                 # Handle characters that cannot be encoded
                 f.write("<<Unencodable Character>>\n")
+    logger.info("Saved All_Configs_Sub.txt successfully")
+
 
 
 
@@ -32,6 +36,7 @@ def save_data(merged_configs):
 def save_data_shuffle(shuffled_config , shuffled_list):
     # output_folder = os.path.abspath(os.path.join(os.getcwd(), '..'))
     output_folder = os.getcwd()
+    logger.info("Saving %d configs to %s", len(shuffled_config), output_folder)
 
     output_folder_shuffled = "shuffle"  # Output folder where files will be created
 
@@ -71,3 +76,4 @@ def save_data_shuffle(shuffled_config , shuffled_list):
         with open(filename, 'w', encoding='utf-8') as f:
             for line in shuffled_list[start_index:end_index]:
                 f.write(line + "\n")
+    logger.info("Saved All_Configs_shuffled.txt successfully")
