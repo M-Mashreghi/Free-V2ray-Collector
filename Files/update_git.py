@@ -1,16 +1,6 @@
 import git
 from datetime import datetime
 import os
-
-
-
-
-
-
-
-import git
-from datetime import datetime
-import os
 from urllib.parse import urlparse
 
 def _to_https_url(remote_url: str) -> str:

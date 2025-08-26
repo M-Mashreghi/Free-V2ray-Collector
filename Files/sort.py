@@ -2,12 +2,9 @@ import os
 import base64
 from tqdm import tqdm
 import re
-import json
-import requests
 import get_loc
 import random
 import save_config
-import pycountry
 import socket
 from urllib.parse import urlsplit, parse_qs
 import base64

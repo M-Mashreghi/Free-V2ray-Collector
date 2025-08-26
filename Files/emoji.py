@@ -1,6 +1,5 @@
 # emoji.py
 from typing import Dict
-import pycountry
 
 
 

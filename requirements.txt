@@ -5,3 +5,5 @@ ip2geotools
 emoji
 telethon
 pysocks
+tqdm
+pybase64

@@ -1,12 +1,9 @@
 import pybase64
-import requests
 import binascii
 import os
 import datetime
 import sort
 import save_config 
-import base64
-import flag
 import time
 from helpers import safe_get
 
