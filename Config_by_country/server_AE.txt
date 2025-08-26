@@ -1,72 +1,73 @@
-vmess://eyJhZGQiOiI5My4xMjcuMTgwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZmE4NmEzMC0wYzU0LTQ3OWItOGQ2My0zYjM0ZjY0OGQ5ZWMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiQFhlbjJyYXnwn5KZIER1YmFpIPCfh6bwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.229.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=ğŸ”’ [By EbraSha] #@Xen2ray🤎 🇦🇪
-vmess://eyJhZGQiOiIzMS41Ny45My40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNGY2MjdkOS0yZDcyLTQ0NzQtYmIxZS03ZjdmZGJlOWQzNGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ3MSIsInBzIjoiQFhlbjJyYXninaTvuI8g8J+HpvCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#@Xen2ray💙 🇦🇪
-vless://telegram-id-ArV2ray@bwdraper.faculty.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=ğŸ”’ [By EbraSha]&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=Ygvtfruh64.net&amp;path=ğŸ”’ [By EbraSha] #@Xen2ray🤍 Dubai 🇦🇪
-vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=&host=#@Xen2ray💚 Dubai 🇦🇪
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&type=ws&host=fraud.chase&path=/?ed&sni=www.Arizona.edu&fp=chrome#@Xen2ray🧡 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#@Xen2ray🖤 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#@Xen2ray💛 Dubai 🇦🇪
-ss://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=tgju.org #@Xen2ray💛 🇦🇪
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80/?type=ws&encryption=none&host=iriknet.ir&path=ğŸ”’ [By EbraSha] #@Xen2ray💙 🇦🇪
-vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099/?encryption=none&host=tgju.org&type=tcp&headerType=http #@Xen2ray💜 🇦🇪
-vless://8b0f6f24-bae0-472e-bb0a-3d7c029cde88@freeconfig.fergalvpnmod.com:32869?type=grpc&serviceName=@FergalVpnMod&authority=@FergalVpnMod&security=reality&pbk=qwAzEJ5EfDZeaER7xLQ1Lxecnej0uWi3dbIsxYZU820&fp=chrome&sni=sony.com&sid=0c63f4c7ea&spx=/#@Xen2ray🤍 🇦🇪
-vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=/&security=none&encryption=none&type=ws#@Xen2ray💜 🇦🇪
-vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@Xen2ray💚 Dubai 🇦🇪
-vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@g-ns2.root.info.tr:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=g-ns2.root.info.tr#@Xen2ray🖤 Dubai 🇦🇪
-ss://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.dsadsadads.ir:2070?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@Xen2ray💙 🇦🇪
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#@Xen2ray🤎 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#@Xen2ray💚 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW1pYmFoYWQ@188.208.110.58:8444 #@Xen2ray🤍 🇦🇪
+vless://3dc1d42d-fc8b-47ed-97af-a26382062506@uae.shopuae.nikastore.top:2020?security=none&type=tcp&headerType=http&path=/&host=goftino.com#@Xen2ray💜 Dubai 🇦🇪
+vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#@Xen2ray💙 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU@ae-1.stunnel.cc:8444 #@Xen2ray💚 🇦🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.92.89:443 #@Xen2ray🤍 Dubai 🇦🇪
-vless://680821ce-2898-4929-ad75-857723d2e33e@93.127.180.247:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@Xen2ray🤍 Dubai 🇦🇪
-vless://1f38b094-7a91-f29c-3ed8-4ede1dc23639@45.88.8.147:80?path=/IVApi/NL/1&security=none&encryption=none&type=ws#@Xen2ray💚 🇦🇪
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=/&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@Xen2ray💙 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#@Xen2ray🤍 🇦🇪
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134/?type=ws&encryption=none&path=ğŸ”’ [By EbraSha] #@Xen2ray💜 🇦🇪
-vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Xen2ray💙 🇦🇪
-vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@Xen2ray🧡 🇦🇪
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@94.177.145.124:34045?security=reality&amp;encryption=none&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;headerType=none&amp;type=tcp&amp;sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&amp;sid=e8ab71d0#@Xen2ray🤎 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.86.251:443 #@Xen2ray🖤 Dubai 🇦🇪
-vless://f8389354-b7b2-4323-c82b-37ec61973acb@31.58.144.69:12228?path=%2F&security=none&encryption=none&type=ws#@Xen2ray🧡 🇦🇪
-vmess://eyJhZGQiOiI5My4xMjcuMTgwLjY0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiNGJkNzM1LTQ5ZTEtNDVlOC04MzA4LWNkZjA1YzRjYzVjNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkBYZW4ycmF58J+WpCBEdWJhaSDwn4em8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://9da21010-6025-430a-9ce9-6096673d86d1@X3.snaapppfree.com:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp #@Xen2ray💛 🇦🇪
-vless://14628e9d-7005-4178-de3e-69b8d16b23e8@31.58.144.49:6666?mode=gun&security=none= #@Xen2ray🤍 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.10:808 #@Xen2ray💜 Dubai 🇦🇪
-vless://d4fadb50-63e6-4bb1-a18b-9e9634241de5@ae.aparat-movies-download.ir:80/?encryption=none&host=zhaket.com&type=tcp&headerType=http #@Xen2ray💙 Dubai 🇦🇪
-vless://3dc1d42d-fc8b-47ed-97af-a26382062506@uae.shopuae.nikastore.top:2020?security=none&type=tcp&headerType=http&path=/&host=goftino.com#@Xen2ray💛 Dubai 🇦🇪
-vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:80?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@Xen2ray💚 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.145.143:443 #@Xen2ray💙 Dubai 🇦🇪
-ss://YWVzLTI1Ni1nY206NTgwOTIxMzEtYWVkYS00M2Y5LTlmNjgtNDE0MGZjZWU5ZTkw@45.134.13.46:443 #@Xen2ray💚 🇦🇪
-trojan://NISHIKUITAN111@181.214.1.7:443/?type=tcp&security=tls #@Xen2ray💙 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#@Xen2ray🖤 🇦🇪
-vless://23bc2c16-1caa-4351-8a16-54fc978a84ca@ae2.speedur.ir:80?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#@Xen2ray💙 Dubai 🇦🇪
-ss://YWVzLTI1Ni1nY206MWVmYWMwYjMtNzM0Zi00ZTdhLTgyMjYtNTNiZTFlYmQ1ODc2@45.134.13.75:443#@Xen2ray💙 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#@Xen2ray🧡 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWGhxSkdSODFFeU5ITTdabnJzUmxxYkdTUzRFOVY0VzhKWUdNclIyNk5jTlVCdmI%3D@176.97.67.144:51348 #@Xen2ray💚 Dubai 🇦🇪
-ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#@Xen2ray💚 🇦🇪
-vless://03d56bf9-d7de-4f68-85be-a888a1bb6e7b@ec2-40-172-235-190.me-central-1.compute.amazonaws.com:443?security=&encryption=none&headerType=&type=tcp#@Xen2ray🤎 Dubai 🇦🇪
-vless://12c2fcda-7dc8-4573-ab81-d93f8f6f837b@nexir.nexvpns.fun:6969?security=none&amp;encryption=none&amp;host=amirzaplus.com&amp;headerType=http&amp;type=tcp#@Xen2ray💛 🇦🇪
-ss://12c2fcda-7dc8-4573-ab81-d93f8f6f837b@nexir.nexvpns.fun:6969?security=none&amp;encryption=none&amp;host=amirzaplus.com&amp;headerType=http&amp;type=tcp#@Xen2ray💜 🇦🇪
-vless://8d082809-5dda-43f2-978e-3e1184aeb2fe@93.127.180.64:443?security=&encryption=none&headerType=none&type=tcp#@Xen2ray💙 Dubai 🇦🇪
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=ğŸ”’ [By EbraSha] #@Xen2ray🤍 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443 #@Xen2ray💙 Dubai 🇦🇪
+vless://Azarakhsh-Proxy-ppauq@live.theworldwidewolf.com:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=live.theworldwidewolf.com#@Xen2ray🧡 Dubai 🇦🇪
+trojan://NISHIKUITAN111@181.214.1.7:443/?type=tcp&security=tls #@Xen2ray🤎 🇦🇪
 ss://YWVzLTI1Ni1nY206ZWNmSnJOdEJad1Q3NDhoeEozWnl6Wmoy@176.125.231.11:45291#@Xen2ray🤍 Dubai 🇦🇪
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@193.124.224.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=ğŸ”’ [By EbraSha] #@Xen2ray🤍 🇦🇪
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KbIPCfh6bwn4eqIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6ODg4MCwiaWQiOiIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJmb29kLnpoYWFsLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiJjYWNlcnRzLmRpZ2ljZXJ0LmNvbSIsImFpZCI6MCwiaG9zdCI6ImNhY2VydHMuZGlnaWNlcnQuY29tIiwiaWQiOiI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF54p2k77iPIEFsIEZ1amFpcmFoIENpdHkg8J+HpvCfh6oiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://12486672-3116-48b2-8495-2d7223874a7b@31.58.239.159:1433?path=/&security=none&encryption=none&host=snapp.ir&type=ws#@Xen2ray🖤 🇦🇪
-trojan://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&headerType=http&type=tcp&host=telewebion.com #@Xen2ray🤎 🇦🇪
+ss://YWVzLTI1Ni1nY206YmFiZWMyZjctZGE5Yi00NjFhLTgzZTktOWM3NTA3OTA5ZWNm@45.134.13.75:443#@Xen2ray🤎 🇦🇪
+vless://12486672-3116-48b2-8495-2d7223874a7b@31.58.239.159:1433?path=/&security=none&encryption=none&host=snapp.ir&type=ws#@Xen2ray💜 🇦🇪
+vless://Azarakhsh-Proxy@zmaoz.faculty.ucdavis.edu:443?path=@Azarakhsh_Proxy/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#@Xen2ray🖤 Dubai 🇦🇪
+vless://f8389354-b7b2-4323-c82b-37ec61973acb@31.58.144.69:12228?path=%2F&security=none&encryption=none&type=ws#@Xen2ray❤️ 🇦🇪
+vless://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#@Xen2ray💛 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.243.35:443#@Xen2ray❤️ Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.10:808 #@Xen2ray💛 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#@Xen2ray💛 🇦🇪
+vmess://eyJhZGQiOiIzMS41Ny45My40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNGY2MjdkOS0yZDcyLTQ0NzQtYmIxZS03ZjdmZGJlOWQzNGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ3MSIsInBzIjoiQFhlbjJyYXnwn6SNIPCfh6bwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://75ecef77-2050-4250-99f7-936d0188edf2@live.skornorth.com:80?path=ğŸ”’ [By EbraSha]&security=&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws #@Xen2ray💛 Dubai 🇦🇪
+ss://12c2fcda-7dc8-4573-ab81-d93f8f6f837b@nexir.nexvpns.fun:6969?security=none&amp;encryption=none&amp;host=amirzaplus.com&amp;headerType=http&amp;type=tcp#@Xen2ray💛 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443 #@Xen2ray🤎 Dubai 🇦🇪
+vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@Xen2ray🤍 🇦🇪
+ss://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#@Xen2ray🤍 🇦🇪
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXninaTvuI8g8J+HpvCfh6oiLCJhZGQiOiI5NC4xNDAuMC4xMTAiLCJwb3J0Ijo4ODgwLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImZvb2QuemhhYWwuaXIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+vless://d4fadb50-63e6-4bb1-a18b-9e9634241de5@ae.aparat-movies-download.ir:80/?encryption=none&host=zhaket.com&type=tcp&headerType=http #@Xen2ray🖤 Dubai 🇦🇪
 vless://94c2debf-0389-4f77-81ec-2aa2ee0473af@109.61.18.218:16070?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=zula.ir#@Xen2ray🤍 Dubai 🇦🇪
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@94.177.145.124:34045?security=reality&amp;encryption=none&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;headerType=none&amp;type=tcp&amp;sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&amp;sid=e8ab71d0#@Xen2ray🤍 🇦🇪
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80?path=/?ed=2048&security=none&encryption=none&host=fraud.chase&type=ws#@Xen2ray💙 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW1pYmFoYWQ@188.208.110.58:8444 #@Xen2ray💙 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#@Xen2ray🧡 Dubai 🇦🇪
-ss://telegram-id-ArV2ray@bwdraper.faculty.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=ğŸ”’ [By EbraSha]&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=Ygvtfruh64.net&amp;path=ğŸ”’ [By EbraSha] #@Xen2ray🤍 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.243.35:443#@Xen2ray💛 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#@Xen2ray💙 🇦🇪
-vless://5c1b687f-6c65-4dd6-be17-fb86d8a919a9@93.127.180.212:80?type=tcp&headerType=http&host=www.varzesh3.com #@Xen2ray🧡 Dubai 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:809#@Xen2ray🧡 Sharjah 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU=@ae-1.stunnel.cc:8444#@Xen2ray💜 🇦🇪
-trojan://wz0hewE7GFcDTP_I6LF0qA@93.127.181.14:60592?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&headerType=none&type=tcp #@Xen2ray🤎 Dubai 🇦🇪
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.dsadsadads.ir:2070?encryption=none&security=none&type=tcp&headerType=none #@Xen2ray🧡 🇦🇪
-vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=ğŸ”’ [By EbraSha]&security=&encryption=none&host=cloudflare.com&type=ws #@Xen2ray💙 🇦🇪
-vmess://eyJhZGQiOiIzMS41Ny4xMDcuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2NjYjU1ODEtNDk2MC00OTdkLWY2MGMtOWNjMTc4NmM0NjQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjIxNyIsInBzIjoiQFhlbjJyYXnwn5KZIPCfh6bwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://77-917Tvv71O77-977-9Zx5_77-9HO-_vd-aa--_ve-_vXXvv73vv73vv71-77-977-9Xu-_vTrvv73XtO-_vU7vv73vv71nHn_vv70c77-935pr77-977-9de-_ve-_ve-_vX7vv73vv71e77-9@zmaoz.faculty.ucdavis.edu:443 #@Xen2ray💚 Dubai 🇦🇪
+ss://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.dsadsadads.ir:2070?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@Xen2ray💜 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#@Xen2ray💜 🇦🇪
+trojan://wz0hewE7GFcDTP_I6LF0qA@93.127.181.14:60592?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&headerType=none&type=tcp #@Xen2ray💜 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#@Xen2ray💙 🇦🇪
+vmess://eyJhZGQiOiIzMS41Ny4xMDcuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2NjYjU1ODEtNDk2MC00OTdkLWY2MGMtOWNjMTc4NmM0NjQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjIxNyIsInBzIjoiQFhlbjJyYXnwn5KbIPCfh6bwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@Xen2ray🤍 Dubai 🇦🇪
+ss://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=tgju.org #@Xen2ray❤️ 🇦🇪
+vless://12ae514f-156f-4f4b-8bf0-261fec0ed82f@digi.atlasdn.click:2085?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Xen2ray💜 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:802#@Xen2ray🤍 Sharjah 🇦🇪
+vless://12c2fcda-7dc8-4573-ab81-d93f8f6f837b@nexir.nexvpns.fun:6969?security=none&amp;encryption=none&amp;host=amirzaplus.com&amp;headerType=http&amp;type=tcp#@Xen2ray💜 🇦🇪
+ss://YWVzLTI1Ni1nY206NTgwOTIxMzEtYWVkYS00M2Y5LTlmNjgtNDE0MGZjZWU5ZTkw@45.134.13.46:443 #@Xen2ray🤎 🇦🇪
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.229.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=ğŸ”’ [By EbraSha] #@Xen2ray🧡 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.86.251:443 #@Xen2ray🤍 Dubai 🇦🇪
+ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@94.177.145.124:34045?security=reality&amp;encryption=none&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;headerType=none&amp;type=tcp&amp;sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&amp;sid=e8ab71d0#@Xen2ray🤎 🇦🇪
+vless://680821ce-2898-4929-ad75-857723d2e33e@93.127.180.247:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@Xen2ray🧡 Dubai 🇦🇪
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@176.125.231.5:47121#@Xen2ray💜 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWGhxSkdSODFFeU5ITTdabnJzUmxxYkdTUzRFOVY0VzhKWUdNclIyNk5jTlVCdmI%3D@176.97.67.144:51348 #@Xen2ray🧡 Dubai 🇦🇪
+vmess://eyJhZGQiOiI5My4xMjcuMTgwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZmE4NmEzMC0wYzU0LTQ3OWItOGQ2My0zYjM0ZjY0OGQ5ZWMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiQFhlbjJyYXnwn5KcIER1YmFpIPCfh6bwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@193.124.224.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=ğŸ”’ [By EbraSha] #@Xen2ray❤️ 🇦🇪
+vmess://eyJhZGQiOiI5My4xMjcuMTgwLjY0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiNGJkNzM1LTQ5ZTEtNDVlOC04MzA4LWNkZjA1YzRjYzVjNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkBYZW4ycmF58J+noSBEdWJhaSDwn4em8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:80?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@Xen2ray🤎 Dubai 🇦🇪
+vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Xen2ray🤎 🇦🇪
+vless://5c1b687f-6c65-4dd6-be17-fb86d8a919a9@93.127.180.212:80?type=tcp&headerType=http&host=www.varzesh3.com #@Xen2ray💛 Dubai 🇦🇪
+trojan://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&headerType=http&type=tcp&host=telewebion.com #@Xen2ray❤️ 🇦🇪
+vless://telegram-id-ArV2ray@bwdraper.faculty.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=ğŸ”’ [By EbraSha]&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=Ygvtfruh64.net&amp;path=ğŸ”’ [By EbraSha] #@Xen2ray🧡 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.6:812#@Xen2ray💚 Dubai 🇦🇪
+vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=&host=#@Xen2ray🧡 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.145.143:443 #@Xen2ray💚 Dubai 🇦🇪
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=%2F&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@Xen2ray💙 🇦🇪
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@94.177.145.124:34045?security=reality&amp;encryption=none&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;headerType=none&amp;type=tcp&amp;sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&amp;sid=e8ab71d0#@Xen2ray❤️ 🇦🇪
+ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#@Xen2ray🤍 🇦🇪
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&type=ws&host=fraud.chase&path=/?ed&sni=www.Arizona.edu&fp=chrome#@Xen2ray🤎 Dubai 🇦🇪
+vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=/&security=none&encryption=none&type=ws#@Xen2ray💙 🇦🇪
+ss://telegram-id-ArV2ray@bwdraper.faculty.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=ğŸ”’ [By EbraSha]&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=Ygvtfruh64.net&amp;path=ğŸ”’ [By EbraSha] #@Xen2ray🤎 Dubai 🇦🇪
+vless://03d56bf9-d7de-4f68-85be-a888a1bb6e7b@ec2-40-172-235-190.me-central-1.compute.amazonaws.com:443?security=&encryption=none&headerType=&type=tcp#@Xen2ray🧡 Dubai 🇦🇪
+vless://8d082809-5dda-43f2-978e-3e1184aeb2fe@93.127.180.64:443?security=&encryption=none&headerType=none&type=tcp#@Xen2ray🖤 Dubai 🇦🇪
+vless://14628e9d-7005-4178-de3e-69b8d16b23e8@31.58.144.49:6666?mode=gun&security=none= #@Xen2ray❤️ 🇦🇪
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=ğŸ”’ [By EbraSha] #@Xen2ray🖤 🇦🇪
+vless://482d80be-8538-7868-29ee-b4f70f4ad581@45.88.8.147:80?path=/IVApi/NL/1&security=none&encryption=none&type=ws#@Xen2ray💚 🇦🇪
+vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099/?encryption=none&host=tgju.org&type=tcp&headerType=http #@Xen2ray🤍 🇦🇪
+trojan://tunnel-astrovpn_official-ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#@Xen2ray🤍 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#@Xen2ray🧡 Dubai 🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#@Xen2ray🤍 Dubai 🇦🇪
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.dsadsadads.ir:2070?encryption=none&security=none&type=tcp&headerType=none #@Xen2ray💙 🇦🇪
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80/?type=ws&encryption=none&host=iriknet.ir&path=ğŸ”’ [By EbraSha] #@Xen2ray🤍 🇦🇪
+vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134/?type=ws&encryption=none&path=ğŸ”’ [By EbraSha] #@Xen2ray❤️ 🇦🇪
