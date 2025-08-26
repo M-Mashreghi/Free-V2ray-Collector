@@ -197,15 +197,15 @@ def main():
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
     seperate_by_country()
-    Update()
-    # update_with_token()
+    # Update()
+    update_with_token()
 
 
 
 
 if __name__ == "__main__":
-    while True:
-        main()
-        # Sleep for 12 hours (in seconds)
-        time.sleep(2 * 60 * 60)
+    # while True:
+    main()
+
+        # time.sleep(2 * 60 * 60)
 
