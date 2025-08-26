@@ -211,7 +211,8 @@ def main():
         'https://v2.alicivil.workers.dev/?list=5',
         'https://v2.alicivil.workers.dev/?list=6',
         'https://v2.alicivil.workers.dev/?list=8',
-        'https://v2.alicivil.workers.dev/?list=7',        
+        'https://v2.alicivil.workers.dev/?list=7', 
+               
     ]
     dir_links = [
 
@@ -248,5 +249,5 @@ if __name__ == "__main__":
     while True:
         main()
         # Sleep for 12 hours (in seconds)
-        time.sleep(12* 60 * 60)
+        time.sleep(2 * 60 * 60)
 
