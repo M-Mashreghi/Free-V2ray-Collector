@@ -1,13 +1,17 @@
-# Use slim Python image
 FROM python:3.11-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1
 
-# Install system dependencies: git (for commits), tzdata, ca-certs
+# Install system dependencies
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends git tzdata ca-certificates curl && \
-    rm -rf /var/lib/apt/lists/*
+    apt-get install -y --no-install-recommends \
+        git \
+        tzdata \
+        ca-certificates \
+        curl \
+        cron \
+    && rm -rf /var/lib/apt/lists/*
 
 # Workdir inside container
 WORKDIR /app
@@ -19,29 +23,21 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy your code folder
 COPY Files /app/Files
 
-# Optional: copy GeoLite2 dbs if you want them inside container
-# COPY GeoLite2-City.mmdb /app/
-# COPY GeoLite2-Country.mmdb /app/
-
 # Git safety
 RUN git config --global --add safe.directory /app
 
-# Default envs
-ENV MAIN_SCRIPT = Files/app.py
+# Define default script
+ENV MAIN_SCRIPT=/app/Files/app.py
 
-# Entrypoint script to allow looping
-RUN printf '%s\n' \
-    '#!/bin/sh' \
-    'set -e' \
-    ': "${MAIN_SCRIPT:=Files/app.py}"' \
-    'if [ -n "$GIT_USER_NAME" ]; then git config --global user.name "$GIT_USER_NAME"; fi' \
-    'if [ -n "$GIT_USER_EMAIL" ]; then git config --global user.email "$GIT_USER_EMAIL"; fi' \
-    'if [ -n "$LOOP_INTERVAL_MINUTES" ]; then' \
-    '  echo "Looping every $LOOP_INTERVAL_MINUTES minute(s)";' \
-    '  while true; do python "$MAIN_SCRIPT"; sleep $(($LOOP_INTERVAL_MINUTES * 60)); done' \
-    'else' \
-    '  python "$MAIN_SCRIPT"' \
-    'fi' \
-    > /usr/local/bin/entry.sh && chmod +x /usr/local/bin/entry.sh
+# Add crontab file (run every 2 hours)
+RUN echo "0 */2 * * * python3 $MAIN_SCRIPT >> /var/log/cron.log 2>&1" > /etc/cron.d/mycron
 
-ENTRYPOINT ["/usr/local/bin/entry.sh"]
+# Give execution rights on the cron job
+RUN chmod 0644 /etc/cron.d/mycron && \
+    crontab /etc/cron.d/mycron
+
+# Create the log file
+RUN touch /var/log/cron.log
+
+# Start cron and keep container running
+CMD cron && tail -f /var/log/cron.log
