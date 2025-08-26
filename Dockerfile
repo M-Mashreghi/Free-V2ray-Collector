@@ -32,6 +32,7 @@ RUN git config --global --add safe.directory /app/Files
 # Define default script
 ENV MAIN_SCRIPT=app.py
 
+
 # Add crontab file (run every 2 hours)
 # Note: Use absolute path for python and script
 RUN echo "0 */2 * * * cd /app/Files && /usr/local/bin/python3 $MAIN_SCRIPT >> /var/log/cron.log 2>&1" > /etc/cron.d/mycron
