@@ -11,7 +11,7 @@ import time
 from helpers import safe_get
 
 from seperate_config_country import seperate_by_country
-from Run import Update
+from Run import Update,update_with_token
 def generate_urls(base_url_format):
     current_date = datetime.datetime.now()
     formatted_date = current_date.strftime(base_url_format)
@@ -240,7 +240,7 @@ def main():
     shuffled_config , shuffled_list = sort.sort()
     save_config.save_data_shuffle(shuffled_config , shuffled_list)
     seperate_by_country()
-    Update()
+    update_with_token()
 
 
 
