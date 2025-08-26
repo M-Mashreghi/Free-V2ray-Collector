@@ -1,0 +1,7 @@
+GitPython
+requests
+geopy
+ip2geotools
+emoji
+telethon
+pysocks
