@@ -18,6 +18,7 @@ def _with_token(https_url: str, token: str) -> str:
 
 def update_with_token(remote_name: str = "origin", branch: str | None = None) -> None:
     """Commit & push changes to GitHub using PAT stored in env github_token."""
+    load_dotenv('../.env')
     token = os.getenv("github_token")
     if not token:
         raise RuntimeError("Environment variable github_token not set!")
