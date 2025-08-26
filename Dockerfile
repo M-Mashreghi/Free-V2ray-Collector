@@ -27,7 +27,7 @@ COPY Files /app/Files
 RUN git config --global --add safe.directory /app
 
 # Default envs
-ENV MAIN_SCRIPT=Files/Run.py
+ENV MAIN_SCRIPT = Files/app.py
 
 # Entrypoint script to allow looping
 RUN printf '%s\n' \
