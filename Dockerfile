@@ -39,5 +39,6 @@ RUN chmod 0644 /etc/cron.d/mycron && \
 # Create the log file
 RUN touch /var/log/cron.log
 
+
 # Start cron and keep container running
 CMD cron && tail -f /var/log/cron.log
