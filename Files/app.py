@@ -11,7 +11,7 @@ import time
 from helpers import safe_get
 
 from seperate_config_country import seperate_by_country
-from Run import Update,update_with_token
+from update_git import Update,update_with_token
 def generate_urls(base_url_format):
     current_date = datetime.datetime.now()
     formatted_date = current_date.strftime(base_url_format)
