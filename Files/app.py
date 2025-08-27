@@ -203,6 +203,6 @@ def main():
 
 if __name__ == "__main__":
     logger.info("Starting collector run")
-    main()
-
-
+    while True:
+        main()
+        time.sleep(3 * 60 * 60)
