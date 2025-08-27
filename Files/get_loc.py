@@ -1,7 +1,7 @@
 # get_loc.py
 import requests
 from ip2geotools.databases.noncommercial import DbIpCity
-import re, base64, json, socket
+import re, base64, json, socket, os 
 from functools import lru_cache
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -129,19 +129,57 @@ def _resolve_ip(host_or_ip: str) -> str | None:
     except Exception:
         return None
 
-def _resolve_many(hosts: list[str], workers: int = 50) -> dict[str, str]:
+def _resolve_many(hosts: list[str], workers: int | None = None) -> dict[str, str]:
+    """
+    Resolve many hostnames safely on restricted hosts.
+    - Worker count is capped and can be overridden by env GEO_RESOLVE_WORKERS.
+    - Falls back to sequential resolution if threads cannot be started.
+    """
     out: dict[str, str] = {}
-    with ThreadPoolExecutor(max_workers=workers) as ex:
-        futs = {ex.submit(_resolve_ip, h): h for h in hosts}
-        for fut in as_completed(futs):
-            h = futs[fut]
+    if not hosts:
+        return out
+
+    # cap workers aggressively; default to 8, clamp to [2, 16]
+    max_workers = workers or int(os.getenv("GEO_RESOLVE_WORKERS", "8"))
+    max_workers = max(2, min(max_workers, 16))
+
+    try:
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        with ThreadPoolExecutor(max_workers=max_workers, thread_name_prefix="geo-res") as ex:
+            futs = {ex.submit(_resolve_ip, h): h for h in hosts}
+            for fut in as_completed(futs):
+                h = futs[fut]
+                try:
+                    ip = fut.result()
+                    if ip:
+                        out[h] = ip
+                except Exception:
+                    pass
+        return out
+    except RuntimeError:
+        # e.g. "can't start new thread" – fall back to sequential mode
+        for h in hosts:
             try:
-                ip = fut.result()
+                ip = _resolve_ip(h)
                 if ip:
                     out[h] = ip
             except Exception:
                 pass
-    return out
+        return out
+    
+# def _resolve_many(hosts: list[str], workers: int = 50) -> dict[str, str]:
+#     out: dict[str, str] = {}
+#     with ThreadPoolExecutor(max_workers=workers) as ex:
+#         futs = {ex.submit(_resolve_ip, h): h for h in hosts}
+#         for fut in as_completed(futs):
+#             h = futs[fut]
+#             try:
+#                 ip = fut.result()
+#                 if ip:
+#                     out[h] = ip
+#             except Exception:
+#                 pass
+#     return out
 
 # ---------------------------------
 # ip-api BULK lookup
