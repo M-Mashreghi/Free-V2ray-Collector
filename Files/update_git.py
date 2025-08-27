@@ -2,6 +2,7 @@ import git
 from datetime import datetime
 import os
 from urllib.parse import urlparse
+from dotenv import load_dotenv
 
 def _to_https_url(remote_url: str) -> str:
     """Convert SSH/HTTPS remote to plain HTTPS (no credentials)."""

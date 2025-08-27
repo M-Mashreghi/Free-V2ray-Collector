@@ -7,3 +7,4 @@ telethon
 pysocks
 tqdm
 pybase64
+python-dotenv

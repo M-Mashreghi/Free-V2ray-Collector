@@ -10,25 +10,23 @@ from helpers import safe_get
 import logging
 from seperate_config_country import seperate_by_country
 from update_git import Update,update_with_token
+import os, logging, sys
 
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
+LOG_TO_FILE = os.getenv("LOG_TO_FILE", "0") in ("1","true","True")
+LOG_DIR = os.getenv("APP_LOG_DIR", "logs")
 
+handlers = [logging.StreamHandler(sys.stdout)]
+if LOG_TO_FILE:
+    os.makedirs(LOG_DIR, exist_ok=True)
+    handlers.append(logging.FileHandler(os.path.join(LOG_DIR, "app.log"), encoding="utf-8"))
 
-
-# Configure logging
-os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
-    level=logging.INFO,
+    level=getattr(logging, LOG_LEVEL, logging.INFO),
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
-    handlers=[
-        logging.FileHandler("logs/app.log", encoding="utf-8"),
-        logging.StreamHandler()
-    ]
+    handlers=handlers,
 )
 logger = logging.getLogger("collector")
-
-
-
-
 
 
 
@@ -204,8 +202,7 @@ def main():
 
 
 if __name__ == "__main__":
-    # while True:
+    logger.info("Starting collector run")
     main()
 
-        # time.sleep(2 * 60 * 60)
 
