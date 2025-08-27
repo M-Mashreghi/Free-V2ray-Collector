@@ -1,2 +1,2 @@
-ss://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=1lpxy6haqm-451516713-direct.zamam.co#@Xen2ray💛 Vaduz 🇱🇮
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#@Xen2ray💛 Vaduz 🇱🇮
+ss://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=1lpxy6haqm-451516713-direct.zamam.co#@Xen2ray🤍 Vaduz 🇱🇮
+vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#@Xen2ray🤍 Vaduz 🇱🇮

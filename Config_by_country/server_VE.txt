@@ -1,1 +1,1 @@
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=🔒 [By EbraSha]&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=🔒 [By EbraSha] 🇻🇪 #@Xen2ray🖤
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=🔒 [By EbraSha]&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=🔒 [By EbraSha] 🇻🇪 #@Xen2ray🤎
