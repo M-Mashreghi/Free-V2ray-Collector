@@ -1,21 +1,21 @@
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@185.135.86.173:9030 #@Xen2ray💙 Riga 🇱🇻
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989 #@Xen2ray🧡 Riga 🇱🇻
-vless://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?security=reality&amp;encryption=none&amp;pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=e0b8e166 #@Xen2ray🖤 Riga 🇱🇻
-vless://8c8873fb-6e68-4359-8d67-092d399612c9@lyra.persia.my:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp #@Xen2ray💛 🇱🇻
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray🖤 Riga 🇱🇻
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.8.60.113:443?encryption=none&security=tls&sni=vxh.wxgqlfx.cn&alpn=http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vxh.wxgqlfx.cn&path=/TG@wxgqlfx?ed=2560#@Xen2ray🖤 🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348#@Xen2ray💜 Riga 🇱🇻
-vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBYZW4ycmF58J+SnCBSaWdhIPCfh7Hwn4e7Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNzFwRWFGZjVISnRkQUFJM0w3cjZB@46.32.186.234:1080 #@Xen2ray💙 Riga 🇱🇻
-vless://714d0dcd-17f8-4495-ba35-5f04d2d92c0f@45.133.216.114:8443?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&type=tcp&headerType=none#@Xen2ray💚 Riga 🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#@Xen2ray🖤 Riga 🇱🇻
-ss://id8127942053@s2.nodu10.ru:443?security=reality&amp;encryption=none&amp;pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&amp;headerType=none&amp;fp=edge&amp;spx=%2FS5t6RP5swFSGWWR&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.apple.com&amp;sid=a61d6960f49e#@Xen2ray🤎 Riga 🇱🇻
-vless://id8038365259@185.145.245.36:443?flow=xtls-rprx-vision&fp=chrome&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&security=reality&sid=ae3d10ca88c9e052&sni=apple.com&spx=/IwwrlmunQgh9kvo&type=tcp#@Xen2ray🤍 Riga 🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#@Xen2ray🤎 Riga 🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#@Xen2ray💜 Riga 🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@lv.vmagnum.win:57456 #@Xen2ray❤️ Riga 🇱🇻
-ss://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?security=reality&amp;encryption=none&amp;pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=e0b8e166 #@Xen2ray🤎 Riga 🇱🇻
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.217.232:989 #@Xen2ray💙 Riga 🇱🇻
-vmess://eyJhZGQiOiI5MS4yMTguMTQzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNDQwZTBkMy1kMzlhLTRiZDgtYTJjNC1lMjJhNmFlZjk2ZTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvPy0tVEVMRUdSQU0tVklUVVJFWS0tLS1URUxFR1JBTS1WSVRVUkVZLS0tLVRFTEVHUkFNLVZJVFVSRVktLS0tVEVMRUdSQU0tVklUVVJFWSIsInBvcnQiOiIyMDA4NiIsInBzIjoiQFhlbjJyYXnwn5KbIFJpZ2Eg8J+HsfCfh7siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&path=🔒 [By EbraSha] #@Xen2ray🤎 Riga 🇱🇻
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.8.60.113:443?encryption=none&security=tls&sni=vxh.wxgqlfx.cn&alpn=http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vxh.wxgqlfx.cn&path=/TG@wxgqlfx?ed=2560#@Xen2ray💚 🇱🇻
+vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?type=ws&encryption=none&path=🔒 [By EbraSha] #@Xen2ray🤍 Riga 🇱🇻
 vless://id8127942053@s2.nodu10.ru:443?security=reality&amp;encryption=none&amp;pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&amp;headerType=none&amp;fp=edge&amp;spx=%2FS5t6RP5swFSGWWR&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.apple.com&amp;sid=a61d6960f49e#@Xen2ray🤎 Riga 🇱🇻
+vless://714d0dcd-17f8-4495-ba35-5f04d2d92c0f@45.133.216.114:8443?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&type=tcp&headerType=none#@Xen2ray❤️ Riga 🇱🇻
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989#@Xen2ray💛 Riga 🇱🇻
+ss://id8127942053@s2.nodu10.ru:443?security=reality&amp;encryption=none&amp;pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&amp;headerType=none&amp;fp=edge&amp;spx=%2FS5t6RP5swFSGWWR&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.apple.com&amp;sid=a61d6960f49e#@Xen2ray🧡 Riga 🇱🇻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@lv.vmagnum.win:57456 #@Xen2ray💜 Riga 🇱🇻
+vless://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?security=reality&amp;encryption=none&amp;pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=e0b8e166 #@Xen2ray🖤 Riga 🇱🇻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#@Xen2ray🤍 Riga 🇱🇻
+vless://id8038365259@185.145.245.36:443?flow=xtls-rprx-vision&fp=chrome&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&security=reality&sid=ae3d10ca88c9e052&sni=apple.com&spx=/IwwrlmunQgh9kvo&type=tcp#@Xen2ray💜 Riga 🇱🇻
+ss://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?security=reality&amp;encryption=none&amp;pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=e0b8e166 #@Xen2ray🤎 Riga 🇱🇻
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@185.135.86.173:9043 #@Xen2ray🤍 Riga 🇱🇻
+vmess://eyJhZGQiOiI5MS4yMTguMTQzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNDQwZTBkMy1kMzlhLTRiZDgtYTJjNC1lMjJhNmFlZjk2ZTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvPy0tVEVMRUdSQU0tVklUVVJFWS0tLS1URUxFR1JBTS1WSVRVUkVZLS0tLVRFTEVHUkFNLVZJVFVSRVktLS0tVEVMRUdSQU0tVklUVVJFWSIsInBvcnQiOiIyMDA4NiIsInBzIjoiQFhlbjJyYXnwn6ehIFJpZ2Eg8J+HsfCfh7siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#@Xen2ray🤍 Riga 🇱🇻
+vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBYZW4ycmF58J+noSBSaWdhIPCfh7Hwn4e7Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#@Xen2ray💜 Riga 🇱🇻
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.217.232:989 #@Xen2ray🖤 Riga 🇱🇻
+vless://8c8873fb-6e68-4359-8d67-092d399612c9@lyra.persia.my:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp #@Xen2ray❤️ 🇱🇻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE@45.128.151.67:31348 #@Xen2ray💙 Riga 🇱🇻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNzFwRWFGZjVISnRkQUFJM0w3cjZB@46.32.186.234:1080 #@Xen2ray💚 Riga 🇱🇻
+vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray🖤 Riga 🇱🇻
