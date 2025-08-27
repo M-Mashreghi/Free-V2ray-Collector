@@ -13,37 +13,37 @@
 
 Just Copy these links to your client to use :
 
-Subscription 1 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub1_shuffled.conf
+Subscription 1 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub1_shuffled.conf
 
-Subscription 2 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub2_shuffled.conf
+Subscription 2 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub2_shuffled.conf
 
-Subscription 3 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub3_shuffled.conf
+Subscription 3 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub3_shuffled.conf
 
-Subscription 4 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub4_shuffled.conf
+Subscription 4 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub4_shuffled.conf
 
-Subscription 5 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub5_shuffled.conf
+Subscription 5 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub5_shuffled.conf
 
-Subscription 6 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub6_shuffled.conf
+Subscription 6 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub6_shuffled.conf
 
-Subscription 7 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub7_shuffled.conf
+Subscription 7 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub7_shuffled.conf
 
-Subscription 8 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub8_shuffled.conf
+Subscription 8 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub8_shuffled.conf
 
-Subscription 9 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub9_shuffled.conf
+Subscription 9 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub9_shuffled.conf
 
-Subscription 10 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub10_shuffled.conf
+Subscription 10 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub10_shuffled.conf
 
-Subscription 11 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub11_shuffled.conf
+Subscription 11 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub11_shuffled.conf
 
-Subscription 12 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub12_shuffled.conf
+Subscription 12 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub12_shuffled.conf
 
-Subscription 13 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub13_shuffled.conf
+Subscription 13 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub13_shuffled.conf
 
-Subscription 14 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub14_shuffled.conf
+Subscription 14 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub14_shuffled.conf
 
-Subscription 15 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub15_shuffled.conf
+Subscription 15 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub15_shuffled.conf
 
-Subscription 16 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/shuffle/Sub16_shuffled.conf
+Subscription 16 : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/shuffle/Sub16_shuffled.conf
 
 
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
@@ -61,33 +61,33 @@ ShadowSocks : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector
 ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Splitted-By-Protocol/ssr.txt
 
 🌐 We have also divided the configuration based on their respective locations. Here are some locations for usage:
-Australia 🇦🇺: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_AU.txt
+Australia 🇦🇺: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_AU.txt
 
-Canada 🇨🇦: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_CA.txt
+Canada 🇨🇦: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_CA.txt
 
-China 🇨🇳: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_CN.txt
+China 🇨🇳: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_CN.txt
 
-Germany 🇩🇪: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_DE.txt
+Germany 🇩🇪: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_DE.txt
 
-Finland 🇫🇮: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_FI.txt
+Finland 🇫🇮: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_FI.txt
 
-France 🇫🇷: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_FR.txt
+France 🇫🇷: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_FR.txt
 
-United Kingdom 🇬🇧: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_GB.txt
+United Kingdom 🇬🇧: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_GB.txt
 
-Hong Kong 🇭🇰: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_HK.txt
+Hong Kong 🇭🇰: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_HK.txt
 
-Japan 🇯🇵: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_JP.txt
+Japan 🇯🇵: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_JP.txt
 
-Netherlands 🇳🇱: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_NL.txt
+Netherlands 🇳🇱: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_NL.txt
 
-Poland 🇵🇱: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_PL.txt
+Poland 🇵🇱: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_PL.txt
 
-Sweden 🇸🇪: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_SE.txt
+Sweden 🇸🇪: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_SE.txt
 
-Singapore 🇸🇬: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_SG.txt
+Singapore 🇸🇬: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_SG.txt
 
-United States 🇺🇸: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Files/Config_by_country/server_US.txt
+United States 🇺🇸: https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/Config_by_country/server_US.txt
 
 ℹ️ Additionally, we have created a Wiki with detailed instructions on how to set up V2ray on different operating systems. Visit our Wiki for more information.
 
@@ -120,3 +120,4 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 [@mahdibland](https://github.com/mahdibland)
 [@MrPooyaX](https://github.com/MrPooyaX)
 [@Bardiafa](https://github.com/Bardiafa)
+
