@@ -1,22 +1,21 @@
-vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjE0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjUwMDY4LCJwcyI6IkBYZW4ycmF58J+noSBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjU5MTAyLCJwcyI6IkBYZW4ycmF58J+WpCBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 401 #@Xen2ray💚 Dublin 🇮🇪
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #@Xen2ray❤️ Dublin 🇮🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.117.137:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=/telegram-channel-vlessconfig-ws#@Xen2ray🖤 Dublin 🇮🇪
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.117.137:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=/telegram-channel-vlessconfig-ws#@Xen2ray🤎 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 464 #@Xen2ray💙 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@52.212.133.245:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Xen2ray🤍 Dublin 🇮🇪
+vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOjY0LCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMzAwMDIyMTEzMzI5IiwicG9ydCI6MzAwMDAsInBzIjoiQFhlbjJyYXnwn5KZIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Ind3dy4xNDYwMTE3Ni54eXoifQ==
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#@Xen2ray💚 Dublin 🇮🇪
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#@Xen2ray💙 Dublin 🇮🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989 #@Xen2ray🖤 Dublin 🇮🇪
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray💚 Dublin 🇮🇪
+ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray💙 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 527 #@Xen2ray💙 Dublin 🇮🇪
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@108.129.163.206:443#@Xen2ray🤎 Dublin 🇮🇪
+vmess://eyJhZGQiOiIxODUuMTA4LjEyOC42MCIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KaIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 733 #@Xen2ray💜 Dublin 🇮🇪
 trojan://S896mMChk5@54.247.123.33:1935?security=tls&sni=x1-ireland-amazon-v2.devefun.cloud&type=tcp&fp=chrome&allowInsecure=1#@Xen2ray💛 Dublin 🇮🇪
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#@Xen2ray🧡 Dublin 🇮🇪
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989 #@Xen2ray❤️ Dublin 🇮🇪
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 733 #@Xen2ray🧡 Dublin 🇮🇪
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 985 #@Xen2ray🧡 Dublin 🇮🇪
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 897 #@Xen2ray💚 Dublin 🇮🇪
-vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOjY0LCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMzAwMDIyMTEzMzI5IiwicG9ydCI6MzAwMDAsInBzIjoiQFhlbjJyYXnwn5KaIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Ind3dy4xNDYwMTE3Ni54eXoifQ==
-ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray🧡 Dublin 🇮🇪
-vmess://eyJhZGQiOiJhYzIwODguaGVyb2t1YXBwLmNvbSIsImFpZCI6MCwiaG9zdCI6ImFjMjA4OC5oZXJva3VhcHAuY29tIiwiaWQiOiJkMWJhYmUwOC1mOGFjLTQ5MGItYjY2Zi05YmUyNzQ2N2YzY2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDFiYWJlMDgtZjhhYy00OTBiLWI2NmYtOWJlMjc0NjdmM2NjLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjiBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 527 #@Xen2ray❤️ Dublin 🇮🇪
-trojan://telegram-id-privatevpns@52.212.133.245:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Xen2ray💙 Dublin 🇮🇪
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.117.137:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=/telegram-channel-vlessconfig-ws#@Xen2ray💙 Dublin 🇮🇪
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.117.137:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=/telegram-channel-vlessconfig-ws#@Xen2ray🤍 Dublin 🇮🇪
-vmess://eyJhZGQiOiIxODUuMTA4LjEyOC42MCIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KbIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray💙 Dublin 🇮🇪
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@108.129.163.206:443#@Xen2ray🤍 Dublin 🇮🇪
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 464 #@Xen2ray🖤 Dublin 🇮🇪
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#@Xen2ray🤎 Dublin 🇮🇪
+vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjE0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjUwMDY4LCJwcyI6IkBYZW4ycmF58J+WpCBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 897 #@Xen2ray🤎 Dublin 🇮🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #@Xen2ray💙 Dublin 🇮🇪
+vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjU5MTAyLCJwcyI6IkBYZW4ycmF58J+kjSBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 985 #@Xen2ray💛 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 401 #@Xen2ray💚 Dublin 🇮🇪

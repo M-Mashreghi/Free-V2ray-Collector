@@ -52,12 +52,12 @@ def _detect_default_branch(repo: git.Repo, remote_name: str = "origin") -> str:
         return repo.active_branch.name
     return "main"
 
+
+
+THREAD_ERR = "getaddrinfo() thread failed to start"
+
 def update_with_token(remote_name: str = "origin", branch: str | None = None) -> None:
-    """
-    Stage+commit local changes (if any), pull --rebase to integrate remote,
-    and push using a token injected only into the push URL.
-    Obeys SKIP_PUSH=1 to allow running without pushing on constrained hosts.
-    """
+    # Allow turning off pushing on constrained hosts
     if os.getenv("SKIP_PUSH") == "1":
         print("Skipping push because SKIP_PUSH=1")
         return
@@ -67,52 +67,49 @@ def update_with_token(remote_name: str = "origin", branch: str | None = None) ->
         raise RuntimeError("Environment variable github_token not set!")
 
     repo = git.Repo(os.getcwd())
-    _ensure_identity(repo)
 
-    remote = repo.remotes[remote_name]
-    original_fetch_url = remote.url
-    https_url = _to_https_url(original_fetch_url)
-    push_url = _with_token(https_url, token)
-
-    # 1) Make sure we’re on a local branch (not detached)
-    default_branch = branch or _detect_default_branch(repo, remote_name)
-    if repo.head.is_detached:
-        # If remote branch exists, create/switch to local tracking branch
-        try:
-            repo.git.checkout("-B", default_branch, f"{remote_name}/{default_branch}")
-        except git.GitCommandError:
-            repo.git.checkout("-B", default_branch)
-
-    # 2) Stage + commit local changes (if any)
+    # Stage & commit locally so you never lose work
     repo.git.add(all=True)
     if repo.is_dirty(untracked_files=True):
         ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         repo.index.commit(f"✅ {ts} ✅")
 
-    # 3) Pull --rebase to avoid non-fast-forward errors (remote ahead)
+    # Detect branch (fallback to main)
+    default_branch = (branch or
+                      (repo.active_branch.name if not repo.head.is_detached else "main"))
+
+    # Try fetch/pull with rebase; if threads are unavailable, just return
     try:
-        # Keep fetch URL unauthenticated (public reads); rebase integrates remote work
         repo.git.fetch(remote_name)
         repo.git.pull("--rebase", remote_name, default_branch)
     except git.GitCommandError as e:
-        # If conflicts: surface clear message; user must resolve, then re-run
-        print("Pull with rebase failed (likely merge conflicts). "
-              "Resolve conflicts, then run: git add -A && git rebase --continue")
+        msg = str(e.stderr or e)
+        if THREAD_ERR in msg:
+            print("Low-resources: skipping network Git (will not push).")
+            return
+        # For real merge conflicts, surface standard instruction
+        if "conflict" in msg.lower() or "merge" in msg.lower():
+            print("Pull with rebase failed (merge conflicts). Resolve, then: git add -A && git rebase --continue")
         raise
 
-    # 4) Temporarily inject token into the push URL only, then push
+    # If we got here, network is fine: push with token injected only for push URL
+    remote = repo.remotes[remote_name]
+    original = remote.url
+    https = original if original.startswith("http") else f"https://github.com/{original.split(':',1)[1]}"
+    from urllib.parse import urlparse
+    u = urlparse(https)
+    push_url = u._replace(netloc=f"x-access-token:{token}@{u.netloc}").geturl()
+
     try:
         remote.set_url(push_url, push=True)
         try:
             repo.git.push(remote_name, default_branch)
         except git.GitCommandError:
-            # First push on a new branch or after upstream change
             repo.git.push(remote_name, f"HEAD:refs/heads/{default_branch}", "-u")
         print(f"Pushed to {remote_name}/{default_branch}.")
     finally:
-        # 5) Restore original push URL so the token is not persisted
-        remote.set_url(original_fetch_url, push=True)
-
+        remote.set_url(original, push=True)
+        
 # Backwards-compatible alias
 def Update():
     return update_with_token()
