@@ -1,8 +1,9 @@
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray🖤 🇯🇴
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#@Xen2ray🖤 🇯🇴
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray🧡 🇯🇴
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Xen2ray💛 🇯🇴
-vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.9#@Xen2ray🧡
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray🤎 🇯🇴
-trojan://NISHIKUITAN111@62.72.166.57:443?allowInsecure=1 #@Xen2ray💜 🇯🇴
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #@Xen2ray🤎 🇯🇴
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Xen2ray💚 🇯🇴
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #@Xen2ray💛 🇯🇴
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#@Xen2ray🤎 🇯🇴
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💚 🇯🇴
+trojan://NISHIKUITAN111@62.72.166.57:443?allowInsecure=1 #@Xen2ray❤️ 🇯🇴
+vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=🔒 [By EbraSha] 🩵 #@Xen2ray🤎 🇯🇴
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray🤎 🇯🇴
+vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.9#@Xen2ray💚
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray❤️ 🇯🇴
