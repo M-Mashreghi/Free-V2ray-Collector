@@ -1,48 +1,49 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#@Xen2ray🧡 🇨🇭
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=&type=tcp&headerType=http&host=&encryption=none #@Xen2ray🤍 Bern 🇨🇭
-vless://5b2b6e7a-fc72-4823-9ee5-733ec0b6a882@45.90.57.107:80?encryption=none&security=none&type=ws&host=ch1.v2vless.xyz&path=🔒 [By EbraSha] #@Xen2ray🧡 Geneva 🇨🇭
-vmess://eyJhZGQiOiIxODYuMTkwLjIxNS4xNDkiLCJhaWQiOjEsImhvc3QiOiIxODYuMTkwLjIxNS4xNDkiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KcIFp1cmljaCDwn4eo8J+HrSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IjE4Ni4xOTAuMjE1LjE0OSJ9
-vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#@Xen2ray💛 Les Acacias 🇨🇭
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.18.250.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Xen2ray❤️ 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZEp1UGpxN1diRkRqQjRvYWNsakd3@5.182.36.245:10141 #@Xen2ray🧡 Bern 🇨🇭
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp #@Xen2ray🤍 🇨🇭
-vmess://eyJhZGQiOiIxODYuMTkwLjIxNS43NSIsImFpZCI6MSwiaG9zdCI6IjE4Ni4xOTAuMjE1Ljc1IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SmSBadXJpY2gg8J+HqPCfh60iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&amp;sid=910aab&amp;type=tcp&amp;headerType=none#@Xen2ray💚 Bern 🇨🇭
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#@Xen2ray🤎 Zurich 🇨🇭
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989 #@Xen2ray🤎 🇨🇭
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.33:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws #@Xen2ray💜 🇨🇭
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&amp;sid=910aab&amp;type=tcp&amp;headerType=none#@Xen2ray💚 Bern 🇨🇭
-trojan://28d98f761aca9d636f44db62544628eb@185.126.116.235:443?allowInsecure=1 #@Xen2ray🤎 Zurich 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ch03.giamping.com:8080#@Xen2ray💛 Zurich 🇨🇭
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003 #@Xen2ray❤️ Zurich 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZzNreHVJejZHdlozZEllNFFsUUhq@h110vpnch.outlinekeys.net:4248 #@Xen2ray🧡 Zurich 🇨🇭
-vmess://eyJhZGQiOiI1LjE4Mi4zNi4xOTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KaIEJlcm4g8J+HqPCfh60ifQ==
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@37.120.213.230:50004#@Xen2ray💚 Zurich 🇨🇭
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@Xen2ray🖤 🇨🇭
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@185.126.116.125:9098 #@Xen2ray🤍 Zurich 🇨🇭
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.166.88.5:3389 #@Xen2ray💚 Zurich 🇨🇭
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118 #@Xen2ray💜 Zurich 🇨🇭
-trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By EbraSha] #@Xen2ray🖤 Zurich 🇨🇭
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#@Xen2ray💛 Zurich 🇨🇭
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#@Xen2ray💜 Zurich 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppTzNOSDhNWFpsOERnOW10VHJxTVdR@195.15.215.198:5555 #@Xen2ray💚 🇨🇭
-vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6SOIPCfh6jwn4etIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#@Xen2ray💜 Zurich 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#@Xen2ray💜 Zurich 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VXp1dWxoTWNiZWVEdGFYbVdpUFdM@45.95.232.236:4248 #@Xen2ray🤎 Zurich 🇨🇭
-vless://5da1f823-b460-407c-86d7-13b9b00a62f2@ch.napsternetx.ir:2096?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Xen2ray💚 Bern 🇨🇭
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#@Xen2ray🧡 Zurich 🇨🇭
+vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=&type=tcp&headerType=http&host=&encryption=none #@Xen2ray🤎 Bern 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VXp1dWxoTWNiZWVEdGFYbVdpUFdM@45.95.232.236:4248 #@Xen2ray🧡 Zurich 🇨🇭
+vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp #@Xen2ray🖤 🇨🇭
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.53.163:80 #@Xen2ray💚 Zurich 🇨🇭
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.33:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws #@Xen2ray💚 🇨🇭
+vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@Xen2ray💛 🇨🇭
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.166.88.5:3389 #@Xen2ray🧡 Zurich 🇨🇭
+vless://5da1f823-b460-407c-86d7-13b9b00a62f2@ch.napsternetx.ir:2096?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Xen2ray💜 Bern 🇨🇭
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118 #@Xen2ray🧡 Zurich 🇨🇭
+vmess://eyJhZGQiOiIyMy4xNjYuODguMjciLCJhaWQiOjEsImhvc3QiOiIyMy4xNjYuODguMjciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5akIFp1cmljaCDwn4eo8J+HrSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiIxODYuMTkwLjIxNS4zMiIsImFpZCI6MSwiaG9zdCI6IjE4Ni4xOTAuMjE1LjMyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjiBadXJpY2gg8J+HqPCfh60iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&amp;sid=910aab&amp;type=tcp&amp;headerType=none#@Xen2ray❤️ Bern 🇨🇭
+vless://e78435e5-57b4-4e89-9775-4b067e18bacc@45.90.57.107:80?encryption=none&security=none&type=ws&host=ch1.v2vless.xyz&path=🔒 [By EbraSha] #@Xen2ray🤍 Geneva 🇨🇭
+trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;type=ws&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;path=/Telegram@V2ray_Alpha/?ed=2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev#@Xen2ray💜 🇨🇭
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989 #@Xen2ray🖤 🇨🇭
+vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@switzerland.amirconfigpanelllll.com:625/?encryption=none&flow=&host=zhaket.com&type=tcp&headerType=http #@Xen2ray🧡 🇨🇭
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@37.120.213.230:50004#@Xen2ray🧡 Zurich 🇨🇭
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS43NSIsImFpZCI6MSwiaG9zdCI6IjE4Ni4xOTAuMjE1Ljc1IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+noSBadXJpY2gg8J+HqPCfh60iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZzNreHVJejZHdlozZEllNFFsUUhq@h110vpnch.outlinekeys.net:4248 #@Xen2ray🤍 Zurich 🇨🇭
+trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By EbraSha] #@Xen2ray🖤 Zurich 🇨🇭
+vless://113dd109-540e-4497-9d47-eed30315260f@185.18.250.200:80?allowInsecure=0&sni=edgetunnel.2424014450.workers.dev&type=ws&host=edgetunnel.2424014450.workers.dev&path=/proxyIP=proxyip.oracle.fxxk.dedyn.iofp=chrome&fp=chrome#@Xen2ray🤍 🇨🇭
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray🤎 🇨🇭
-ss://5da1f823-b460-407c-86d7-13b9b00a62f2@ch.napsternetx.ir:2096?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Xen2ray💙 Bern 🇨🇭
-ss://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&amp;encryption=none&amp;pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telwebion.com&amp;sid=c3fe60ab#@Xen2ray💚 🇨🇭
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&amp;encryption=none&amp;pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telwebion.com&amp;sid=c3fe60ab#@Xen2ray❤️ 🇨🇭
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080/?type=xhttp&encryption=none #@Xen2ray💛 🇨🇭
-vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@switzerland.amirconfigpanelllll.com:625/?encryption=none&flow=&host=zhaket.com&type=tcp&headerType=http #@Xen2ray💙 🇨🇭
-trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;type=ws&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;path=/Telegram@V2ray_Alpha/?ed=2560&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev#@Xen2ray💚 🇨🇭
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#@Xen2ray💜 Zurich 🇨🇭
-vless://96457dda-f79a-4087-89d6-dc973fdf41cc@d270391091093100193938819293819w6.servers801.ir:2096/?type=ws&encryption=none&host=45f4d22d.Mareza.pages.dev&path=🔒 [By EbraSha] #@Xen2ray💜 Les Acacias 🇨🇭
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.53.163:80 #@Xen2ray💛 Zurich 🇨🇭
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#@Xen2ray🖤 Zurich 🇨🇭
-ss://1b1c2f80-7b93-4388-8b90-cd4b9133a3ed@Switzerland.amirconfigpanelllll.com:625?security=none&amp;encryption=none&amp;host=zhaket.com&amp;headerType=http&amp;type=tcp#@Xen2ray🧡 🇨🇭
-vmess://eyJhZGQiOiIyMy4xNjYuODguMjciLCJhaWQiOjEsImhvc3QiOiIyMy4xNjYuODguMjciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KcIFp1cmljaCDwn4eo8J+HrSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.18.250.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray💚 🇨🇭
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS4xNDkiLCJhaWQiOjEsImhvc3QiOiIxODYuMTkwLjIxNS4xNDkiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KbIFp1cmljaCDwn4eo8J+HrSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IjE4Ni4xOTAuMjE1LjE0OSJ9
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080/?type=xhttp&encryption=none #@Xen2ray🤍 🇨🇭
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@185.126.116.125:9098 #@Xen2ray🤎 Zurich 🇨🇭
+vmess://eyJhZGQiOiI1LjE4Mi4zNi4xOTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KaIEJlcm4g8J+HqPCfh60ifQ==
+vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#@Xen2ray💜 Les Acacias 🇨🇭
+vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&amp;encryption=none&amp;pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telwebion.com&amp;sid=c3fe60ab#@Xen2ray🧡 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#@Xen2ray❤️ 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppTzNOSDhNWFpsOERnOW10VHJxTVdR@195.15.215.198:5555 #@Xen2ray💙 🇨🇭
+vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KZIPCfh6jwn4etIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.18.250.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Xen2ray🤍 🇨🇭
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#@Xen2ray🖤 Zurich 🇨🇭
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&amp;sid=910aab&amp;type=tcp&amp;headerType=none#@Xen2ray🖤 Bern 🇨🇭
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#@Xen2ray🖤 Zurich 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZEp1UGpxN1diRkRqQjRvYWNsakd3@5.182.36.245:10141 #@Xen2ray💚 Bern 🇨🇭
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003 #@Xen2ray💛 Zurich 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#@Xen2ray💜 Zurich 🇨🇭
+ss://1b1c2f80-7b93-4388-8b90-cd4b9133a3ed@Switzerland.amirconfigpanelllll.com:625?security=none&amp;encryption=none&amp;host=zhaket.com&amp;headerType=http&amp;type=tcp#@Xen2ray💛 🇨🇭
+trojan://28d98f761aca9d636f44db62544628eb@185.126.116.235:443?allowInsecure=1 #@Xen2ray💚 Zurich 🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ch03.giamping.com:8080#@Xen2ray🧡 Zurich 🇨🇭
+vless://96457dda-f79a-4087-89d6-dc973fdf41cc@d270391091093100193938819293819w6.servers801.ir:2096/?type=ws&encryption=none&host=45f4d22d.Mareza.pages.dev&path=🔒 [By EbraSha] #@Xen2ray🤎 Les Acacias 🇨🇭
+ss://5da1f823-b460-407c-86d7-13b9b00a62f2@ch.napsternetx.ir:2096?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Xen2ray🧡 Bern 🇨🇭
+ss://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&amp;encryption=none&amp;pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telwebion.com&amp;sid=c3fe60ab#@Xen2ray💛 🇨🇭
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#@Xen2ray🧡 Zurich 🇨🇭
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#@Xen2ray🧡 Zurich 🇨🇭
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.18.250.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray🧡 🇨🇭
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#@Xen2ray🧡 Zurich 🇨🇭
