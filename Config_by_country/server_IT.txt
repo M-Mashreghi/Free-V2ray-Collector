@@ -1,23 +1,25 @@
-ss://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=2096vless#@Xen2ray🧡 Milan 🇮🇹
-ss://a6d71998-ed6d-474f-9f60-8a62ce2bc63c@filmnet.filimnet.com:80/?type=xhttp&path=🔒 [By EbraSha]&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none #@Xen2ray💚 Milan 🇮🇹
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#@Xen2ray🤍 Milan 🇮🇹
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#@Xen2ray💚 Milan 🇮🇹
-ss://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Xen2ray💚 Rome 🇮🇹
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#@Xen2ray❤️ Rome 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443 #@Xen2ray💛 Milan 🇮🇹
-ss://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&amp;path=%2Fpath&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=Demon02.global.ssl.fastly.net&amp;type=xhttp#@Xen2ray💜 Milan 🇮🇹
-vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc #@Xen2ray💜 Rome 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#@Xen2ray🤎 🇮🇹
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18760 #@Xen2ray❤️ 🇮🇹
-vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80/?type=xhttp&encryption=none #@Xen2ray💜 Milan 🇮🇹
-vless://067fd1a5-f395-46d4-889e-606297583aa4@filmnet.filimnet.com:80/?type=xhttp&encryption=none #@Xen2ray💜 Milan 🇮🇹
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#@Xen2ray🖤 Milan 🇮🇹
+ss://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Xen2ray💜 Rome 🇮🇹
+vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80/?type=xhttp&encryption=none #@Xen2ray💙 Milan 🇮🇹
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless #@Xen2ray🧡 Milan 🇮🇹
 vless://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Xen2ray🤍 Rome 🇮🇹
-vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org#@Xen2ray💙 Milan 🇮🇹
-vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless #@Xen2ray💚 Milan 🇮🇹
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#@Xen2ray💛 Milan 🇮🇹
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#@Xen2ray💛 Milan 🇮🇹
-vmess://eyJhZGQiOiIxMDkuMTIyLjIwOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6NDgzNzcsInBzIjoiQFhlbjJyYXninaTvuI8g8J+HrvCfh7kiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#@Xen2ray🖤 Rome 🇮🇹
-vless://GKVCVNnu@151.101.242.172:80?mode=auto&security=none&encryption=none&host=sdarkrd.global.ssl.fastly.net&type=xhttp #@Xen2ray🤎 Milan 🇮🇹
-vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80/?type=ws&encryption=none&host=EtZM4uyEwUnSfh.com&path=🔒 [By EbraSha] #@Xen2ray🖤 Milan 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035 #@Xen2ray💛 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443 #@Xen2ray🤎 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18760 #@Xen2ray🧡 🇮🇹
+ss://cc729906-c0d4-4ab8-bd9a-987595b973cd@filmnet.filimnet.com:80/?type=xhttp&path=🔒 [By EbraSha]&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none #@Xen2ray💜 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#@Xen2ray💛 🇮🇹
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org#@Xen2ray🤍 Milan 🇮🇹
+ss://6035325d-399a-5148-9126-29cedfd5966a@147.45.51.67:443?security=reality&amp;encryption=none&amp;pbk=zr1YTtXSRwdO8o5podr88Cz28vQpJGzuTJM9mpMp1AA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=outlook.office.com&amp;sid=df5e9592#@Xen2ray💙 Milan 🇮🇹
+vless://6035325d-399a-5148-9126-29cedfd5966a@147.45.51.67:443?security=reality&amp;encryption=none&amp;pbk=zr1YTtXSRwdO8o5podr88Cz28vQpJGzuTJM9mpMp1AA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=outlook.office.com&amp;sid=df5e9592#@Xen2ray💙 Milan 🇮🇹
+ss://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=2096vless#@Xen2ray🖤 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#@Xen2ray🧡 Rome 🇮🇹
+vless://GKVCVNnu@151.101.242.172:80?mode=auto&security=none&encryption=none&host=sdarkrd.global.ssl.fastly.net&type=xhttp #@Xen2ray🧡 Milan 🇮🇹
+ss://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&amp;path=%2Fpath&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=Demon02.global.ssl.fastly.net&amp;type=xhttp#@Xen2ray🤍 Milan 🇮🇹
+vmess://eyJhZGQiOiIxMDkuMTIyLjIwOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6NDgzNzcsInBzIjoiQFhlbjJyYXnwn5KbIPCfh67wn4e5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80/?type=ws&encryption=none&host=EtZM4uyEwUnSfh.com&path=🔒 [By EbraSha] #@Xen2ray💛 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#@Xen2ray🖤 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035 #@Xen2ray🤎 Milan 🇮🇹
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#@Xen2ray🧡 Milan 🇮🇹
+vless://067fd1a5-f395-46d4-889e-606297583aa4@filmnet.filimnet.com:80/?type=xhttp&encryption=none #@Xen2ray🖤 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#@Xen2ray💜 Rome 🇮🇹
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#@Xen2ray💚 Milan 🇮🇹
+vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc #@Xen2ray💛 Rome 🇮🇹
