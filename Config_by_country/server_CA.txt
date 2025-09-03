@@ -1,155 +1,154 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811#@Xen2ray🤎 Toronto 🇨🇦
-vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051/?type=tcp&encryption=none #@Xen2ray🧡 🇨🇦
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicHMiOiJAWGVuMnJheeKdpO+4jyBUb3JvbnRvIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImM1YTJkN2I4LWJmODQtNGY5Ny04NTc3LWI5Yjg3ZjJiYWFmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfp6EgT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@99.199.73.47:443?security=reality&encryption=none&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&headerType=none&fp=chrome&type=tcp&sni=blog.cloudflare.com&sid=14#@Xen2ray🖤 Vancouver 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E@ca-1.stunnel.cc:8444 #@Xen2ray💛 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI0gT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://5d2f6225-c658-4efe-a57c-53adb435964f@172.105.27.17:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray❤️ Toronto 🇨🇦
-vless://c5fe2244-df45-4efe-8abe-9699e7802697@172.105.29.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🧡 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.92:443#@Xen2ray🧡 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxOTIuOTkuOC45OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDVjMzgzOTktNTI5Ni00YmYyLWE2MDYtMWNlYzNiNzFjOTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM2MDA1LCJwcyI6IkBYZW4ycmF58J+SmSDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray💛 Ottawa 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KcIPCfh6jwn4emIiwiYWRkIjoiNTEuNzkuMTAyLjI1MyIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJob3N0IjoiIiwidGxzIjoiIn0=
-vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Xen2ray💚 🇨🇦
-trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#@Xen2ray🤍 Ottawa 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg@ca.opensocks.site:8388 #@Xen2ray🤎 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Xen2ray💙 Toronto 🇨🇦
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989 #@Xen2ray💙 Vancouver 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGZiNTY3NTJkM2Y3NTlk@51.79.54.90:45398#@Xen2ray💙 🇨🇦
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI4gTW9udHJlYWwg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://?M|$pIEDnf8N@172.66.44.59:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha] 🇨🇦 #@Xen2ray💙
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443 #@Xen2ray💜 Vancouver 🇨🇦
-vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.99.25:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray❤️ Toronto 🇨🇦
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@138.197.149.46:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#@Xen2ray🤎 Toronto 🇨🇦
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💚 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:810 #@Xen2ray💙 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#@Xen2ray🖤 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.61:443#@Xen2ray🖤 Toronto 🇨🇦
-ss://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray💙 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOjIwOTYsInBzIjoiQFhlbjJyYXnwn5KZIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJzZWN1cml0eSI6Im5vbmUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://8c6471c4-c346-40b7-b972-9bbf973576b3@172.105.102.245:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤎 Toronto 🇨🇦
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#@Xen2ray🤍 Toronto 🇨🇦
-vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@172.105.27.212:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💜 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@85.208.108.20:8091#@Xen2ray🤍 Toronto 🇨🇦
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@139.177.199.114:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray💙 Toronto 🇨🇦
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒 [By EbraSha]&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=🔒 [By EbraSha] id: @proxy_kafee 🇨🇦 #@Xen2ray❤️
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643/?type=tcp&encryption=none #@Xen2ray🖤 🇨🇦
-ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5h@198.8.92.84:35294#@Xen2ray🤎 Vancouver 🇨🇦
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.43.216:110 #@Xen2ray🤍 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.85:5001#@Xen2ray💙 Toronto 🇨🇦
-vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@192.46.222.123:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3YjFiMmZhMy1lMzYxLTQ4Y2MtYjczZC0yYzk2MzZjNzZmNGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVU1XMzYyNjIiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6SNIE90dGF3YSDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@192.46.222.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤍 Toronto 🇨🇦
-vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429/?type=tcp&encryption=none #@Xen2ray🧡 🇨🇦
-trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 919 #@Xen2ray💚 Montreal 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:805#@Xen2ray🤎 Beauharnois 🇨🇦
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@198.57.27.218:5004#@Xen2ray💚 Toronto 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6SNIFRvcm9udG8g8J+HqPCfh6YiLCJhZGQiOiIxMzQuMTIyLjQxLjE2MCIsInBvcnQiOjMzODksImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInRscyI6IiJ9
-trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 53 #@Xen2ray🧡 Montreal 🇨🇦
-vmess://eyJhZGQiOiJjYTEudnBuamFudGl0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzOGRhZWE1MC1jY2FmLTExZWQtYjU3MC00ZjAwNWUwOGIxZmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjEwMDAwIiwicHMiOiJAWGVuMnJhefCfpI0g8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989#@Xen2ray💛 Montreal 🇨🇦
-vmess://eyJhZGQiOiIxNDkuNTYuOTUuMTU5IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxYzc4OTA5ZS0xOGE4LTRjN2YtZjZhMC1lMDkyYWFlNjI0M2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjM3ODQsInBzIjoiQFhlbjJyYXnwn6SOIE1vbnRyZWFsIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC45MiIsImFpZCI6MSwiaG9zdCI6IjEzNC4xOTUuMTk4LjkyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SmSBNb250cmVhbCDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://5d2f6225-c658-4efe-a57c-53adb435964f@192.53.123.112:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💛 Toronto 🇨🇦
-vless://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@Xen2ray🧡 🇨🇦
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray🤎 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxMzguMTk3LjE2NS4zMSIsImFpZCI6NCwiaG9zdCI6IiIsImlkIjoiMmVkNjA5ZDAtNzQ2Ny00NzFiLTk0YTktMzRhNzM0Y2NjNDBhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy9oZC5tM3U4IiwicG9ydCI6ODA4MCwicHMiOiJAWGVuMnJhefCflqQgVG9yb250byDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray💛 Toronto 🇨🇦
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒 [By EbraSha]&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=🔒 [By EbraSha] id: @ShadowProxy66 🇨🇦 #@Xen2ray🖤
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.211:443 #@Xen2ray🧡 Montreal 🇨🇦
-vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@Xen2ray💚 Ottawa 🇨🇦
-vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwidiI6IjIiLCJwcyI6IkBYZW4ycmF58J+SmyDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-ss://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&amp;sid=f430927d&amp;type=tcp&amp;headerType=none#@Xen2ray💜 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwidiI6IjIiLCJwcyI6IkBYZW4ycmF58J+WpCDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@85.208.108.58:9101#@Xen2ray💚 Toronto 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6SNIE90dGF3YSDwn4eo8J+HpiIsImFkZCI6IjIzLjIyNy4zOC4yMiIsInBvcnQiOjgwODAsImlkIjoiOTI1ODE1M2EtZGM5Ny00ZTM5LTkwMzctMDA5YWJmYzRmZWQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicGVyLWVzc2V4LXBhdHRlcm5zLWJvd2xpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiOTI1ODE1M2EtZGM5Ny00ZTM5LTkwMzctMDA5YWJmYzRmZWQwLXZtIiwidGxzIjoiIn0=
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.97.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray🤎 🇨🇦
-vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.102.124:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💜 Toronto 🇨🇦
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.20.28.30:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=🔒 [By EbraSha] id: @ShadowProxy66 🇨🇦 #@Xen2ray💜
-ss://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&amp;encryption=none&amp;pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4662ad#@Xen2ray💙 🇨🇦
-vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=🔒 [By EbraSha] 🇨🇦 #@Xen2ray💙
-vless://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
-vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&amp;encryption=none&amp;pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4662ad#@Xen2ray💛 🇨🇦
-vmess://eyJhZGQiOiIxMzcuMTg0LjE2NC4yMzMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVjZWU5MGUzLWI5MTUtNGYxZS1iYjhkLWVmYWRhZDBjNmZlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+SmSBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.107:8118#@Xen2ray💚 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@166.88.130.112:808#@Xen2ray💛 Toronto 🇨🇦
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=🔒 [By EbraSha] @IP_CF 🇨🇦 #@Xen2ray❤️
-vmess://eyJhZGQiOiIxMzIuMTQ1Ljk5LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTI3Njg1NTItYzJiMi00NDYwLTg5ZjEtZTc0MGNjMTQ1Yjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXBhdGgiLCJwb3J0IjoxMzcyNCwicHMiOiJAWGVuMnJhefCflqQgVG9yb250byDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiIyMy4yMjcuMzguODYiLCJhaWQiOiIwIiwiaG9zdCI6ImRvbmd0YWl3YW5nMTMuZHRrdTQ3Lnh5eiIsImlkIjoiOTY5ZjE5MDktYzBkMy00YzMwLTgxM2QtM2FlYzVjODM4YjdkIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFJS1lqVjByLyIsInBvcnQiOiI4MDgwIiwicHMiOiJAWGVuMnJhefCfkpkgT3R0YXdhIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] id: @singbox1 🇨🇦 #@Xen2ray❤️
-vless://30bcf69c-1818-4581-988a-842f53ee6bea@android-config.gstatic.cyberscaler.net:443?mode=stream-up&path=/s2/oz/images/notifications/nt8.png&security=reality&encryption=none&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&fp=chrome&spx=/s2/oz/images/notifications/nt8.png&type=xhttp&sni=ssl.gstatic.com&sid=e3a97c5b21#@Xen2ray💚 Surrey 🇨🇦
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#@Xen2ray💜 Toronto 🇨🇦
-vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.24.223:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray💚 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KaIE1vbnRyZWFsIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.231:3306#@Xen2ray🖤 Toronto 🇨🇦
-vless://57ee25ce-5728-416c-af82-182e158a4a0c@192.46.223.202:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💙 Toronto 🇨🇦
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#@Xen2ray💛 Montreal 🇨🇦
-ss://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@72.140.224.195:800#@Xen2ray🤍 🇨🇦
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.18:5001#@Xen2ray💜 Toronto 🇨🇦
-vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQFhlbjJyYXnwn5KcIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://9935dbc4-dbbb-40b3-a6b8-884ee158a3ad@172.105.15.70:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤍 Toronto 🇨🇦
-trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 754 #@Xen2ray🧡 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.21:443 #@Xen2ray💚 Toronto 🇨🇦
-trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#@Xen2ray🤍 🇨🇦
-vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJAWGVuMnJhefCflqQg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#@Xen2ray🤍 🇨🇦
-vmess://eyJhZGQiOiI1MS4xNjEuMTMwLjE0MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMzgxMTQ2OGItMzMzNi00YmNiLWFlODQtODYzNTFiOTAxMTU5IiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCflqQg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ca07.giamping.com:8080#@Xen2ray🧡 Montreal 🇨🇦
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💛 🇨🇦
-vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI3IiwidiI6IjIiLCJwcyI6IkBYZW4ycmF58J+WpCDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Im1hbmthZG11LmNvbSIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@37.19.211.114:50695#@Xen2ray🤎 Toronto 🇨🇦
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #@Xen2ray❤️ Vancouver 🇨🇦
-trojan://982acf26-9720-432e-abd4-0a0dde3fdb29@172.105.25.249:443?security=tls&encryption=none&type=tcp&fp=chrome&allowInsecure=1#@Xen2ray💛 Toronto 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6SOIE90dGF3YSDwn4eo8J+HpiIsImFkZCI6IjIzLjIyNy4zOC4yMyIsInBvcnQiOjgwODAsImlkIjoiMzRjMGJiNWUtYzEyMC00MzJkLTljNTgtYmQ3ZDgyYzczOTdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidWgtbGF3eWVycy1pbnN0cnVtZW50cy1rZXJuZWwudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiMzRjMGJiNWUtYzEyMC00MzJkLTljNTgtYmQ3ZDgyYzczOTdiLXZtIiwidGxzIjoiIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.94:443 #@Xen2ray❤️ Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.197:808#@Xen2ray💛 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388 #@Xen2ray💚 Toronto 🇨🇦
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray💛 Ottawa 🇨🇦
-vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.27.63:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤎 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.59:443#@Xen2ray💜 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:806 #@Xen2ray💜 Ottawa 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:805#@Xen2ray💛 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.246:8882#@Xen2ray🤍 Toronto 🇨🇦
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💜 🇨🇦
-vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndXMuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+SnCBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Xen2ray💙 Toronto 🇨🇦
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321/?type=tcp&encryption=none #@Xen2ray🤎 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.95:443#@Xen2ray💜 Montreal 🇨🇦
-vless://57ee25ce-5728-416c-af82-182e158a4a0c@172.105.20.139:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
-vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#@Xen2ray🤎 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443 #@Xen2ray🧡 Vancouver 🇨🇦
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.149:8080 #@Xen2ray🤍 Toronto 🇨🇦
-ss://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mojito.soyet2j.ir&amp;type=ws&amp;sni=mojito.soyet2j.ir#@Xen2ray🧡 🇨🇦
-vmess://eyJhZGQiOiIxOTguNTcuMjcuMjEyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkBYZW4ycmF58J+SmyBUb3JvbnRvIPCfh6jwn4emIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImZwIjoiY2hyb21lIiwiYWxsb3dJbnNlY3VyZSI6MX0=
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs&allowInsecure=1#@Xen2ray💜 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#@Xen2ray💚 Montreal 🇨🇦
-vless://25ec3d8a-8b33-42b0-af3e-94777a31ac2b@172.105.19.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray❤️ Toronto 🇨🇦
-vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.17.26:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤍 Toronto 🇨🇦
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] id: @proxy_kafee 🇨🇦 #@Xen2ray💛
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒 [By EbraSha]&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=🔒 [By EbraSha] id: @singbox1 🇨🇦 #@Xen2ray💚
-vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.97.4:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💛 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:803#@Xen2ray🤍 Ottawa 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.51:443 #@Xen2ray❤️ Toronto 🇨🇦
-vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&amp;sid=f430927d&amp;type=tcp&amp;headerType=none#@Xen2ray🖤 Toronto 🇨🇦
-trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#@Xen2ray🤍 🇨🇦
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.93:7306#@Xen2ray🧡 Toronto 🇨🇦
-vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndWsuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzZiZDk5NjktYmI5Ni00YmRkLWE2ZGYtOTYwYmJkOGU0NDM5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+WpCBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mojito.soyet2j.ir&amp;type=ws&amp;sni=mojito.soyet2j.ir#@Xen2ray💜 🇨🇦
-vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952/?type=tcp&encryption=none #@Xen2ray💛 🇨🇦
-vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#@Xen2ray💜 🇨🇦
-vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6Imxpbm9kZS5jbG91ZGZsYXJlLnF1ZXN0IiwiaWQiOiI0Mzk3ZDA2Ni1mNzUzLTQzMDAtZTdlZC00NDc5N2RkZmNkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfkpwgT3R0YXdhIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray🧡 Toronto 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMzgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpogT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#@Xen2ray💚 🇨🇦
+vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndWsuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzZiZDk5NjktYmI5Ni00YmRkLWE2ZGYtOTYwYmJkOGU0NDM5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+kjSBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIxMzcuMTg0LjE2NC4yMzMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVjZWU5MGUzLWI5MTUtNGYxZS1iYjhkLWVmYWRhZDBjNmZlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+SmyBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@172.105.27.212:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💙 Toronto 🇨🇦
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@138.197.149.46:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#@Xen2ray🤎 Toronto 🇨🇦
+vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@Xen2ray💛 Ottawa 🇨🇦
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051/?type=tcp&encryption=none #@Xen2ray🤎 🇨🇦
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#@Xen2ray💚 Ottawa 🇨🇦
+vmess://eyJhZGQiOiJjYTEudnBuamFudGl0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzOGRhZWE1MC1jY2FmLTExZWQtYjU3MC00ZjAwNWUwOGIxZmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjEwMDAwIiwicHMiOiJAWGVuMnJhefCflqQg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.90:2376#@Xen2ray🧡 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.92:443#@Xen2ray🤎 Toronto 🇨🇦
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] id: @proxy_kafee 🇨🇦 #@Xen2ray🖤
+vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#@Xen2ray💙 🇨🇦
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.20.28.30:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=🔒 [By EbraSha] id: @ShadowProxy66 🇨🇦 #@Xen2ray❤️
+vmess://eyJhZGQiOiIyMy4yMjcuMzguODYiLCJhaWQiOiIwIiwiaG9zdCI6ImRvbmd0YWl3YW5nMTMuZHRrdTQ3Lnh5eiIsImlkIjoiOTY5ZjE5MDktYzBkMy00YzMwLTgxM2QtM2FlYzVjODM4YjdkIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFJS1lqVjByLyIsInBvcnQiOiI4MDgwIiwicHMiOiJAWGVuMnJhefCfkpkgT3R0YXdhIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
+ss://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray❤️ Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.59:443#@Xen2ray🧡 Toronto 🇨🇦
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6SOIPCfh6jwn4emIiwiYWRkIjoiNTEuNzkuMTAyLjI1MyIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJob3N0IjoiIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989 #@Xen2ray💙 Vancouver 🇨🇦
+vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@139.177.199.114:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
+vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6Imxpbm9kZS5jbG91ZGZsYXJlLnF1ZXN0IiwiaWQiOiI0Mzk3ZDA2Ni1mNzUzLTQzMDAtZTdlZC00NDc5N2RkZmNkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfkpkgT3R0YXdhIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://57ee25ce-5728-416c-af82-182e158a4a0c@172.105.20.139:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💜 Toronto 🇨🇦
+vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.97.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🧡 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#@Xen2ray🤎 Montreal 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImM1YTJkN2I4LWJmODQtNGY5Ny04NTc3LWI5Yjg3ZjJiYWFmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfp6EgT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6ehIE90dGF3YSDwn4eo8J+HpiIsImFkZCI6IjIzLjIyNy4zOS4yNCIsInBvcnQiOjgwODAsImlkIjoiOTI1ODE1M2EtZGM5Ny00ZTM5LTkwMzctMDA5YWJmYzRmZWQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicGVyLWVzc2V4LXBhdHRlcm5zLWJvd2xpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiOTI1ODE1M2EtZGM5Ny00ZTM5LTkwMzctMDA5YWJmYzRmZWQwLXZtIiwidGxzIjoiIn0=
+vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=&encryption=none&headerType=none&type=tcp#@Xen2ray💚 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.94:443 #@Xen2ray💚 Toronto 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTA=@138.197.174.245:56443#@Xen2ray💙 Toronto 🇨🇦
-vless://4bd8ee57-5602-493e-893a-73f224914371@germany.marzxox.shop:210?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&extra={"scMaxEachPostBytes": 750000, "scMaxConcurrentPosts": 40, "scMinPostsIntervalMs": 20, "xPaddingBytes": "500-1500", "noGRPCHeader": false}&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=🔒 [By EbraSha] 𝙂𝙚𝙧𝙢𝙖𝙣𝙮 🇩🇪 #@Xen2ray🧡 Toronto 🇨🇦
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE0MSIsImFpZCI6MSwiaG9zdCI6IjIzLjE2Mi4yMDAuMTQxIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjSBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiMjMuMTYyLjIwMC4xNDEifQ==
-vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&security=reality&fp=chrome&sni=rEfErSion.Com.&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@Xen2ray🤎 Toronto 🇨🇦
-vless://651fda6c-aba1-49f2-b1da-0ccb7de0a81d@99.199.73.53:20744?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Xen2ray🖤 Vancouver 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Xen2ray💙 🇨🇦
-trojan://:bC5^lakx>$d@172.66.45.9:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha] 🇨🇦 #@Xen2ray🤍
-vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#@Xen2ray🤎 🇨🇦
-ss://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp#@Xen2ray💜 Vancouver 🇨🇦
+vmess://eyJhZGQiOiIxNDkuNTYuOTUuMTU5IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxYzc4OTA5ZS0xOGE4LTRjN2YtZjZhMC1lMDkyYWFlNjI0M2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjM3ODQsInBzIjoiQFhlbjJyYXnwn6ehIE1vbnRyZWFsIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=🔒 [By EbraSha] 🇨🇦 #@Xen2ray❤️
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6SOIFRvcm9udG8g8J+HqPCfh6YiLCJhZGQiOiIxMzQuMTIyLjQxLjE2MCIsInBvcnQiOjMzODksImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInRscyI6IiJ9
+vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.97.4:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒 [By EbraSha]&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=🔒 [By EbraSha] id: @proxy_kafee 🇨🇦 #@Xen2ray💚
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=🔒 [By EbraSha] @IP_CF 🇨🇦 #@Xen2ray❤️
+vless://8c6471c4-c346-40b7-b972-9bbf973576b3@172.105.102.245:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray❤️ Toronto 🇨🇦
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989#@Xen2ray💜 Montreal 🇨🇦
+ss://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mojito.soyet2j.ir&amp;type=ws&amp;sni=mojito.soyet2j.ir#@Xen2ray🖤 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI4gT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 165 #@Xen2ray❤️ Toronto 🇨🇦
+vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndXMuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+kjiBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643/?type=tcp&encryption=none #@Xen2ray🧡 🇨🇦
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray💚 🇨🇦
+vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952/?type=tcp&encryption=none #@Xen2ray🖤 🇨🇦
+vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&amp;encryption=none&amp;pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4662ad#@Xen2ray🤍 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:805 #@Xen2ray💙 Toronto 🇨🇦
+vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.17.26:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💚 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.61:443#@Xen2ray🖤 Toronto 🇨🇦
+vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#@Xen2ray💛 🇨🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray🧡 🇨🇦
+vless://5d2f6225-c658-4efe-a57c-53adb435964f@172.105.27.17:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💙 Toronto 🇨🇦
+trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 52 #@Xen2ray💚 Montreal 🇨🇦
+ss://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&amp;encryption=none&amp;pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4662ad#@Xen2ray💜 🇨🇦
+trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 113 #@Xen2ray❤️ Montreal 🇨🇦
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KcIE90dGF3YSDwn4eo8J+HpiIsImFkZCI6IjIzLjIyNy4zOC4yMyIsInBvcnQiOjgwODAsImlkIjoiMzRjMGJiNWUtYzEyMC00MzJkLTljNTgtYmQ3ZDgyYzczOTdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidWgtbGF3eWVycy1pbnN0cnVtZW50cy1rZXJuZWwudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiMzRjMGJiNWUtYzEyMC00MzJkLTljNTgtYmQ3ZDgyYzczOTdiLXZtIiwidGxzIjoiIn0=
+ss://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray🖤 🇨🇦
+vless://c5fe2244-df45-4efe-8abe-9699e7802697@172.105.29.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤎 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE0MSIsImFpZCI6MSwiaG9zdCI6IjIzLjE2Mi4yMDAuMTQxIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF54p2k77iPIFRvcm9udG8g8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiIyMy4xNjIuMjAwLjE0MSJ9
+trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#@Xen2ray🖤 🇨🇦
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@37.19.211.114:50695#@Xen2ray🤍 Toronto 🇨🇦
+vless://910e599d-9bdb-4704-b9f6-30904273a587@99.199.83.31:443?mode=stream-up&path=/ajax/libs/jquery/3.7.1/jquery.min.js/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=reality&encryption=none&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&fp=chrome&spx=/ajax/libs/jquery/3.7.1/jquery.min.js/TELEGRAM_JKVPN&type=xhttp&sni=ajax.aspnetcdn.com&sid=9b4e2a7c1d#@Xen2ray🧡 Surrey 🇨🇦
+vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@99.199.73.47:443?security=reality&encryption=none&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&headerType=none&fp=chrome&type=tcp&sni=blog.cloudflare.com&sid=14#@Xen2ray💛 Vancouver 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:808#@Xen2ray💚 Beauharnois 🇨🇦
+vless://5d2f6225-c658-4efe-a57c-53adb435964f@192.53.123.112:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💛 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E@ca-1.stunnel.cc:8444 #@Xen2ray💜 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Xen2ray💚 🇨🇦
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.18:8888#@Xen2ray💚 Toronto 🇨🇦
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#@Xen2ray🤍 Vancouver 🇨🇦
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒 [By EbraSha]&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=🔒 [By EbraSha] id: @ShadowProxy66 🇨🇦 #@Xen2ray🖤
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.51:443 #@Xen2ray💜 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:804#@Xen2ray💙 Ottawa 🇨🇦
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&amp;sid=f430927d&amp;type=tcp&amp;headerType=none#@Xen2ray🖤 Toronto 🇨🇦
+vless://30bcf69c-1818-4581-988a-842f53ee6bea@android-config.gstatic.cyberscaler.net:443?mode=stream-up&path=/s2/oz/images/notifications/nt8.png&security=reality&encryption=none&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&fp=chrome&spx=/s2/oz/images/notifications/nt8.png&type=xhttp&sni=ssl.gstatic.com&sid=e3a97c5b21#@Xen2ray💜 Surrey 🇨🇦
+vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.24.223:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray❤️ Toronto 🇨🇦
+ss://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Xen2ray🤍 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#@Xen2ray💚 🇨🇦
+ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5@198.8.92.84:40220#@Xen2ray💚 Vancouver 🇨🇦
+vmess://eyJhZGQiOiI1MS4xNjEuMTMwLjE0MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMzgxMTQ2OGItMzMzNi00YmNiLWFlODQtODYzNTFiOTAxMTU5IiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfkpkg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Xen2ray❤️ Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.21:443 #@Xen2ray🧡 Toronto 🇨🇦
+vless://57ee25ce-5728-416c-af82-182e158a4a0c@192.46.223.202:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💙 Toronto 🇨🇦
+vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@192.46.222.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💛 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGZiNTY3NTJkM2Y3NTlk@51.79.54.90:45398#@Xen2ray💙 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.211:443 #@Xen2ray💛 Montreal 🇨🇦
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Xen2ray💙 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.196.231:8090#@Xen2ray🖤 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOjIwOTYsInBzIjoiQFhlbjJyYXnwn6SOIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJzZWN1cml0eSI6Im5vbmUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwidiI6IjIiLCJwcyI6IkBYZW4ycmF58J+WpCDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpog8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJtYW5rYWRtdS5jb20ifQ==
+vmess://eyJhZGQiOiIxOTIuOTkuOC45OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDVjMzgzOTktNTI5Ni00YmYyLWE2MDYtMWNlYzNiNzFjOTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM2MDA1LCJwcyI6IkBYZW4ycmF58J+kjSDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@198.57.27.218:5004#@Xen2ray🧡 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicHMiOiJAWGVuMnJhefCfkpkgVG9yb250byDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #@Xen2ray💚 Vancouver 🇨🇦
+vmess://eyJhZGQiOiIxMzguMTk3LjE2NS4zMSIsImFpZCI6NCwiaG9zdCI6IiIsImlkIjoiMmVkNjA5ZDAtNzQ2Ny00NzFiLTk0YTktMzRhNzM0Y2NjNDBhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy9oZC5tM3U4IiwicG9ydCI6ODA4MCwicHMiOiJAWGVuMnJhefCflqQgVG9yb250byDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@72.140.224.195:800#@Xen2ray💜 🇨🇦
+vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.99.25:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
+vless://651fda6c-aba1-49f2-b1da-0ccb7de0a81d@99.199.73.53:20744?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Xen2ray💛 Vancouver 🇨🇦
+vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJAWGVuMnJhefCfpI4g8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:805#@Xen2ray💛 Ottawa 🇨🇦
+ss://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&amp;sid=f430927d&amp;type=tcp&amp;headerType=none#@Xen2ray🤎 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.85:5001#@Xen2ray💛 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.20:6379#@Xen2ray🤎 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388 #@Xen2ray💚 Toronto 🇨🇦
+trojan://?M|$pIEDnf8N@172.66.44.59:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha] 🇨🇦 #@Xen2ray💚
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] id: @singbox1 🇨🇦 #@Xen2ray💚
+vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429/?type=tcp&encryption=none #@Xen2ray🤍 🇨🇦
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@85.208.108.58:9101#@Xen2ray🖤 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg@ca.opensocks.site:8388 #@Xen2ray🤍 Toronto 🇨🇦
+vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321/?type=tcp&encryption=none #@Xen2ray🧡 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@134.195.196.107:8009#@Xen2ray🤎 Toronto 🇨🇦
+vless://4bd8ee57-5602-493e-893a-73f224914371@germany.marzxox.shop:210?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&extra={"scMaxEachPostBytes": 750000, "scMaxConcurrentPosts": 40, "scMinPostsIntervalMs": 20, "xPaddingBytes": "500-1500", "noGRPCHeader": false}&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=🔒 [By EbraSha] 𝙂𝙚𝙧𝙢𝙖𝙣𝙮 🇩🇪 #@Xen2ray🤍 Toronto 🇨🇦
+vmess://eyJhZGQiOiIxMzIuMTQ1Ljk5LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTI3Njg1NTItYzJiMi00NDYwLTg5ZjEtZTc0MGNjMTQ1Yjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXBhdGgiLCJwb3J0IjoxMzcyNCwicHMiOiJAWGVuMnJhefCfpI4gVG9yb250byDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
+vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@192.46.222.123:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤎 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443 #@Xen2ray💚 Vancouver 🇨🇦
+vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@m7a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Xen2ray💚 🇨🇦
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#@Xen2ray🤍 Toronto 🇨🇦
+vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.27.63:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💛 Toronto 🇨🇦
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray🤎 Toronto 🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💛 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3YjFiMmZhMy1lMzYxLTQ4Y2MtYjczZC0yYzk2MzZjNzZmNGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVU1XMzYyNjIiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6SNIE90dGF3YSDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.95:443#@Xen2ray💙 Montreal 🇨🇦
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.93:7306#@Xen2ray🖤 Toronto 🇨🇦
+vless://9935dbc4-dbbb-40b3-a6b8-884ee158a3ad@172.105.15.70:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray💜 Toronto 🇨🇦
+vless://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Xen2ray💜 Toronto 🇨🇦
+vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQFhlbjJyYXninaTvuI8g8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;fp=chrome&amp;type=tcp#@Xen2ray💚 Vancouver 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@166.88.130.112:808#@Xen2ray❤️ Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811#@Xen2ray💙 Toronto 🇨🇦
+trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#@Xen2ray🧡 🇨🇦
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.149:8080 #@Xen2ray💜 Toronto 🇨🇦
+vless://25ec3d8a-8b33-42b0-af3e-94777a31ac2b@172.105.19.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🖤 Toronto 🇨🇦
+vless://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@Xen2ray🧡 🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray🖤 🇨🇦
+trojan://:bC5^lakx>$d@172.66.45.9:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha] 🇨🇦 #@Xen2ray💜
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMzgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpkgT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray🧡 Ottawa 🇨🇦
+vless://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mojito.soyet2j.ir&amp;type=ws&amp;sni=mojito.soyet2j.ir#@Xen2ray❤️ 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:809 #@Xen2ray🤎 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.197:801#@Xen2ray💛 🇨🇦
+vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.102.124:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Xen2ray🤍 Toronto 🇨🇦
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KcIE1vbnRyZWFsIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaW5uYS5jZmQiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
+vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&security=reality&fp=chrome&sni=rEfErSion.Com.&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@Xen2ray💚 Toronto 🇨🇦
+trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#@Xen2ray💚 Montreal 🇨🇦
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray💙 Ottawa 🇨🇦
+vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Xen2ray💜 🇨🇦
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.246:8882#@Xen2ray🤎 Toronto 🇨🇦
+vmess://eyJhZGQiOiIxNTguNTEuMTIxLjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfp6EgTW9udHJlYWwg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#@Xen2ray🤍 Toronto 🇨🇦
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒 [By EbraSha]&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=🔒 [By EbraSha] id: @singbox1 🇨🇦 #@Xen2ray🤍
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.43.216:110 #@Xen2ray🤍 Toronto 🇨🇦
+trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#@Xen2ray🖤 🇨🇦
+vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwidiI6IjIiLCJwcyI6IkBYZW4ycmF58J+WpCDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC45MiIsImFpZCI6MSwiaG9zdCI6IjEzNC4xOTUuMTk4LjkyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjiBNb250cmVhbCDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
