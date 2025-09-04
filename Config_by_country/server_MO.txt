@@ -1,7 +1,8 @@
-trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#@Xen2ray💙 🇲🇴
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 629 #@Xen2ray❤️ 🇲🇴
-trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 841 #@Xen2ray❤️ 🇲🇴
-trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?security=tls&sni=reooec.freetrade.link#@Xen2ray💙 🇲🇴
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=stutter.freetrade.link#@Xen2ray💚 🇲🇴
+trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?security=tls&sni=reooec.freetrade.link#@Xen2ray🤍 🇲🇴
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 736 #@Xen2ray💛 🇲🇴
+vmess://eyJhZGQiOiI0NS42NC4yMi4yMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTU1ZWQ3YjItZWQ0Zi00ODBjLThiOTktMDg0ODJkYTFlNGM3IiwibmV0Ijoid3MiLCJwYXRoIjoiL09CN2pUTTVjVFRyTCIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI4g8J+HsvCfh7QiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJoa2JuLnBneXBneWttb2xqa2xqLnh5eiJ9
+trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 634 #@Xen2ray🤎 🇲🇴
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=stutter.freetrade.link#@Xen2ray💛 🇲🇴
 vmess://eyJhZGQiOiI0NS42NC4yMi42IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KaIPCfh7Lwn4e0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoicDMuY2hpZ3VhLnRrIn0=
-vmess://eyJhZGQiOiI0NS42NC4yMi4yMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTU1ZWQ3YjItZWQ0Zi00ODBjLThiOTktMDg0ODJkYTFlNGM3IiwibmV0Ijoid3MiLCJwYXRoIjoiL09CN2pUTTVjVFRyTCIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwg8J+HsvCfh7QiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJoa2JuLnBneXBneWttb2xqa2xqLnh5eiJ9
+trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#@Xen2ray🤎 🇲🇴
+trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 716 #@Xen2ray💛 🇲🇴

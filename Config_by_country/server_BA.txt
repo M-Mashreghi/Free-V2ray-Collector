@@ -1,5 +1,5 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@fd.socks.news:80?path=/&security=none&encryption=none&host=007.suburl.sbs&type=ws#@Xen2ray🤎 🇧🇦
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989 #@Xen2ray💜 Novi Travnik 🇧🇦
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@185.99.3.102:43893#@Xen2ray💜 Novi Travnik 🇧🇦
-ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk@185.99.3.108:37588#@Xen2ray🤍 Novi Travnik 🇧🇦
-ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@185.212.111.59:49339#@Xen2ray💜 Novi Travnik 🇧🇦
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989 #@Xen2ray🖤 Novi Travnik 🇧🇦
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk@185.99.3.108:37588#@Xen2ray🤎 Novi Travnik 🇧🇦
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@185.99.3.102:43893#@Xen2ray🧡 Novi Travnik 🇧🇦
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@fd.socks.news:80?path=/&security=none&encryption=none&host=007.suburl.sbs&type=ws#@Xen2ray🤍 🇧🇦
+ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@185.212.111.59:49339#@Xen2ray💚 Novi Travnik 🇧🇦
