@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#@Xen2ray💙 Petah Tikva 🇮🇱
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#@Xen2ray🤍 Haifa 🇮🇱
-ss://YWVzLTI1Ni1nY206VDhsTmpvbXpKaENUZlBmWg@185.239.48.109:8388 #@Xen2ray❤️ Beersheba 🇮🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#@Xen2ray💜 Tel Aviv 🇮🇱
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.81.231:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#@Xen2ray💚 Tel Aviv 🇮🇱
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.182.144.240:989 #@Xen2ray💛 Tel Aviv 🇮🇱
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#@Xen2ray🖤 Haifa 🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNkRJYVhNRzI5cGtWYWlu@194.62.42.21:4040#@Xen2ray🤍 Petah Tikva 🇮🇱
+ss://YWVzLTI1Ni1nY206VDhsTmpvbXpKaENUZlBmWg@185.239.48.109:8388 #@Xen2ray🤍 Beersheba 🇮🇱
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.81.231:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#@Xen2ray💙 Tel Aviv 🇮🇱
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#@Xen2ray💚 Haifa 🇮🇱
+ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#@Xen2ray💚 Haifa 🇮🇱
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.27.87:989 #@Xen2ray💜 Tel Aviv 🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#@Xen2ray🤍 Tel Aviv 🇮🇱
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.182.144.240:989 #@Xen2ray💚 Tel Aviv 🇮🇱
