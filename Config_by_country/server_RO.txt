@@ -1,17 +1,18 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#@Xen2ray💙 🇷🇴
-vmess://eyJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTY2NCIsInBzIjoiQFhlbjJyYXnwn6ehIEJ1Y2hhcmVzdCDwn4e38J+HtCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://e9979910-79d1-4621-a93c-b2a579c44ba7@45.85.119.151:8880?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws #@Xen2ray💜 🇷🇴
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.115:989 #@Xen2ray💙 Bucharest 🇷🇴
-vmess://eyJhZGQiOiI0NS44NS4xMTkuMTkwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXMua2twLm1lLmV1Lm9yZy9hYSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI0g8J+Ht/Cfh7QiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJmYXJpZC4xLmJlcm96aGEuaXIifQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.38:989 #@Xen2ray❤️ Bucharest 🇷🇴
-trojan://NISHIKUITAN111@45.85.118.234:443/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray💛 🇷🇴
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F#@Xen2ray🖤 🇷🇴
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.85.119.151:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws #@Xen2ray💜 🇷🇴
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.89:989 #@Xen2ray💚 Bucharest 🇷🇴
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.234:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#@Xen2ray🖤 🇷🇴
-vmess://eyJhZGQiOiI0NS44NS4xMTkuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KaIPCfh7fwn4e0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F#@Xen2ray💙 🇷🇴
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.234:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#@Xen2ray🤎 🇷🇴
+vmess://eyJhZGQiOiI0NS44NS4xMTkuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KbIPCfh7fwn4e0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#@Xen2ray💚 Bucharest 🇷🇴
+vmess://eyJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTY2NCIsInBzIjoiQFhlbjJyYXnwn6SOIEJ1Y2hhcmVzdCDwn4e38J+HtCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.115:989 #@Xen2ray💚 Bucharest 🇷🇴
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80/?type=ws&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=🔒 [By EbraSha] #@Xen2ray🧡 🇷🇴
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💚 🇷🇴
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray🧡 🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#@Xen2ray💛 Bucharest 🇷🇴
+ss://e9979910-79d1-4621-a93c-b2a579c44ba7@45.85.119.151:8880?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws #@Xen2ray🤎 🇷🇴
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.85.119.151:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws #@Xen2ray🧡 🇷🇴
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.38:989 #@Xen2ray💚 Bucharest 🇷🇴
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray🧡 🇷🇴
+trojan://NISHIKUITAN111@45.85.118.234:443/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray💜 🇷🇴
+vmess://eyJhZGQiOiI0NS44NS4xMTkuMTkwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXMua2twLm1lLmV1Lm9yZy9hYSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpog8J+Ht/Cfh7QiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJmYXJpZC4xLmJlcm96aGEuaXIifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.89:989 #@Xen2ray🤎 Bucharest 🇷🇴
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray❤️ 🇷🇴
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KcIPCfh7fwn4e0IiwiYWRkIjoiNDUuODUuMTE5LjIxIiwicG9ydCI6IjIwNTMiLCJpZCI6ImY0ODI4MjlkLTJiMTItNDBjMi1kOWEzLWVhZmJmMzZlZTc0OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmcmVlMi5rYWZhc2hhbi5jZmQiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImxoZ2ZmZ2FsbGhoYWFoaGZzZ2dnZ2pqMS5rYWZhc2hhbi5jZmQiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJhbGxvd0luc2VjdXJlIjoxfQ==
 vless://7dad004a-2fcd-407e-85d7-527e4bb8181c@185.104.181.115:48850?security=&type=tcp&path=🔒 [By EbraSha]&headerType=http&host=zvtm62fo.divarcdn.com&encryption=none #@Xen2ray💙 🇷🇴
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#@Xen2ray💛 🇷🇴

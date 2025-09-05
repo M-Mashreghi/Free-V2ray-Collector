@@ -1,14 +1,14 @@
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp#@Xen2ray💛 Jakarta 🇮🇩
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 865 #@Xen2ray❤️ Medan 🇮🇩
+trojan://idc117okt@103.226.139.201:443?security=tls#@Xen2ray💜 🇮🇩
+vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFhlbjJyYXnwn6ehIEpha2FydGEg8J+HrvCfh6kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow= #@Xen2ray💜 Jakarta 🇮🇩
+vmess://eyJhZGQiOiI0My4yMTguMTAyLjkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiaWQtc2VwNHRoLndpbWF4LmNjIiwiaWQiOiIxMTNiNTMzOS1jNDM4LTRhYWQtOTA2Ni02OGM0NDVhMGUyMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcHJheWVyLXRpbWVzL3RvZGF5IiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SnCBKYWthcnRhIPCfh67wn4epIiwic2N5IjoiYXV0byIsInNuaSI6ImlkLXNlcDR0aC53aW1heC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Xen2ray🖤 Medan 🇮🇩
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none #@Xen2ray❤️ Jakarta 🇮🇩
-vmess://eyJhZGQiOiIxMTkuMjM1LjI0OS4xNTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTA2NzI4M2ItM2QwMC00YjBhLTlmZmItM2MxODRjODNjMDg5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoiQFhlbjJyYXnwn6SOIERlcG9rIPCfh67wn4epIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#@Xen2ray💚 Jakarta 🇮🇩
-vmess://eyJhZGQiOiI0My4yMTguMTAyLjkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiaWQtc2VwNHRoLndpbWF4LmNjIiwiaWQiOiIxMTNiNTMzOS1jNDM4LTRhYWQtOTA2Ni02OGM0NDVhMGUyMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcHJheWVyLXRpbWVzL3RvZGF5IiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjSBKYWthcnRhIPCfh67wn4epIiwic2N5IjoiYXV0byIsInNuaSI6ImlkLXNlcDR0aC53aW1heC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=🔒 [By EbraSha] #@Xen2ray🖤 🇮🇩
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Xen2ray🧡 Medan 🇮🇩
-trojan://idc117okt@103.176.78.153:443?security=tls#@Xen2ray💜 🇮🇩
-vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFhlbjJyYXnwn6SNIEpha2FydGEg8J+HrvCfh6kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Xen2ray🤎 Jakarta 🇮🇩
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 17 #@Xen2ray💙 Medan 🇮🇩
-trojan://idc117okt@103.226.139.201:443?security=tls#@Xen2ray🤎 🇮🇩
-vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow= #@Xen2ray🖤 Jakarta 🇮🇩
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp#@Xen2ray🤎 Jakarta 🇮🇩
-vmess://eyJhZGQiOiJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwiYWlkIjowLCJob3N0IjoiZXhhLm5leHR2cG4uY2MiLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfkpsg8J+HrvCfh6kiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwiYWlkIjowLCJob3N0IjoiZXhhLm5leHR2cG4uY2MiLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfkpkg8J+HrvCfh6kiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Xen2ray💙 Jakarta 🇮🇩
+trojan://idc117okt@103.176.78.153:443?security=tls#@Xen2ray💚 🇮🇩
+vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=🔒 [By EbraSha] #@Xen2ray🤎 🇮🇩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#@Xen2ray🤍 Jakarta 🇮🇩
+vmess://eyJhZGQiOiIxMTkuMjM1LjI0OS4xNTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTA2NzI4M2ItM2QwMC00YjBhLTlmZmItM2MxODRjODNjMDg5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoiQFhlbjJyYXnwn5akIERlcG9rIPCfh67wn4epIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
