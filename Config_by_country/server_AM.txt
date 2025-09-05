@@ -1,24 +1,25 @@
-trojan://NISHIKUITAN111@188.164.158.111:443/?type=tcp&security=tls #@Xen2ray💜 🇦🇲
-vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@warning.root.info.tr:443?security=reality&encryption=none&pbk=D5_j99ZSJtC9MdMQGCWlVvUU0p8KRgHZ2ZEnv2z2FWU&headerType=none&fp=chrome&spx=/software/windows/&type=tcp&sni=sourceforge.net&sid=b8fc40ff6d873611#@Xen2ray💜 Yerevan 🇦🇲
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #@Xen2ray💙 🇦🇲
-vless://ea03f531-04d8-402b-b95f-598ab9934933@Jet.azaddm.ir:6684?security=none&type=tcp&headerType=http&path=/&host=zula.ir#@Xen2ray🧡 Yerevan 🇦🇲
-ss://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?security=none&amp;encryption=none&amp;type=ws #@Xen2ray🧡 Yerevan 🇦🇲
-vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@4.ariyanln.com:5051?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&extra={"scMaxEachPostBytes": #@Xen2ray💛 🇦🇲
-vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none #@Xen2ray🤍 Yerevan 🇦🇲
-vmess://eyJhZGQiOiI5Mi4yMjMuMi40NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiOGM4Yzc1OWMtODhjMC00Y2VhLWEyNWItNzRkZDMwYjg4YWQ1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoiQFhlbjJyYXnwn6SNIFllcmV2YW4g8J+HpvCfh7IiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?security=none&amp;encryption=none&amp;type=ws #@Xen2ray🤎 Yerevan 🇦🇲
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:12065?type=ws&security=none#@Xen2ray🤍 Yerevan 🇦🇲
-vless://c1d3768e-9c2e-47d9-918e-8ac61ae1f7a0@213.159.76.239:2052?path=🔒 [By EbraSha]&security=none&encryption=none&type=ws #@Xen2ray💜 Yerevan 🇦🇲
-vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:7033?path=/&security=&encryption=none&host=filimo.com&type=ws#@Xen2ray💛 Yerevan 🇦🇲
-vless://c2757f1f-80c0-4d5e-8d42-76727d51a6ee@85.90.207.38:6684?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@Xen2ray💚 Yerevan 🇦🇲
-vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:55627?security=none&encryption=none&type=ws #@Xen2ray💙 Yerevan 🇦🇲
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989 #@Xen2ray💙 Yerevan 🇦🇲
-ss://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&amp;security=none #@Xen2ray💙 Yerevan 🇦🇲
-vless://fc7bfa72-8fe6-4a89-90a2-32e144d51ed8@85.90.207.210:337?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@Xen2ray💚 Yerevan 🇦🇲
-ss://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&amp;security=none#@Xen2ray🤍 Yerevan 🇦🇲
-vless://f263ae48-bc63-44cf-88b3-df41728e04ee@93.115.240.88:20200?type=ws&security=none #@Xen2ray🖤 Yerevan 🇦🇲
-ss://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?security=&amp;encryption=none&amp;type=ws #@Xen2ray💛 Yerevan 🇦🇲
+vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:55627?security=none&encryption=none&type=ws #@Xen2ray💛 Yerevan 🇦🇲
+trojan://NISHIKUITAN111@188.164.158.111:443/?type=tcp&security=tls #@Xen2ray🤍 🇦🇲
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.158.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💚 🇦🇲
+ss://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?security=none&amp;encryption=none&amp;type=ws #@Xen2ray❤️ Yerevan 🇦🇲
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #@Xen2ray🤍 🇦🇲
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#@Xen2ray🧡 Yerevan 🇦🇲
+vless://c2757f1f-80c0-4d5e-8d42-76727d51a6ee@85.90.207.38:6684?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@Xen2ray🤍 Yerevan 🇦🇲
+vless://ea03f531-04d8-402b-b95f-598ab9934933@Jet.azaddm.ir:6684?security=none&type=tcp&headerType=http&path=/&host=zula.ir#@Xen2ray🤎 Yerevan 🇦🇲
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989 #@Xen2ray💚 Yerevan 🇦🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#@Xen2ray🧡 🇦🇲
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.158.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💛 🇦🇲
-vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#@Xen2ray💙 Yerevan 🇦🇲
-vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#@Xen2ray🤍 Yerevan 🇦🇲
+vless://fc7bfa72-8fe6-4a89-90a2-32e144d51ed8@85.90.207.210:337?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@Xen2ray💛 Yerevan 🇦🇲
+vmess://eyJhZGQiOiI5Mi4yMjMuMi40NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiOGM4Yzc1OWMtODhjMC00Y2VhLWEyNWItNzRkZDMwYjg4YWQ1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoiQFhlbjJyYXnwn5KcIFllcmV2YW4g8J+HpvCfh7IiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:7033?path=/&security=&encryption=none&host=filimo.com&type=ws#@Xen2ray💛 Yerevan 🇦🇲
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWlR0VHZzNGd5V1NsUExKM2cxTjBF@45.129.185.97:4443?note=--Telegram--@NetifyVPN--#@Xen2ray🧡 🇦🇲
+vless://c1d3768e-9c2e-47d9-918e-8ac61ae1f7a0@213.159.76.239:2052?path=🔒 [By EbraSha]&security=none&encryption=none&type=ws #@Xen2ray💚 Yerevan 🇦🇲
+ss://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?security=&amp;encryption=none&amp;type=ws #@Xen2ray🤍 Yerevan 🇦🇲
+vless://f263ae48-bc63-44cf-88b3-df41728e04ee@93.115.240.88:20200?type=ws&security=none#@Xen2ray💚 Yerevan 🇦🇲
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:12065?type=ws&security=none#@Xen2ray❤️ Yerevan 🇦🇲
+ss://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?security=none&amp;encryption=none&amp;type=ws #@Xen2ray🤍 Yerevan 🇦🇲
+vless://73938f0e-d1af-43ab-9b6d-063bca1dd694@93.115.240.74:15800?type=ws&security=none#@Xen2ray💚 Yerevan 🇦🇲
+ss://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&amp;security=none #@Xen2ray🤎 Yerevan 🇦🇲
+vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none #@Xen2ray🤎 Yerevan 🇦🇲
+vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@warning.root.info.tr:443?security=reality&encryption=none&pbk=D5_j99ZSJtC9MdMQGCWlVvUU0p8KRgHZ2ZEnv2z2FWU&headerType=none&fp=chrome&spx=/software/windows/&type=tcp&sni=sourceforge.net&sid=b8fc40ff6d873611#@Xen2ray🧡 Yerevan 🇦🇲
+ss://73938f0e-d1af-43ab-9b6d-063bca1dd694@93.115.240.74:15800?type=ws&amp;security=none#@Xen2ray💚 Yerevan 🇦🇲
+vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@4.ariyanln.com:5051?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&extra={"scMaxEachPostBytes": #@Xen2ray🧡 🇦🇲
