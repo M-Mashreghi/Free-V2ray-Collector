@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ=@pt-1.stunnel.cc:8444#@Xen2ray🧡 Porto 🇵🇹
-vmess://eyJhZGQiOiI5NC4xMzEuMTAuNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI4gTGlzYm9uIPCfh7Xwn4e5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vmess://eyJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJhaWQiOjAsImhvc3QiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6ehIExpc2JvbiDwn4e18J+HuSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#@Xen2ray💙 🇵🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVElaWEdvZTB3a3Q@31.129.22.32:443#@Xen2ray🤎 Viana do Castelo 🇵🇹
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989 #@Xen2ray💚 🇵🇹
-ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#@Xen2ray💙 Lisbon 🇵🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVElaWEdvZTB3a3Q@31.129.22.32:443 #@Xen2ray❤️ Viana do Castelo 🇵🇹
+vmess://eyJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJhaWQiOjAsImhvc3QiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KZIExpc2JvbiDwn4e18J+HuSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#@Xen2ray🤍 Lisbon 🇵🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#@Xen2ray🧡 🇵🇹
+vmess://eyJhZGQiOiI5NC4xMzEuMTAuNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwgTGlzYm9uIPCfh7Xwn4e5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989 #@Xen2ray🧡 🇵🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ@pt-1.stunnel.cc:8444 #@Xen2ray🤎 Porto 🇵🇹
