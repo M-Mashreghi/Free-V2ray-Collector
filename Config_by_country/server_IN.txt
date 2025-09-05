@@ -1,54 +1,52 @@
-ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray🤍 New Delhi 🇮🇳
-vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321/?type=tcp&encryption=none&flow= #@Xen2ray🤎 Mumbai 🇮🇳
-vmess://eyJhZGQiOiIxNDguMTEzLjYuODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjY2M2E0MjItODc1Yy00NGVlLTlhMjUtM2Y3YjMzNGRkOWY1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTg4MiIsInBzIjoiQFhlbjJyYXnwn6SOIE11bWJhaSDwn4eu8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RDRHWU5EYUZ5NGVlYmU0N3R2Rg@169.38.107.52:8389#@Xen2ray🤍 Chennai 🇮🇳
+vless://c3c886af-1db6-40b2-d886-765ea91940ad@151.101.158.204:80/?type=ws&encryption=none&host=fatmelo.com&path=🔒 [By EbraSha] #@Xen2ray🤎 Chennai 🇮🇳
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#@Xen2ray🧡 Bengaluru 🇮🇳
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFhlbjJyYXnwn5KcIE11bWJhaSDwn4eu8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RDRHWU5EYUZ5NGVlYmU0N3R2Rg@169.38.107.52:8389#@Xen2ray💜 Chennai 🇮🇳
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@45.79.121.117:5601 #@Xen2ray🧡 Mumbai 🇮🇳
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.228.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray🖤 Gwalior 🇮🇳
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray🧡 Gwalior 🇮🇳
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.201.33.249:443 #@Xen2ray💛 Mumbai 🇮🇳
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none #@Xen2ray🤍 New Delhi 🇮🇳
+ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray💚 New Delhi 🇮🇳
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none #@Xen2ray🖤 New Delhi 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@43.204.29.0:805#@Xen2ray🤎 Mumbai 🇮🇳
+ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp #@Xen2ray🤍 New Delhi 🇮🇳
+vmess://eyJhZGQiOiIxMzkuNTkuODUuMjMxIiwiYWlkIjo0LCJob3N0IjoiIiwiaWQiOiI3MDAyMzMwZC1mZTI3LTRiNTYtYjIyZi1kN2UzZWI4MjVmZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0Ijo4MDgwLCJwcyI6IkBYZW4ycmF58J+SmiBCZW5nYWx1cnUg8J+HrvCfh7MiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none #@Xen2ray🧡 New Delhi 🇮🇳
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#@Xen2ray🤍 Mumbai 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUzM5aDRSTXlQZEdjZmNsdGcxcndE@64.227.183.64:55305 #@Xen2ray🖤 Bengaluru 🇮🇳
-vmess://eyJhZGQiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLCJhaWQiOjAsImhvc3QiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLCJpZCI6IjA3NzIyZmM2LWE2ODgtNDlmZC05ODk2LWZiOWUxY2E3NDhkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjSBCZW5nYWx1cnUg8J+HrvCfh7MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQifQ==
-vless://df190411-7310-4cd6-bc22-546d7f584f35@148.113.46.244:2052?security=&type=grpc&serviceName=vless-grpc&encryption=none&fp=chrome&allowInsecure=1#@Xen2ray🧡 Mumbai 🇮🇳
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray💛 Gwalior 🇮🇳
-vless://c3c886af-1db6-40b2-d886-765ea91940ad@151.101.158.204:80/?type=ws&encryption=none&host=fatmelo.com&path=🔒 [By EbraSha] #@Xen2ray💛 Chennai 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y%3D@103.174.86.114:51348 #@Xen2ray🖤 🇮🇳
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFhlbjJyYXnwn6ehIE11bWJhaSDwn4eu8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://0117a6a8-046f-4a70-bf7a-f3e17b28933b@103.168.19.163:20829?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray🖤 🇮🇳
-vmess://eyJhZGQiOiIxMjkuMjI3LjIwMS4yMzQiLCJhaWQiOjQsImhvc3QiOiJhaWNvbzZkdS5jb20iLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI0gTXVtYmFpIPCfh67wn4ezIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYWljb282ZHUuY29tIn0=
-trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#@Xen2ray🤎 Hyderabad 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQY1lDY0h5VFlNZHAzYmZBTUNGb0Z6@64.227.144.190:50690 #@Xen2ray💚 Bengaluru 🇮🇳
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@43.205.208.0:80#@Xen2ray💚 Mumbai 🇮🇳
-ss://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray💛 Bengaluru 🇮🇳
-vmess://eyJhZGQiOiI0NS43OS4xMjEuMjQzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjM2OTlmYTczLWFjNWMtNDFjYS04ZDZlLWZlNGNiNzBjN2UwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMDIiLCJwcyI6IkBYZW4ycmF58J+kjSBNdW1iYWkg8J+HrvCfh7MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwiZnAiOiJjaHJvbWUiLCJhbGxvd0luc2VjdXJlIjoxfQ==
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray🤎 Gwalior 🇮🇳
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none #@Xen2ray💙 New Delhi 🇮🇳
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#@Xen2ray🤍 Bengaluru 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#@Xen2ray🤎 Bengaluru 🇮🇳
-vmess://eyJhZGQiOiIxODguMjA4LjE0MS4xNzciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkBYZW4ycmF58J+kjiBQYW52ZWwg8J+HrvCfh7MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=48720c #@Xen2ray🤍 New Delhi 🇮🇳
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.228.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray❤️ Gwalior 🇮🇳
-vmess://eyJhZGQiOiI2OC4xODMuODMuOTQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImI4ZjZhNzFjLTY5MjUtNGU4NC1mYjkzLTZlNTRmOGQ5OGIyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo1OTQ3NywicHMiOiJAWGVuMnJhefCfkpwgQmVuZ2FsdXJ1IPCfh67wn4ezIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTlTa1U4YUFaRmxsNDRpT0x4bnRM@159.89.173.112:42377?note=--Telegram--@NetifyVPN--#@Xen2ray🖤 Bengaluru 🇮🇳
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:3306#@Xen2ray🤎 Mumbai 🇮🇳
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none #@Xen2ray🤍 New Delhi 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYWxFdnJlbUh1@3.111.137.132:53223 #@Xen2ray💚 Mumbai 🇮🇳
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray🧡 Bengaluru 🇮🇳
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#@Xen2ray💚 Bengaluru 🇮🇳
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.245.228.99:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💚 Gwalior 🇮🇳
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#@Xen2ray🤎 Hyderabad 🇮🇳
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.54.131:6697#@Xen2ray💛 Mumbai 🇮🇳
-vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0IiwicHMiOiJAWGVuMnJhefCfkpkgTXVtYmFpIPCfh67wn4ezIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp #@Xen2ray🧡 New Delhi 🇮🇳
-ss://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray💛 New Delhi 🇮🇳
-trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1 #@Xen2ray❤️ Hyderabad 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#@Xen2ray🧡 Mumbai 🇮🇳
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@freevpn.vizzpn.join.channel.vizzfrag.ir:12794/?type=tcp&encryption=none #@Xen2ray💜 New Delhi 🇮🇳
+vmess://eyJhZGQiOiIxNTAuMjMwLjIzNC4xOTUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6ehIE11bWJhaSDwn4eu8J+HsyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUzM5aDRSTXlQZEdjZmNsdGcxcndE@64.227.183.64:55305 #@Xen2ray❤️ Bengaluru 🇮🇳
+vmess://eyJhZGQiOiIxODguMjA4LjE0MS4xNzciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkBYZW4ycmF54p2k77iPIFBhbnZlbCDwn4eu8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=48720c #@Xen2ray💜 New Delhi 🇮🇳
+vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0IiwicHMiOiJAWGVuMnJhefCfpI4gTXVtYmFpIPCfh67wn4ezIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@freevpn.vizzpn.join.channel.vizzfrag.ir:12794/?type=tcp&encryption=none #@Xen2ray🖤 New Delhi 🇮🇳
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#@Xen2ray💜 Bengaluru 🇮🇳
+vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321/?type=tcp&encryption=none&flow= #@Xen2ray❤️ Mumbai 🇮🇳
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@43.205.208.0:80#@Xen2ray💙 Mumbai 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw@103.125.147.48:51348 #@Xen2ray🖤 Delhi 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#@Xen2ray🧡 Bengaluru 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptUUFPeURYcnB6b3lxVWw5VkxMUnBG@139.59.3.113:8841 #@Xen2ray💜 Bengaluru 🇮🇳
 ss://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=48720c #@Xen2ray🖤 New Delhi 🇮🇳
-vmess://eyJhZGQiOiIxNTAuMjMwLjIzNC4xOTUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KbIE11bWJhaSDwn4eu8J+HsyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@43.204.29.0:805 #@Xen2ray💛 Mumbai 🇮🇳
-vmess://eyJhZGQiOiIxNTUuMjQ4LjI0MS41MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpkgTXVtYmFpIPCfh67wn4ezIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.201.33.249:443 #@Xen2ray💚 Mumbai 🇮🇳
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@45.79.121.117:5601 #@Xen2ray💚 Mumbai 🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptUUFPeURYcnB6b3lxVWw5VkxMUnBG@139.59.3.113:8841 #@Xen2ray💙 Bengaluru 🇮🇳
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@159.89.160.226:2095?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #@Xen2ray❤️ Bengaluru 🇮🇳
-vmess://eyJhZGQiOiIxMzkuNTkuODUuMjMxIiwiYWlkIjo0LCJob3N0IjoiIiwiaWQiOiI3MDAyMzMwZC1mZTI3LTRiNTYtYjIyZi1kN2UzZWI4MjVmZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0Ijo4MDgwLCJwcyI6IkBYZW4ycmF58J+SnCBCZW5nYWx1cnUg8J+HrvCfh7MiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIxMjkuMjI3LjIwMS4yMzQiLCJhaWQiOjQsImhvc3QiOiJhaWNvbzZkdS5jb20iLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpkgTXVtYmFpIPCfh67wn4ezIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYWljb282ZHUuY29tIn0=
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#@Xen2ray🤎 Hyderabad 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTlTa1U4YUFaRmxsNDRpT0x4bnRM@159.89.173.112:42377?note=--Telegram--@NetifyVPN--#@Xen2ray💙 Bengaluru 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#@Xen2ray🤍 Mumbai 🇮🇳
+trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#@Xen2ray🤎 Hyderabad 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMDgxZ2F2SFdPUjdXT3ZPbzljWGNH@64.227.144.190:50690 #@Xen2ray🤎 Bengaluru 🇮🇳
+vless://0117a6a8-046f-4a70-bf7a-f3e17b28933b@103.168.19.163:20829?security=none&encryption=none&headerType=none&type=tcp #@Xen2ray💛 🇮🇳
+vmess://eyJhZGQiOiI2OC4xODMuODMuOTQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImI4ZjZhNzFjLTY5MjUtNGU4NC1mYjkzLTZlNTRmOGQ5OGIyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo1OTQ3NywicHMiOiJAWGVuMnJheeKdpO+4jyBCZW5nYWx1cnUg8J+HrvCfh7MiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray🧡 Gwalior 🇮🇳
+ss://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray🧡 Bengaluru 🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y%3D@103.174.86.114:51348 #@Xen2ray🧡 🇮🇳
+trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1 #@Xen2ray💛 Hyderabad 🇮🇳
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.245.228.99:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💙 Gwalior 🇮🇳
+vmess://eyJhZGQiOiIxNDguMTEzLjYuODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjY2M2E0MjItODc1Yy00NGVlLTlhMjUtM2Y3YjMzNGRkOWY1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTg4MiIsInBzIjoiQFhlbjJyYXnwn5KbIE11bWJhaSDwn4eu8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYWxFdnJlbUh1@3.111.137.132:53223 #@Xen2ray🧡 Mumbai 🇮🇳
+ss://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp #@Xen2ray💛 New Delhi 🇮🇳
 vmess://eyJhZGQiOiI0NS43OS4xMjAuMjQzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkMzgwMTA3Yy01NGYzLTRkYTYtZDAzNC0xOGVkNjYxNTJmMDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjAsInBzIjoiQFhlbjJyYXnwn5KbIE11bWJhaSDwn4eu8J+HsyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZTZwZUZHNTRGOW40dTN4Mw@103.125.147.48:51348 #@Xen2ray🧡 Delhi 🇮🇳
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#@Xen2ray💚 Mumbai 🇮🇳
+vmess://eyJhZGQiOiIxNTUuMjQ4LjI0MS41MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpkgTXVtYmFpIPCfh67wn4ezIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:3306#@Xen2ray💜 Mumbai 🇮🇳
+vmess://eyJhZGQiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLCJhaWQiOjAsImhvc3QiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLCJpZCI6IjA3NzIyZmM2LWE2ODgtNDlmZC05ODk2LWZiOWUxY2E3NDhkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjiBCZW5nYWx1cnUg8J+HrvCfh7MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJpbi1mdWxsLnByaXZhdGVpcC5uZXQifQ==
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Xen2ray🤍 Bengaluru 🇮🇳
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.54.131:6697#@Xen2ray🧡 Mumbai 🇮🇳
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@159.89.160.226:2095?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #@Xen2ray💙 Bengaluru 🇮🇳
