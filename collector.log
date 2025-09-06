@@ -1381,3 +1381,58 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/15119 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15119/15119 [00:00<00:00, 1401996.02cfg/s]
 2025-09-06 05:17:47,121 [INFO] save_config: Saving 3490242 configs to /home/h329838/apps/Free-V2ray-Collector
 2025-09-06 05:17:47,794 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 97 files, 15119 lines total.
+Pushed to origin/main.
+2025-09-06 08:17:54,177 [INFO] collector: Fetching: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2025-09-06 08:17:54,528 [INFO] collector: Fetching: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0906.txt
+2025-09-06 08:17:54,876 [INFO] collector: Fetching: https://proxypool.link/sip002/sub
+2025-09-06 08:17:55,593 [INFO] collector: Fetching: https://proxypool.link/ss/sub
+2025-09-06 08:17:55,790 [INFO] collector: Fetching: https://proxypool.link/vmess/sub
+2025-09-06 08:17:55,985 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt
+2025-09-06 08:17:56,168 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt
+2025-09-06 08:17:56,340 [INFO] collector: Fetching: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+2025-09-06 08:17:56,615 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-09-06 08:17:56,783 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-09-06 08:17:56,941 [INFO] collector: Fetching: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+2025-09-06 08:17:57,099 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+2025-09-06 08:17:57,328 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+2025-09-06 08:17:57,658 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+2025-09-06 08:17:57,834 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+2025-09-06 08:17:58,129 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+2025-09-06 08:17:58,307 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+2025-09-06 08:17:58,594 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+2025-09-06 08:17:58,779 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+2025-09-06 08:17:58,961 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-09-06 08:17:58,991 [INFO] collector: Fetching: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+2025-09-06 08:17:59,154 [INFO] collector: Fetching: https://raw.githubusercontent.com/freefq/free/master/v2
+2025-09-06 08:17:59,310 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-09-06 08:17:59,340 [INFO] collector: Fetching: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt
+2025-09-06 08:18:03,650 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=1
+2025-09-06 08:18:04,096 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=2
+2025-09-06 08:18:15,961 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=2 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=2 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:15,961 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=2
+2025-09-06 08:18:15,961 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=3
+2025-09-06 08:18:22,666 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=3 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=3 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:22,666 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=3
+2025-09-06 08:18:22,666 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=4
+2025-09-06 08:18:29,153 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=4 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=4 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:29,153 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=4
+2025-09-06 08:18:29,153 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=5
+2025-09-06 08:18:35,530 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=5 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=5 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:35,530 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=5
+2025-09-06 08:18:35,530 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=6
+2025-09-06 08:18:42,139 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=6 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=6 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:42,139 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=6
+2025-09-06 08:18:42,139 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2025-09-06 08:18:48,802 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=8 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=8 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:48,803 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=8
+2025-09-06 08:18:48,803 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2025-09-06 08:18:55,456 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=7 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=7 (Caused by ResponseError('too many 503 error responses'))
+2025-09-06 08:18:55,457 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=7
+2025-09-06 08:18:55,457 [INFO] collector: Decoded 32 configs from 32 links
+2025-09-06 08:19:14,155 [INFO] save_config: Saving 37 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-06 08:19:18,905 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/67954 [00:00<?, ?cfg/s]Renaming configs:   7%|▋         | 4777/67954 [00:00<00:01, 47762.64cfg/s]Renaming configs:  15%|█▌        | 10448/67954 [00:00<00:01, 53024.23cfg/s]Renaming configs:  28%|██▊       | 18780/67954 [00:00<00:00, 66855.98cfg/s]Renaming configs:  37%|███▋      | 25466/67954 [00:00<00:01, 42114.14cfg/s]Renaming configs:  57%|█████▋    | 38462/67954 [00:00<00:00, 65140.23cfg/s]Renaming configs:  73%|███████▎  | 49625/67954 [00:00<00:00, 77805.28cfg/s]Renaming configs:  94%|█████████▍| 64137/67954 [00:00<00:00, 96660.79cfg/s]Renaming configs: 100%|██████████| 67954/67954 [00:00<00:00, 77547.27cfg/s]
+Sorting by protocol:   0%|          | 0/14838 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 14838/14838 [00:00<00:00, 1387781.98cfg/s]
+2025-09-06 08:19:26,703 [INFO] save_config: Saving 3443880 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-06 08:19:27,375 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
