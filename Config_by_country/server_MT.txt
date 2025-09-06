@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989 #@Xen2ray🖤 Valletta 🇲🇹
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.227.99.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=ğŸ”’ [By EbraSha] #@Xen2ray🤎 🇲🇹
-trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls #@Xen2ray💛 🇲🇹
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=ğŸ”’ [By EbraSha] #@Xen2ray💙 🇲🇹
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=ğŸ”’ [By EbraSha] #@Xen2ray🖤 🇲🇹
+trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls #@Xen2ray💜 🇲🇹
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💛 🇲🇹
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.227.99.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray🤎 🇲🇹
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989 #@Xen2ray🤎 Valletta 🇲🇹
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray🤍 🇲🇹
