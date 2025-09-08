@@ -12,3 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#%40Xen2ray%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%40Xen2ray%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT
 trojan://trojan@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-f03.pages.dev&fp=random&type=ws&host=azadnet-f03.pages.dev&path=%2F%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://60980999-7576-453d-8a95-efe5829e7f74@uk.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#%40Xen2ray%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%40Xen2ray%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#%40Xen2ray%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT
