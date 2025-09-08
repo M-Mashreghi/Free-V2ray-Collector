@@ -3,6 +3,15 @@ from datetime import datetime
 from urllib.parse import urlparse
 
 import git
+from datetime import datetime
+import pytz  # pip install pytz
+
+IRAN_TZ = pytz.timezone("Asia/Tehran")
+
+def iran_timestamp(fmt: str = "%Y-%m-%d %H:%M:%S") -> str:
+    return datetime.now(IRAN_TZ).strftime(fmt)
+
+
 
 def _to_https_url(remote_url: str) -> str:
     # Normalize SSH → HTTPS for token injection
@@ -69,10 +78,12 @@ def update_with_token(remote_name: str = "origin", branch: str | None = None) ->
     repo = git.Repo(os.getcwd())
 
     # Stage & commit locally so you never lose work
+    _ensure_identity(repo)
     repo.git.add(all=True)
     if repo.is_dirty(untracked_files=True):
-        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        repo.index.commit(f"✅ {ts} ✅")
+        # ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        ts = iran_timestamp()
+        repo.index.commit(f" ✅ {ts} ✅")
 
     # Detect branch (fallback to main)
     default_branch = (branch or
