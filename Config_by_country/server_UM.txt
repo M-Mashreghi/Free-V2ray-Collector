@@ -1,2 +1,2 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=🔒 [By EbraSha]&security=tls&alpn=h2&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=🔒 [By EbraSha] freev2ray_ir🇺🇲 #@Xen2ray🤍
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=pq-2.access.name.ng&type=ws&sni=🔒 [By EbraSha] 🇺🇲 #@Xen2ray💚
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=pq-2.access.name.ng&type=ws&sni=🔒 [By EbraSha] 🇺🇲 #@Xen2ray🖤
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=🔒 [By EbraSha]&security=tls&alpn=h2&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=🔒 [By EbraSha] freev2ray_ir🇺🇲 #@Xen2ray💚
