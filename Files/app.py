@@ -11,6 +11,7 @@ import logging
 from seperate_config_country import seperate_by_country
 from update_git import Update,update_with_token
 import os, logging, sys
+from update_git import update_with_token
 
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
 LOG_TO_FILE = os.getenv("LOG_TO_FILE", "0") in ("1","true","True")

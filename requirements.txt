@@ -7,4 +7,5 @@ telethon
 pysocks
 tqdm
 pybase64
+filelock
 python-dotenv
