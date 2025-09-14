@@ -1,19 +1,17 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.112.154:808 #@Xen2ray🤍 Kuala Lumpur 🇲🇾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990 #@Xen2ray💜 Kuala Lumpur 🇲🇾
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#@Xen2ray💜 Cyberjaya 🇲🇾
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.113.163:989 #@Xen2ray💛 Kuala Lumpur 🇲🇾
+vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls #@Xen2ray💚 Kuala Lumpur 🇲🇾
+vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls #@Xen2ray💜 Kuala Lumpur 🇲🇾
+vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #@Xen2ray💚 Kuala Lumpur 🇲🇾
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls#@Xen2ray🤎 Kuala Lumpur 🇲🇾
+vless://87f1c3ae-e51a-4739-8e4a-d373d13f5bf8@45.128.54.6:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1&fp=chrome #@Xen2ray🖤 Kuala Lumpur 🇲🇾
+vmess://eyJhZGQiOiIxNjYuODguMTk0LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY0NGY4NzFmLTRiMzMtNDVjOC1kN2M1LWMyNzhmZmM0Y2E3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDg4MzUiLCJwcyI6IkBYZW4ycmF58J+kjSBLdWFsYSBMdW1wdXIg8J+HsvCfh74iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls #@Xen2ray🤎 Kuala Lumpur 🇲🇾
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#@Xen2ray🧡 Kuala Lumpur 🇲🇾
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls #@Xen2ray🤎 Kuala Lumpur 🇲🇾
-vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #@Xen2ray💛 Kuala Lumpur 🇲🇾
-vmess://eyJhZGQiOiJ0LmNubWpjbi5jeW91IiwiYWlkIjowLCJob3N0IjoiZjYwNDA2NjI0OWE3ODRkNjk0ZGI2NWQzZWJmNWQ2MGMubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiNzQzZGJjZTktZWM3ZC00OWRkLWI5ZDYtM2IxYTE1MWU3MjlmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjE2NjIyLCJwcyI6IkBYZW4ycmF58J+noSBLdWFsYSBMdW1wdXIg8J+HsvCfh74iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls #@Xen2ray💜 Kuala Lumpur 🇲🇾
-vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls #@Xen2ray❤️ Kuala Lumpur 🇲🇾
-vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoiQFhlbjJyYXnwn6ehIEt1YWxhIEx1bXB1ciDwn4ey8J+HviIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://87f1c3ae-e51a-4739-8e4a-d373d13f5bf8@45.128.54.6:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1&fp=chrome #@Xen2ray💜 Kuala Lumpur 🇲🇾
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.113.163:989 #@Xen2ray💙 Kuala Lumpur 🇲🇾
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls#@Xen2ray🤍 Kuala Lumpur 🇲🇾
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=&encryption=none&type=grpc#@Xen2ray💚 Kuala Lumpur 🇲🇾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#@Xen2ray💚 Kuala Lumpur 🇲🇾
-vmess://eyJhZGQiOiIxMDMuMTg2LjExNy4yMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmUyNTdmOWMtZmEwZS00NDJmLWY1M2MtNmE0NTI5MjRjMGMyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTQ5NyIsInBzIjoiQFhlbjJyYXnwn6SNIEN5YmVyamF5YSDwn4ey8J+HviIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNjYuODguMTk0LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY0NGY4NzFmLTRiMzMtNDVjOC1kN2M1LWMyNzhmZmM0Y2E3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDg4MzUiLCJwcyI6IkBYZW4ycmF54p2k77iPIEt1YWxhIEx1bXB1ciDwn4ey8J+HviIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#@Xen2ray💚 Cyberjaya 🇲🇾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NEdVRDI4Qnc5dUNNZGJjMnBxQQ@223.25.246.4:8389#@Xen2ray🧡 Kuala Lumpur 🇲🇾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.112.154:808 #@Xen2ray❤️ Kuala Lumpur 🇲🇾
-trojan://58dcd460-65df-47b1-b062-517df30bef29@sg.liangyuandian.top:443?security=tls#@Xen2ray💜 Kuala Lumpur 🇲🇾
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KbIEt1YWxhIEx1bXB1ciDwn4ey8J+HviIsImFkZCI6InQuY25tamNuLmN5b3UiLCJwb3J0IjoiMTY2MTciLCJpZCI6IjkxODAwM2QzLTFmNWQtNDI1Yy1iMzljLWZmNjE3ODFlNDhmMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjUxYjBlNDIwMzRkZDc1YTgxNWZhOWViMTYwMjFmYmRhLm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsImZwIjoiY2hyb21lIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NEdVRDI4Qnc5dUNNZGJjMnBxQQ@223.25.246.4:8389#@Xen2ray💚 Kuala Lumpur 🇲🇾
+vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoiQFhlbjJyYXnwn6SOIEt1YWxhIEx1bXB1ciDwn4ey8J+HviIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0LmNubWpjbi5jeW91IiwiYWlkIjowLCJob3N0IjoiZjYwNDA2NjI0OWE3ODRkNjk0ZGI2NWQzZWJmNWQ2MGMubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiNzQzZGJjZTktZWM3ZC00OWRkLWI5ZDYtM2IxYTE1MWU3MjlmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjE2NjIyLCJwcyI6IkBYZW4ycmF58J+kjiBLdWFsYSBMdW1wdXIg8J+HsvCfh74iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=&encryption=none&type=grpc#@Xen2ray🤍 Kuala Lumpur 🇲🇾
+vmess://eyJhZGQiOiIxMDMuMTg2LjExNy4yMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmUyNTdmOWMtZmEwZS00NDJmLWY1M2MtNmE0NTI5MjRjMGMyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTQ5NyIsInBzIjoiQFhlbjJyYXnwn5KbIEN5YmVyamF5YSDwn4ey8J+HviIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
