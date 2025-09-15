@@ -151,3 +151,10 @@ vless://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?path=%2F&secur
 vless://c2aff09d-4fd7-4ee6-adc3-78eb352debe7@www.visa.com:8080?encryption=none&security=none&type=ws&host=0213.nsbt5eve.workers.dev&path=%2F%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c%3D@83.217.9.210:443#%40Xen2ray%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR
 trojan://vpn@79.137.204.130:2025?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#%40Xen2ray%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL
+vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?encryption=none&security=tls&sni=mirror.fullmargintraders.com&fp=chrome&type=ws&host=mirror.fullmargintraders.com&path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://18bb1b1d-16a2-4ba7-ab27-9720c9f4a875@www.speedtest.net:2096?encryption=none&security=tls&sni=jh2msivc7ik13k3brrox9pa4n0od1u06.pages.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=jh2msivc7ik13k3brrox9pa4n0od1u06.pages.dev&path=%2Fula71xpxnefsjebn%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?encryption=none&security=tls&type=ws&path=%2Fjzonrlws#%40Xen2ray%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+vless://e5c2e234-333e-48b4-8199-2793a64527bc@104.21.112.1:443?encryption=none&security=tls&sni=s1-c3r.pages.dev&fp=randomized&type=ws&host=s1-c3r.pages.dev&path=%2Ftelegram-marambashi_marambashi%3Fed%3D512#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?encryption=none&security=tls&sni=gulf-d96.pages.dev&fp=randomized&type=ws&host=gulf-d96.pages.dev&path=%2Fecy3gzim8w6ud5yj%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443?encryption=none&security=tls&type=ws&path=%2Fattzctws#%40Xen2ray%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY
+trojan://trojan@104.18.13.229:8443?encryption=none&security=tls&sni=pangpi.pages.dev&type=ws&host=pangpi.pages.dev#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
