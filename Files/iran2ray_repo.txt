@@ -158,3 +158,4 @@ vless://e5c2e234-333e-48b4-8199-2793a64527bc@104.21.112.1:443?encryption=none&se
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?encryption=none&security=tls&sni=gulf-d96.pages.dev&fp=randomized&type=ws&host=gulf-d96.pages.dev&path=%2Fecy3gzim8w6ud5yj%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
 vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443?encryption=none&security=tls&type=ws&path=%2Fattzctws#%40Xen2ray%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY
 trojan://trojan@104.18.13.229:8443?encryption=none&security=tls&sni=pangpi.pages.dev&type=ws&host=pangpi.pages.dev#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+trojan://auto@172.66.46.254:443?encryption=none&security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F

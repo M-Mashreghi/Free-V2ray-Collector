@@ -1,8 +1,7 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@Xen2ray💙 🇵🇭
-vmess://eyJhZGQiOiIxNTQuODMuMi45MCIsImFpZCI6MCwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsImlkIjoiNzEyNzcyYzItZjdkNy00ZDMzLWJmMDItYjdhN2U1ZjcyOWM0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwODcsInBzIjoiQFhlbjJyYXnwn5akIPCfh7Xwn4etIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIn0=
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #@Xen2ray🤎 🇵🇭
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Xen2ray🖤 🇵🇭
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls #@Xen2ray🖤 🇵🇭
-vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjkyNDE4MmYtOTBlYy00YjExLWIwNTYtZmM1MDE5NWUzMzU5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiQFhlbjJyYXnwn6SOIE1hbmlsYSDwn4e18J+HrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Xen2ray💙 🇵🇭
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray💜 🇵🇭
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Xen2ray💛 🇵🇭
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #@Xen2ray💜 🇵🇭
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Xen2ray🤎 🇵🇭
+vmess://eyJhZGQiOiIxNTQuODMuMi45MCIsImFpZCI6MCwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsImlkIjoiNzEyNzcyYzItZjdkNy00ZDMzLWJmMDItYjdhN2U1ZjcyOWM0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwODcsInBzIjoiQFhlbjJyYXnwn5KZIPCfh7Xwn4etIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIn0=
+vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjkyNDE4MmYtOTBlYy00YjExLWIwNTYtZmM1MDE5NWUzMzU5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiQFhlbjJyYXnwn6SNIE1hbmlsYSDwn4e18J+HrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Xen2ray🧡 🇵🇭
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls #@Xen2ray💜 🇵🇭
