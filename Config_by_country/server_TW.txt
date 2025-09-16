@@ -1,127 +1,129 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.59:2377 #@Xen2ray❤️ Taichung 🇹🇼
-vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0Ijoid29pZGVuZXU3Lmpzd29ybGQuZXUub3JnIiwiaWQiOiIyZWIzMDc3OS0yZThjLTRiODktZTZiZC1hMGVjNzYwY2E1MDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SmSBUYWljaHVuZyDwn4e58J+HvCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IndvaWRlbmV1Ny5qc3dvcmxkLmV1Lm9yZyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YjVhNzk0Zi0zODM0LTRmMmYtOTViYS02ZTc5NWFmMTViODM=@1.165.80.120:10018#@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.165.87.170:10036#@Xen2ray💙 Taichung 🇹🇼
-trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#@Xen2ray💚 Taichung 🇹🇼
-vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0IjoicnUudHpjY2lmcS5nYSIsImlkIjoiNTQxY2EwMjYtNThkMy00OGYxLWQ2ZWYtM2EwNTU0M2RkY2I3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCflqQgVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTQyZWM1Mi01YWU4LTQ4M2YtYjA0MS0xNDVkMDdhM2FiMjY=@118.170.202.197:10016#@Xen2ray🤎 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgxMDRjZi05ZGU2LTRmMDktOWQ4MC0wNTM4NDM0ODRhMDQ=@36.234.108.171:10065#@Xen2ray💜 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#@Xen2ray🧡 Taipei 🇹🇼
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462?security=tls#@Xen2ray💜 Taipei 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#@Xen2ray💛 Kaohsiung 🇹🇼
-vmess://eyJhZGQiOiJ0dy0xLnF3cWpzcS50b3AiLCJhaWQiOjAsImhvc3QiOiJ0dy0xLnF3cWpzcS50b3AiLCJpZCI6ImIwNTQzYTNiLWQ2OTAtM2VkOS05YTgxLWYyNGY4NTJlNzRmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6SNIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM=@36.232.104.92:10125#@Xen2ray❤️ Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.198.43:2377 #@Xen2ray💚 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODFiMjExNS1mOWQzLTRmZWEtYTA3Mi1mOWYzZDNmOTgwZTY@36.234.112.65:10043#@Xen2ray💜 Taichung 🇹🇼
-trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#@Xen2ray🧡 Taichung 🇹🇼
-vmess://eyJhZGQiOiJ0dzMuNTk0ODg4Lnh5eiIsImFpZCI6MCwiaG9zdCI6InR3My41OTQ4ODgueHl6IiwiaWQiOiJkZDc2MzljZi02NmRkLTMwMzgtYWIwZS1jZWZlN2U5ZWY5ZmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoyNTU1MSwicHMiOiJAWGVuMnJhefCfkpkgQ2hhbmctaHVhIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377 #@Xen2ray💛 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls #@Xen2ray🖤 Taipei 🇹🇼
-trojan://4bacb8f1a089763b@60.248.114.182:3306?security=tls&allowInsecure=1&type=tcp #@Xen2ray🖤 Fongshan District 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.3:2377 #@Xen2ray💚 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDkyYmVjNC1mMGQ2LTRiYmYtOTY1My1jYjg0NTU5MzM2ZmE=@1.170.10.19:10117#@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377 #@Xen2ray💙 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#@Xen2ray🤎 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmNiMjBiNi0xOWQxLTQ5ZjMtODg3Yi04MDEzMzFlOTMzNjk=@118.170.234.61:10041#@Xen2ray🧡 Taichung 🇹🇼
-vmess://eyJhZGQiOiIxLjE2MS4xODYuMTQ2IiwiYWlkIjoxLCJob3N0IjoiIiwiaWQiOiJjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2xpZW50YXJlYSIsInBvcnQiOjY0NDQzLCJwcyI6IkBYZW4ycmF58J+SnCBIc2luY2h1IPCfh7nwn4e8IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#@Xen2ray💛 Tainan City 🇹🇼
-trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#@Xen2ray🖤 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377 #@Xen2ray💚 Taichung 🇹🇼
-vmess://eyJhZGQiOiIxMDQuMjkuNjQuNSIsImFpZCI6MCwiaG9zdCI6InVzMy5ndW9saWNoZW5nLmN5b3UiLCJpZCI6ImExYjE2ZDEwLTRmNDMtNGRkOS04YzRmLTUyMDY1YjJiMDkxMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zdXRpL3VzMz9lZD0yMDQ4IiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SmyBLYW9oc2l1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjYyY2FjYi01NjM3LTRlYTktYWQ2YS1mYTlmOTU4ZTUwZTE=@111.253.193.168:10122#@Xen2ray🤎 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#@Xen2ray💜 Taipei 🇹🇼
-trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YjVhNzk0Zi0zODM0LTRmMmYtOTViYS02ZTc5NWFmMTViODM=@36.234.117.33:10067#@Xen2ray❤️ Taichung 🇹🇼
-vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjIxNyIsInYiOjIsInBzIjoiQFhlbjJyYXnwn6SOIFRhaXBlaSDwn4e58J+HvCIsInBvcnQiOiI0MTAwMCIsImlkIjoiZjlmYTNhOWMtZjdkNS00MTRmLTg4ZTYtNjk3MDU4NWQ5OTQ5IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii9wYXRoLzI4MjAxODI1MjUyNiJ9
-vless://a209c2de-2bb6-4fa0-b8b2-c506bfb9b422@114.41.31.44:23929?security=reality&encryption=none&pbk=vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ&headerType=none&fp=edge&type=tcp&sni=www.microsoft.com#@Xen2ray🖤 Dacun 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM=@125.231.64.232:10043#@Xen2ray💚 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@61.216.165.233:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%29aee97b7%3A155033 #@Xen2ray🧡 Taichung 🇹🇼
-vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjE1MiIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTQ2OTBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTg4NiIsInBzIjoiQFhlbjJyYXnwn5KcIFRhaXBlaSDwn4e58J+HvCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2I1NjdjNS01YzM5LTRhOTgtOWNmOS05MDA3ZjgzYjlhNDI@125.231.93.197:10056 #@Xen2ray💛 Miaoli 🇹🇼
-trojan://ouo@210.61.97.241:81/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray💙 Taoyuan District 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.b5.gladns.com:2377 #@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODZmZjU1My0wMDIwLTRkMzUtOTAxZC03MGFjMWRjOTM1OGU=@1.170.61.6:10082#@Xen2ray🤎 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.134:2377 #@Xen2ray💜 Taichung 🇹🇼
-vmess://eyJhZGQiOiIxNjUuMTU0LjIyNi40NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmEwNzAyZjQtOGVjOS00OGU1LTliNTMtYTBhZmI3YzM3MTdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+SmyBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YmMwNTM3Yy1mZmRkLTQyZjQtOTAxMi1mOGQ4OGVmZTc4NWQ=@125.230.23.59:10026#@Xen2ray💜 Taichung 🇹🇼
-vmess://eyJhZGQiOiI0NS4xMjEuNDguMTc0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImJmYzYzMGFhLTQ1OTgtNDQ4MS05MzM4LWNhYzE1ZTNlNmI2NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA3ODgiLCJwcyI6IkBYZW4ycmF58J+kjSBUYWlwZWkg8J+HufCfh7wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#@Xen2ray🧡 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM=@118.170.245.15:10018#@Xen2ray💙 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] های بیشتر در چنل تلگرام💎 Config_Rayegan@ #@Xen2ray🤍 Tainan City 🇹🇼
-vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0Ijoid29pZGVuZXU0Lmpzd29ybGQuZXUub3JnIiwiaWQiOiJjYjY0NDhlMy0wOGUxLTQxM2QtYmMxNy1kM2IwZGJhOWFhZTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+noSBUYWljaHVuZyDwn4e58J+HvCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IndvaWRlbmV1NC5qc3dvcmxkLmV1Lm9yZyJ9
-vmess://eyJhZGQiOiI2MS4yMjIuMjAyLjE0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTU1Y2QxODItMDFiMC00ZmI3LWE1MTAtMzYzNzAxYTQ5MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjMzNzkyLCJwcyI6IkBYZW4ycmF58J+SnCBOZXcgVGFpcGVpIENpdHkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0IjoiaGF4ZXU3Lmpzd29ybGQuZXUub3JnIiwiaWQiOiJkZmQxZDgwZi1jYWYwLTRiMTEtZTBiYi03MzNhMjcxMGEwN2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhMyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI4gVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJoYXhldTcuanN3b3JsZC5ldS5vcmcifQ==
-trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls#@Xen2ray💚 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.135:2377 #@Xen2ray💙 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377 #@Xen2ray💚 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#@Xen2ray🧡 Kaohsiung 🇹🇼
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.43:33992#@Xen2ray💚 Taipei 🇹🇼
-vmess://eyJhZGQiOiIwMTIuQVAuUE9QLm5vZGUtZm9yLXNtYWxsYWlycG9ydC53aW4iLCJhaWQiOjAsImhvc3QiOiIwMTIuQVAuUE9QLm5vZGUtZm9yLXNtYWxsYWlycG9ydC53aW4iLCJpZCI6ImNkMGUxY2Q0LTlhYWMtNDFkZi05NzQ2LTRkNzYxODJjODAwOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NTIxNSwicHMiOiJAWGVuMnJhefCfp6EgVGFpcGVpIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiMDEyLkFQLlBPUC5ub2RlLWZvci1zbWFsbGFpcnBvcnQud2luIn0=
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@e001.panda003.net:2003#@Xen2ray💚 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGU2ZGJiNi1kYWY3LTQ4NjktYWNhNS1mNDcwZjFmYTY4MTQ=@36.232.108.199:10142#@Xen2ray💛 Taichung 🇹🇼
-vmess://eyJhZGQiOiJ0dzIuc2RrbGtkLm9yZyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmE5ODcxNGMtMWQyYi0zYjYwLTgxZTAtZjcxNTExMTBlODAxIiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0IjoxNDQzLCJwcyI6IkBYZW4ycmF58J+SmSBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ0dzIuc2RrbGtkLm9yZyJ9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@61.220.130.70:50701 #@Xen2ray💙 New Taipei City 🇹🇼
-trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#@Xen2ray💛 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNmM5ZjRlMy0zNzJkLTQxNGMtYjk0NS1kNjM1NDRkNTk5ZWM=@1.170.39.112:10092#@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Nzg0OWFiYi1mMWZkLTRiYWItODAzNy01YTEzZmQ3MzMzNGI@1.170.20.172:10115 #@Xen2ray🖤 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.37:2377 #@Xen2ray🧡 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.138:2377 #@Xen2ray🧡 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#@Xen2ray💙 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJmMTc4OS1iNzllLTQ5NzYtOTkyNy05NzY2ODRmZDBjMmU=@118.170.206.50:10005#@Xen2ray🤎 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZTQ0ZTlmZmU1YzI@103.177.33.180:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fisaifqaagpi%3Bmux%3Dtrue%3Bhost%3Dwtw1000mline004.chilines.club #@Xen2ray🤎 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.47:2377 #@Xen2ray💛 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377 #@Xen2ray💜 Taichung 🇹🇼
-ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#@Xen2ray🤍 Taichung 🇹🇼
-vmess://eyJhZGQiOiIxMDQuMjkuNjQuMjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNmNDIxZTI3LTViZjgtNDBjOS04NmNiLTdiOGM0MWRkZGVhMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9sWHZBMFZzZS8iLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfpI0gS2FvaHNpdW5nIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759 #@Xen2ray💚 Taipei 🇹🇼
-vmess://eyJhZGQiOiIxNjUuMTU0LjI0Ni43MSIsImFpZCI6MCwiaG9zdCI6IjE2NS4xNTQuMjQ2LjcxIiwiaWQiOiIxMzU4MWFlOC02NWM5LTRmYmUtOWM3OC03N2ZhYzljYTUwM2EiLCJuZXQiOiJ3cyIsInBhdGgiOiI/ZWQ9MjA0OCIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+SmiDwn4e58J+HvCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ODY2Y2ZlZi0zMTg4LTRmY2QtYTE3ZS03NTE4NDFlMWE2ODA=@114.46.71.121:10042#@Xen2ray💜 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@tw.fastsoonlink.com:40020 #@Xen2ray🤎 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjgyYTIxMS1jN2Y4LTRhMWYtOTEyMy0wMjVkNzhjZDQyZTQ=@114.46.120.92:10060 #@Xen2ray💚 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGI5YTg1ZS1lYTZhLTQ1MDktYTkzNy0yY2JjMTVhYWE3YjM=@111.253.209.195:10150#@Xen2ray💜 Taichung 🇹🇼
-vmess://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTJlNTExYjAtN2RlZi00ZTFiLWQyMzgtNmNiNTM5MWIyZTNmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjMxOTQ1LCJwcyI6IkBYZW4ycmF58J+WpCDwn4e58J+HvCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.137:2377 #@Xen2ray💛 Taichung 🇹🇼
+vmess://eyJhZGQiOiJ0dy0xLnF3cWpzcS50b3AiLCJhaWQiOjAsImhvc3QiOiJ0dy0xLnF3cWpzcS50b3AiLCJpZCI6ImIwNTQzYTNiLWQ2OTAtM2VkOS05YTgxLWYyNGY4NTJlNzRmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn5KaIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#@Xen2ray💙 Taichung 🇹🇼
+vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0Ijoid29pZGVuZXU3Lmpzd29ybGQuZXUub3JnIiwiaWQiOiIyZWIzMDc3OS0yZThjLTRiODktZTZiZC1hMGVjNzYwY2E1MDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SmiBUYWljaHVuZyDwn4e58J+HvCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IndvaWRlbmV1Ny5qc3dvcmxkLmV1Lm9yZyJ9
+trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#@Xen2ray🤎 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YmMwNTM3Yy1mZmRkLTQyZjQtOTAxMi1mOGQ4OGVmZTc4NWQ=@125.230.23.59:10026#@Xen2ray🤍 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YjVhNzk0Zi0zODM0LTRmMmYtOTViYS02ZTc5NWFmMTViODM=@1.165.80.120:10018#@Xen2ray🤎 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZTQ0ZTlmZmU1YzI@103.177.33.180:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fisaifqaagpi%3Bmux%3Dtrue%3Bhost%3Dwtw1000mline004.chilines.club #@Xen2ray💛 Taipei 🇹🇼
+trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#@Xen2ray🤎 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.3:2377 #@Xen2ray❤️ Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMmQ1MjE1Zi0yMmY0LTQ1NmMtYTcyNC03ODk0MzFmMmI5MzA@118.170.235.179:10004#@Xen2ray💙 Taichung 🇹🇼
+trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#@Xen2ray🖤 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ODY2Y2ZlZi0zMTg4LTRmY2QtYTE3ZS03NTE4NDFlMWE2ODA=@114.46.71.121:10042#@Xen2ray🖤 Taichung 🇹🇼
+vmess://eyJhZGQiOiIxNjUuMTU0LjI0Ni43MSIsImFpZCI6MCwiaG9zdCI6IjE2NS4xNTQuMjQ2LjcxIiwiaWQiOiIxMzU4MWFlOC02NWM5LTRmYmUtOWM3OC03N2ZhYzljYTUwM2EiLCJuZXQiOiJ3cyIsInBhdGgiOiI/ZWQ9MjA0OCIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+noSDwn4e58J+HvCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjI0MyIsInYiOjIsInBzIjoiQFhlbjJyYXnwn6SNIFRhaXBlaSDwn4e58J+HvCIsInBvcnQiOiI0MTAwMSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii9wYXRoLzI4MjAxODI1MjUyNiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.37:2377 #@Xen2ray🤍 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM=@125.231.64.232:10043#@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@tw.fastsoonlink.com:40020 #@Xen2ray🧡 Taipei 🇹🇼
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#@Xen2ray💜 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#@Xen2ray💜 Taipei 🇹🇼
-vmess://eyJhZGQiOiJ0dzQuNTk0ODg4Lnh5eiIsImFpZCI6MCwiaG9zdCI6InR3NC41OTQ4ODgueHl6IiwiaWQiOiJkZDc2MzljZi02NmRkLTMwMzgtYWIwZS1jZWZlN2U5ZWY5ZmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoxMTQ2MywicHMiOiJAWGVuMnJheeKdpO+4jyBDaGFuZy1odWEg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkY2JjOTk1MS1mMDg3LTQ4ZDktYTA0Yy04NzUwMGJiMGVmNGI=@1.170.45.2:10109#@Xen2ray💜 Taichung 🇹🇼
-vmess://eyJhZGQiOiIxMDMuMTc3LjMzLjE5IiwiYWlkIjo2NCwiaG9zdCI6Ind3dy4zNTcwOTYyMC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjozMDAxMywicHMiOiJAWGVuMnJhefCfkpogVGFpcGVpIPCfh7nwn4e8IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoid3d3LjM1NzA5NjIwLnh5eiJ9
-trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#@Xen2ray💚 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGE4OTk5NS1kNGZkLTQzMGEtOTEyYi0xOWE4OGU1ZDAwZjc=@1.170.23.34:10085#@Xen2ray🧡 Taichung 🇹🇼
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;sni=45.32.28.232#@Xen2ray🖤 🇹🇼
-trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#@Xen2ray🧡 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2I1NjdjNS01YzM5LTRhOTgtOWNmOS05MDA3ZjgzYjlhNDI@125.231.93.197:10056 #@Xen2ray💚 Miaoli 🇹🇼
+trojan://7ac49a893e0bd10c@60.249.3.227:3389?security=tls#@Xen2ray🖤 Taichung 🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462?security=tls#@Xen2ray💚 Taipei 🇹🇼
+trojan://4bacb8f1a089763b@60.248.114.182:3306?security=tls&allowInsecure=1&type=tcp #@Xen2ray🖤 Fongshan District 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@61.216.165.233:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%29aee97b7%3A155033 #@Xen2ray💚 Taichung 🇹🇼
+vmess://eyJhZGQiOiI2MS4yMjIuMjAyLjE0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTU1Y2QxODItMDFiMC00ZmI3LWE1MTAtMzYzNzAxYTQ5MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjMzNzkyLCJwcyI6IkBYZW4ycmF58J+noSBOZXcgVGFpcGVpIENpdHkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@e001.panda003.net:2003 #@Xen2ray❤️ Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.134:2377 #@Xen2ray❤️ Taichung 🇹🇼
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989 #@Xen2ray💚 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjRjMmQyYy01MDQ4LTRkYTAtODA1My02ZmIxOWFkZmYzNTA=@36.232.84.245:10124#@Xen2ray🤎 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#@Xen2ray🤍 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.135:2377 #@Xen2ray🧡 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.138:2377 #@Xen2ray🤍 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377 #@Xen2ray🤎 Taichung 🇹🇼
+vmess://eyJhZGQiOiIxMDQuMjkuNjQuMzAiLCJhaWQiOjAsImhvc3QiOiJkZTEua3VhaW5pYW8uYnV6eiIsImlkIjoiYTJjNWJhNjgtZTg2YS00OTU5LWI3ZjMtOGY4ODAxZDYzNzBlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2t1YWluaWFvL2RlMSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpsgS2FvaHNpdW5nIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://a209c2de-2bb6-4fa0-b8b2-c506bfb9b422@114.41.31.44:23929?security=reality&encryption=none&pbk=vyLlXKHrAaxklt-EwC0KX372cy7o2xvbQBEmkwh2zhQ&headerType=none&fp=edge&type=tcp&sni=www.microsoft.com#@Xen2ray❤️ Dacun 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#@Xen2ray💙 Taipei 🇹🇼
+trojan://7ac49a893e0bd10c@60.249.3.228:3389?security=tls#@Xen2ray💚 Taichung 🇹🇼
+trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#@Xen2ray🤎 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YjVhNzk0Zi0zODM0LTRmMmYtOTViYS02ZTc5NWFmMTViODM=@36.234.117.33:10067 #@Xen2ray🖤 Taichung 🇹🇼
+ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033 #@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.165.87.170:10036#@Xen2ray💛 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDhlYjY1Ny0zZDRlLTQ5ZDktYWMxNi0yOTY4YzVlOGQxYTM=@114.46.85.6:10076#@Xen2ray💚 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377 #@Xen2ray🤎 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODFiMjExNS1mOWQzLTRmZWEtYTA3Mi1mOWYzZDNmOTgwZTY@36.234.112.65:10043#@Xen2ray💙 Taichung 🇹🇼
+trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#@Xen2ray💚 Taipei 🇹🇼
+vmess://eyJhZGQiOiI2MS4yMTYuODUuNjgiLCJhaWQiOjY0LCJob3N0Ijoid3d3Ljg4NjEyODYwLnh5eiIsImlkIjoiNWJhNzM4ZTctMGFiZi00OTM1LWI2N2UtZDQwNGEwODNkNmE2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2IiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+SmyBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#@Xen2ray🧡 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJmMTc4OS1iNzllLTQ5NzYtOTkyNy05NzY2ODRmZDBjMmU=@118.170.206.50:10005#@Xen2ray💙 Taichung 🇹🇼
 vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0Ijoid29pZGVuY2ExLmpzd29ybGQuZXUub3JnIiwiaWQiOiJlODdmMzI2Zi01NWFjLTQ4N2YtYTNkMS01N2M1OTJiYjY2M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhMyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpsgVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ3b2lkZW5jYTEuanN3b3JsZC5ldS5vcmcifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377 #@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDhlYjY1Ny0zZDRlLTQ5ZDktYWMxNi0yOTY4YzVlOGQxYTM=@114.46.85.6:10076#@Xen2ray🧡 Taichung 🇹🇼
-vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0IjoiZXVzZXJ2MS5haWZ4LmV1Lm9yZyIsImlkIjoiMzk1M2NlMGQtMjVkZi00NDI3LTgzNzEtYThhYzI2Y2MzNmZlIiwibmV0Ijoid3MiLCJwYXRoIjoiL25pc2hpa2F0YSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwgVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJldXNlcnYxLmFpZnguZXUub3JnIn0=
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888/?type=ws&encryption=none&host=edccs.aimercc.filegear-sg.me #@Xen2ray💙 Taipei 🇹🇼
-trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#@Xen2ray🤎 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@125.231.78.25:10076#@Xen2ray🧡 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.59:2377 #@Xen2ray💛 Taichung 🇹🇼
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443?security=tls #@Xen2ray❤️ Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODZmZjU1My0wMDIwLTRkMzUtOTAxZC03MGFjMWRjOTM1OGU=@1.170.61.6:10082#@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.137:2377 #@Xen2ray🧡 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#@Xen2ray💚 Taipei 🇹🇼
+vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0IjoiZXVzZXJ2MS5haWZ4LmV1Lm9yZyIsImlkIjoiMzk1M2NlMGQtMjVkZi00NDI3LTgzNzEtYThhYzI2Y2MzNmZlIiwibmV0Ijoid3MiLCJwYXRoIjoiL25pc2hpa2F0YSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpkgVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJldXNlcnYxLmFpZnguZXUub3JnIn0=
+trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#@Xen2ray🧡 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkY2JjOTk1MS1mMDg3LTQ4ZDktYTA0Yy04NzUwMGJiMGVmNGI=@1.170.45.2:10109#@Xen2ray💛 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#@Xen2ray🧡 Taipei 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#@Xen2ray💚 Tainan City 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Yzc2YTBmMS01YzY4LTRhYTEtYWNlMy1jMGZmNmQ3MzJjNGY=@114.46.69.142:10078#@Xen2ray💙 Taichung 🇹🇼
+vmess://eyJhZGQiOiIxMDQuMjkuNjQuNSIsImFpZCI6MCwiaG9zdCI6InVzMy5ndW9saWNoZW5nLmN5b3UiLCJpZCI6ImExYjE2ZDEwLTRmNDMtNGRkOS04YzRmLTUyMDY1YjJiMDkxMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zdXRpL3VzMz9lZD0yMDQ4IiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjiBLYW9oc2l1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377 #@Xen2ray💚 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNmM5ZjRlMy0zNzJkLTQxNGMtYjk0NS1kNjM1NDRkNTk5ZWM=@1.170.39.112:10092#@Xen2ray❤️ Taichung 🇹🇼
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn6SOIENoYW5nLWh1YSDwn4e58J+HvCIsImFkZCI6IjYwLjI0OS45Mi42NyIsInBvcnQiOiI0NDMiLCJpZCI6ImZmZmZmZmZmLWZmZmYtZmZmZi1mZmZmLWZmZmZmZmZmZmZmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkaWFtb25kcy1qdWx5LWVnZy1zcG9ydGluZy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiIn0=
+trojan://ouo@210.61.97.241:81/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray💚 Taoyuan District 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.198.43:2377 #@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTg0NzQ3OC01NjdmLTQ3ZDMtODU3My0xMjFhMGIzNGUxZGM=@36.235.9.184:10108#@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgxMDRjZi05ZGU2LTRmMDktOWQ4MC0wNTM4NDM0ODRhMDQ=@36.234.108.171:10065#@Xen2ray🤍 Taichung 🇹🇼
+vmess://eyJhZGQiOiIxNjUuMTU0LjIyNi40NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmEwNzAyZjQtOGVjOS00OGU1LTliNTMtYTBhZmI3YzM3MTdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBYZW4ycmF58J+SmSBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmNiMjBiNi0xOWQxLTQ5ZjMtODg3Yi04MDEzMzFlOTMzNjk=@118.170.234.61:10041#@Xen2ray❤️ Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#@Xen2ray💜 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@125.231.78.25:10076#@Xen2ray💛 Taichung 🇹🇼
+vmess://eyJhZGQiOiJ0dzMuNTk0ODg4Lnh5eiIsImFpZCI6MCwiaG9zdCI6InR3My41OTQ4ODgueHl6IiwiaWQiOiJkZDc2MzljZi02NmRkLTMwMzgtYWIwZS1jZWZlN2U5ZWY5ZmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoyNTU1MSwicHMiOiJAWGVuMnJhefCflqQgQ2hhbmctaHVhIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjIxNyIsInYiOjIsInBzIjoiQFhlbjJyYXnwn5akIFRhaXBlaSDwn4e58J+HvCIsInBvcnQiOiI0MTAwMCIsImlkIjoiZjlmYTNhOWMtZjdkNS00MTRmLTg4ZTYtNjk3MDU4NWQ5OTQ5IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii9wYXRoLzI4MjAxODI1MjUyNiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjgyYTIxMS1jN2Y4LTRhMWYtOTEyMy0wMjVkNzhjZDQyZTQ=@114.46.120.92:10060#@Xen2ray💙 Taichung 🇹🇼
+vmess://eyJhZGQiOiIyMjAuMTMwLjgwLjE3OSIsImFpZCI6MCwiaG9zdCI6InYycmF5Mi51ZHBndy5jb20iLCJpZCI6ImNlYjhhN2Y0LWE0NWItNDhhNy04ZjhlLWNhNzEyNGE1ZWJlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ob3dkeSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfp6EgWXVubGluIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTQyZWM1Mi01YWU4LTQ4M2YtYjA0MS0xNDVkMDdhM2FiMjY=@118.170.202.197:10016#@Xen2ray💚 Taichung 🇹🇼
+vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0IjoiaGF4ZXU3Lmpzd29ybGQuZXUub3JnIiwiaWQiOiJkZmQxZDgwZi1jYWYwLTRiMTEtZTBiYi03MzNhMjcxMGEwN2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhMyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfp6EgVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJoYXhldTcuanN3b3JsZC5ldS5vcmcifQ==
+vmess://eyJhZGQiOiJ0dzQuNTk0ODg4Lnh5eiIsImFpZCI6MCwiaG9zdCI6InR3NC41OTQ4ODgueHl6IiwiaWQiOiJkZDc2MzljZi02NmRkLTMwMzgtYWIwZS1jZWZlN2U5ZWY5ZmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoxMTQ2MywicHMiOiJAWGVuMnJhefCfkpogQ2hhbmctaHVhIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.43:33992#@Xen2ray🖤 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjYyY2FjYi01NjM3LTRlYTktYWQ2YS1mYTlmOTU4ZTUwZTE=@111.253.193.168:10122#@Xen2ray💚 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#@Xen2ray💚 Taipei 🇹🇼
+vmess://eyJhZGQiOiI0NS4xMjEuNTEuMTAzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmNjQwNmI2ZC01NDg3LTQ2ZGEtZjc5My00NjYxMTI2OWEzMDYiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjIwNzE1LCJwcyI6IkBYZW4ycmF58J+SmyBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377 #@Xen2ray❤️ Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.170.31.68:10117#@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM=@118.170.245.15:10018#@Xen2ray🤍 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377 #@Xen2ray🤎 Taichung 🇹🇼
 vmess://eyJhZGQiOiIxMDMuNjEuMTM5LjEzNyIsInYiOiIyIiwicHMiOiJAWGVuMnJheeKdpO+4jyDwn4e58J+HvCIsInBvcnQiOjIwNTIxLCJpZCI6ImY4ZDkzY2ZiLTNkNWQtNDQ3Yy1hNjk3LTE2NDk2ZGQ3NDY5NyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989 #@Xen2ray🧡 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.75.115:2377 #@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMmQ1MjE1Zi0yMmY0LTQ1NmMtYTcyNC03ODk0MzFmMmI5MzA@118.170.235.179:10004#@Xen2ray💛 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377 #@Xen2ray💚 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#@Xen2ray💙 Kaohsiung 🇹🇼
-vmess://eyJhZGQiOiIxMDQuMjkuNjQuMzYiLCJhaWQiOjAsImhvc3QiOiJkZTEua3VhaW5pYW8uYnV6eiIsImlkIjoiYTJjNWJhNjgtZTg2YS00OTU5LWI3ZjMtOGY4ODAxZDYzNzBlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2t1YWluaWFvL2RlMSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJheeKdpO+4jyBLYW9oc2l1bmcg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#@Xen2ray💛 Taipei 🇹🇼
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#@Xen2ray💙 Taipei 🇹🇼
 trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTg0NzQ3OC01NjdmLTQ3ZDMtODU3My0xMjFhMGIzNGUxZGM=@36.235.9.184:10108#@Xen2ray🧡 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443 #@Xen2ray🖤 Taichung 🇹🇼
-vmess://eyJhZGQiOiI2MS4yMTYuODUuNjgiLCJhaWQiOjY0LCJob3N0Ijoid3d3Ljg4NjEyODYwLnh5eiIsImlkIjoiNWJhNzM4ZTctMGFiZi00OTM1LWI2N2UtZDQwNGEwODNkNmE2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2IiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjSBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#@Xen2ray🖤 Taichung 🇹🇼
-vmess://eyJhZGQiOiIyMjAuMTMwLjgwLjE3OSIsImFpZCI6MCwiaG9zdCI6InYycmF5Mi51ZHBndy5jb20iLCJpZCI6ImNlYjhhN2Y0LWE0NWItNDhhNy04ZjhlLWNhNzEyNGE1ZWJlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ob3dkeSIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI0gWXVubGluIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.170.31.68:10117#@Xen2ray🖤 Taichung 🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#@Xen2ray💜 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZjRjMmQyYy01MDQ4LTRkYTAtODA1My02ZmIxOWFkZmYzNTA=@36.232.84.245:10124#@Xen2ray💛 Taichung 🇹🇼
-vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjI0MyIsInYiOjIsInBzIjoiQFhlbjJyYXnwn5akIFRhaXBlaSDwn4e58J+HvCIsInBvcnQiOiI0MTAwMSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii9wYXRoLzI4MjAxODI1MjUyNiJ9
-trojan://7ac49a893e0bd10c@60.249.3.228:3389?security=tls#@Xen2ray💙 Taichung 🇹🇼
-trojan://7ac49a893e0bd10c@60.249.3.227:3389?security=tls#@Xen2ray💚 Taichung 🇹🇼
-vmess://eyJhZGQiOiI0NS4xMjEuNTEuMTAzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmNjQwNmI2ZC01NDg3LTQ2ZGEtZjc5My00NjYxMTI2OWEzMDYiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjIwNzE1LCJwcyI6IkBYZW4ycmF58J+SmSBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#@Xen2ray💛 Taipei 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjNiYzA0MC03ZjNkLTQ3NmQtYmVlZi1hZGYwNjFjZjBlOWE=@1.170.41.211:10112#@Xen2ray🤍 Taichung 🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Yzc2YTBmMS01YzY4LTRhYTEtYWNlMy1jMGZmNmQ3MzJjNGY=@114.46.69.142:10078 #@Xen2ray🤎 Taichung 🇹🇼
-trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#@Xen2ray💚 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.59:2377 #@Xen2ray🖤 Taichung 🇹🇼
+trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#@Xen2ray💙 Taichung 🇹🇼
+vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0IjoicnUudHpjY2lmcS5nYSIsImlkIjoiNTQxY2EwMjYtNThkMy00OGYxLWQ2ZWYtM2EwNTU0M2RkY2I3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwgVGFpY2h1bmcg8J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#@Xen2ray🤎 Kaohsiung 🇹🇼
+vmess://eyJhZGQiOiJ0dzIuc2RrbGtkLm9yZyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmE5ODcxNGMtMWQyYi0zYjYwLTgxZTAtZjcxNTExMTBlODAxIiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0IjoxNDQzLCJwcyI6IkBYZW4ycmF58J+kjSBUYWlwZWkg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ0dzIuc2RrbGtkLm9yZyJ9
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@61.220.130.70:50701 #@Xen2ray💚 New Taipei City 🇹🇼
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#@Xen2ray🤎 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGI5YTg1ZS1lYTZhLTQ1MDktYTkzNy0yY2JjMTVhYWE3YjM=@111.253.209.195:10150#@Xen2ray🖤 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGI4YzljOS1iODM5LTRkYWMtYjc3NC05NzAyOGIxMjFhMTM=@36.232.104.92:10125#@Xen2ray🧡 Taichung 🇹🇼
+vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjE1MiIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTQ2OTBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTg4NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJAWGVuMnJhefCfkpogVGFpcGVpIPCfh7nwn4e8In0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.59:2377 #@Xen2ray🧡 Taichung 🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443?security=tls #@Xen2ray💜 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGE4OTk5NS1kNGZkLTQzMGEtOTEyYi0xOWE4OGU1ZDAwZjc=@1.170.23.34:10085#@Xen2ray🖤 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#@Xen2ray🤎 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Nzg0OWFiYi1mMWZkLTRiYWItODAzNy01YTEzZmQ3MzMzNGI@1.170.20.172:10115 #@Xen2ray💜 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377 #@Xen2ray💙 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443 #@Xen2ray💛 Taichung 🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;sni=45.32.28.232#@Xen2ray💛 🇹🇼
+vmess://eyJhZGQiOiIxMDQuMjkuNjQuMjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNmNDIxZTI3LTViZjgtNDBjOS04NmNiLTdiOGM0MWRkZGVhMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9sWHZBMFZzZS8iLCJwb3J0Ijo4MCwicHMiOiJAWGVuMnJhefCfkpwgS2FvaHNpdW5nIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#@Xen2ray💙 Taichung 🇹🇼
+trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls#@Xen2ray💚 Taipei 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls #@Xen2ray💚 Taipei 🇹🇼
+trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#@Xen2ray💙 Taichung 🇹🇼
+vmess://eyJhZGQiOiIxLjE2MS4xODYuMTQ2IiwiYWlkIjoxLCJob3N0IjoiIiwiaWQiOiJjYjcwMDFjNy1lNDk1LTQxYWMtYjk0Mi1mMjVmNjA1MjM0MTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2xpZW50YXJlYSIsInBvcnQiOjY0NDQzLCJwcyI6IkBYZW4ycmF54p2k77iPIEhzaW5jaHUg8J+HufCfh7wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjNiYzA0MC03ZjNkLTQ3NmQtYmVlZi1hZGYwNjFjZjBlOWE=@1.170.41.211:10112#@Xen2ray🖤 Taichung 🇹🇼
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759 #@Xen2ray💛 Taipei 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377 #@Xen2ray🖤 Taichung 🇹🇼
+vmess://eyJhZGQiOiIxMDMuMTc3LjMzLjE5IiwiYWlkIjo2NCwiaG9zdCI6Ind3dy4zNTcwOTYyMC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjozMDAxMywicHMiOiJAWGVuMnJhefCflqQgVGFpcGVpIPCfh7nwn4e8IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoid3d3LjM1NzA5NjIwLnh5eiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDkyYmVjNC1mMGQ2LTRiYmYtOTY1My1jYjg0NTU5MzM2ZmE=@1.170.10.19:10117#@Xen2ray💙 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#@Xen2ray🧡 Kaohsiung 🇹🇼
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888/?type=ws&encryption=none&host=edccs.aimercc.filegear-sg.me #@Xen2ray🖤 Taipei 🇹🇼
+vmess://eyJhZGQiOiIwMTIuQVAuUE9QLm5vZGUtZm9yLXNtYWxsYWlycG9ydC53aW4iLCJhaWQiOjAsImhvc3QiOiIwMTIuQVAuUE9QLm5vZGUtZm9yLXNtYWxsYWlycG9ydC53aW4iLCJpZCI6ImNkMGUxY2Q0LTlhYWMtNDFkZi05NzQ2LTRkNzYxODJjODAwOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NTIxNSwicHMiOiJAWGVuMnJhefCfp6EgVGFpcGVpIPCfh7nwn4e8IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiMDEyLkFQLlBPUC5ub2RlLWZvci1zbWFsbGFpcnBvcnQud2luIn0=
+vmess://eyJhZGQiOiI0NS4xMjEuNDguMTc0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImJmYzYzMGFhLTQ1OTgtNDQ4MS05MzM4LWNhYzE1ZTNlNmI2NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA3ODgiLCJwcyI6IkBYZW4ycmF58J+kjSBUYWlwZWkg8J+HufCfh7wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDMuMTU5LjIwNi4zNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTJlNTExYjAtN2RlZi00ZTFiLWQyMzgtNmNiNTM5MWIyZTNmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjMxOTQ1LCJwcyI6IkBYZW4ycmF58J+SmyDwn4e58J+HvCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.75.115:2377 #@Xen2ray💚 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.b5.gladns.com:2377 #@Xen2ray💛 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTIyNDQ5Yi05Zjc3LTRlMzUtYmY4My03ZmIwNGU0ODRhNmM=@36.232.90.131:10124#@Xen2ray🧡 Taichung 🇹🇼
+trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#@Xen2ray🖤 Taichung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.47:2377 #@Xen2ray🤎 Taichung 🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] های بیشتر در چنل تلگرام💎 Config_Rayegan@ #@Xen2ray💛 Tainan City 🇹🇼
+vmess://eyJhZGQiOiIyMTEuNzIuMzUuMTEwIiwiYWlkIjowLCJob3N0Ijoid29pZGVuZXU0Lmpzd29ybGQuZXUub3JnIiwiaWQiOiJjYjY0NDhlMy0wOGUxLTQxM2QtYmMxNy1kM2IwZGJhOWFhZTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmlzaGlrYXRhIiwicG9ydCI6NDQzLCJwcyI6IkBYZW4ycmF58J+kjSBUYWljaHVuZyDwn4e58J+HvCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IndvaWRlbmV1NC5qc3dvcmxkLmV1Lm9yZyJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#@Xen2ray🧡 Kaohsiung 🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGU2ZGJiNi1kYWY3LTQ4NjktYWNhNS1mNDcwZjFmYTY4MTQ=@36.232.108.199:10142#@Xen2ray🤎 Taichung 🇹🇼
