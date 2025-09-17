@@ -175,3 +175,7 @@ trojan://juzi@172.66.46.221:443?encryption=none&security=tls&sni=juzi8186-sr1.pa
 vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%40Xen2ray%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#%40Xen2ray%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV
 vless://43613c34-ea2c-4a8e-9189-7c84c1668990@ir16.drinfoo.com:895?encryption=none&security=tls&sni=speedtest.net&fp=chrome&type=ws&host=speedtest.net&path=%2F#%40Xen2ray%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR
+vless://d6ff33a6-03bf-4338-8a63-62ab284a9466@45.131.5.111:80?encryption=none&security=none&type=ws&host=feng4.l1ut8bi9.workers.dev&path=%2Ftelegram#%40Xen2ray%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&path=%2Fhfwsxtws#%40Xen2ray%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR
+vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?encryption=none&security=tls&type=ws&path=%2Fcdfighws#%40Xen2ray%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+trojan://bpb-trojan@172.67.180.227:443?encryption=none&security=tls&sni=mashdt.pages.dev&alpn=h3&fp=randomized&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
