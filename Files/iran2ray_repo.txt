@@ -174,3 +174,4 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.68.85:443?encryption=none&se
 trojan://juzi@172.66.46.221:443?encryption=none&security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
 vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#%40Xen2ray%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#%40Xen2ray%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV
+vless://43613c34-ea2c-4a8e-9189-7c84c1668990@ir16.drinfoo.com:895?encryption=none&security=tls&sni=speedtest.net&fp=chrome&type=ws&host=speedtest.net&path=%2F#%40Xen2ray%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR
