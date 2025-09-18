@@ -200,3 +200,7 @@ vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?encryption=none&se
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?encryption=none&security=tls&type=ws&path=%2Fdahuqpws#%40Xen2ray%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?encryption=none&security=tls&type=ws&path=%2Fyfwhodws#%40Xen2ray%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
 trojan://juzi@172.66.45.35:443?encryption=none&security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://87f1c3ae-e51a-4739-8e4a-d373d13f5bf8@45.128.54.6:443?encryption=none&security=tls&type=ws&path=%2Fkcnfrvws#%40Xen2ray%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY
+vless://bc0a2570-d5fb-4906-b0f0-d47cdcd0a381@104.18.26.94:80?encryption=none&security=none&type=ws&host=esetsecuritylicense.tibivip547.workers.dev&path=%2F%3Fed%3D2560#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?encryption=none&security=tls&type=ws&path=%2Fwflhdtws#%40Xen2ray%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?encryption=none&security=none&type=ws&path=%2F#%40Xen2ray%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV
