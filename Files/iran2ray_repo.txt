@@ -208,3 +208,6 @@ vless://c54a5878-ca9e-429b-856e-14c04f2dee91@www.speedtest.net:8443?encryption=n
 vless://9a5a1134-4675-41af-8e4e-dab56016f5f7@188.245.126.149:10600?security=none&encryption=none&host=www.xenium.com&headerType=http&type=tcp#%40Xen2ray%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
 vless://433ec07e-672b-47f6-bcd5-fc7793ce4393@172.66.40.99:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://2fb2e81c-c94b-435b-af61-1ba0ba60bcc7@94.131.9.155:443?encryption=none&security=tls&type=ws&path=%2Fhyjtppws#%40Xen2ray%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&security=none&type=ws&path=%2F#%40Xen2ray%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?encryption=none&security=tls&sni=black.fullmargintraders.com&fp=firefox&type=ws&host=black.fullmargintraders.com&path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
