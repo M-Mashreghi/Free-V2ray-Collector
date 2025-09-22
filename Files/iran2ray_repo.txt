@@ -221,3 +221,5 @@ vless://d0f2d7c3-154d-46a9-950b-78cc938a6cf3@172.66.40.99:443?path=%2Fadmin&secu
 vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#%40Xen2ray%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxCaG9rNWx2alI%3D@83.217.9.4:443#%40Xen2ray%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR
 vless://59e13435-da17-4299-97d5-8c49dfe3c820@172.66.40.99:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://4182c59d-3b09-4bc9-ef7a-71e5628749e8@cafearz.com:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.de.test.digicyber.click.&type=ws#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#%40Xen2ray%20%7C%20%F0%9F%87%A4%F0%9F%87%A4%20%3F%3F
