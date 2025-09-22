@@ -995,3 +995,18 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/15181 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15181/15181 [00:00<00:00, 793422.33cfg/s]
 2025-09-22 11:39:30,233 [INFO] save_config: Saving 3409512 configs to /home/h329838/apps/Free-V2ray-Collector
 2025-09-22 11:39:30,890 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+2025-09-22 11:39:33,343 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=6 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=6 (Caused by ResponseError('too many 503 error responses'))
+2025-09-22 11:39:33,343 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=6
+2025-09-22 11:39:33,343 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2025-09-22 11:39:39,457 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=8 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=8 (Caused by ResponseError('too many 503 error responses'))
+2025-09-22 11:39:39,458 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=8
+2025-09-22 11:39:39,458 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2025-09-22 11:39:45,565 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=7 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=7 (Caused by ResponseError('too many 503 error responses'))
+2025-09-22 11:39:45,565 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=7
+2025-09-22 11:39:45,565 [INFO] collector: Decoded 76 configs from 32 links
+2025-09-22 11:39:46,276 [INFO] save_config: Saving 49 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-22 11:39:50,916 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/63637 [00:00<?, ?cfg/s]Renaming configs:   8%|▊         | 5357/63637 [00:00<00:01, 53546.05cfg/s]Renaming configs:  17%|█▋        | 10712/63637 [00:00<00:01, 46329.87cfg/s]Renaming configs:  24%|██▍       | 15408/63637 [00:00<00:01, 41970.79cfg/s]Renaming configs:  34%|███▍      | 21546/63637 [00:00<00:00, 48788.30cfg/s]Renaming configs:  49%|████▊     | 30930/63637 [00:00<00:00, 63842.12cfg/s]Renaming configs:  74%|███████▍  | 47132/63637 [00:00<00:00, 95561.75cfg/s]Renaming configs:  90%|████████▉ | 56982/63637 [00:00<00:00, 90620.98cfg/s]Renaming configs: 100%|██████████| 63637/63637 [00:00<00:00, 75880.87cfg/s]
+Sorting by protocol:   0%|          | 0/15063 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15063/15063 [00:00<00:00, 1143445.63cfg/s]
+2025-09-22 11:39:59,083 [INFO] save_config: Saving 3387685 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-22 11:39:59,749 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
