@@ -1166,3 +1166,12 @@ Pushed to origin/main.
 2025-09-22 14:40:56,646 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=8 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=8 (Caused by ResponseError('too many 503 error responses'))
 2025-09-22 14:40:56,647 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=8
 2025-09-22 14:40:56,647 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2025-09-22 14:41:02,769 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=7 ➜ HTTPSConnectionPool(host='v2.alicivil.workers.dev', port=443): Max retries exceeded with url: /?list=7 (Caused by ResponseError('too many 503 error responses'))
+2025-09-22 14:41:02,769 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=7
+2025-09-22 14:41:02,769 [INFO] collector: Decoded 76 configs from 32 links
+2025-09-22 14:41:05,756 [INFO] save_config: Saving 48 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-22 14:41:10,409 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/63791 [00:00<?, ?cfg/s]Renaming configs:  20%|██        | 12977/63791 [00:00<00:00, 129750.02cfg/s]Renaming configs:  49%|████▊     | 31067/63791 [00:00<00:00, 159830.60cfg/s]Renaming configs:  74%|███████▍  | 47051/63791 [00:00<00:00, 117601.45cfg/s]Renaming configs:  94%|█████████▍| 59822/63791 [00:00<00:00, 97502.59cfg/s] Renaming configs: 100%|██████████| 63791/63791 [00:00<00:00, 109112.52cfg/s]
+Sorting by protocol:   0%|          | 0/15150 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15150/15150 [00:00<00:00, 1113785.77cfg/s]
+2025-09-22 14:41:17,339 [INFO] save_config: Saving 3419693 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-22 14:41:18,010 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
