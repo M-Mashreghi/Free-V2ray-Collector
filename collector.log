@@ -2390,3 +2390,59 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/14480 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 14480/14480 [00:00<00:00, 1004873.04cfg/s]
 2025-09-24 06:20:57,115 [INFO] save_config: Saving 3250064 configs to /home/h329838/apps/Free-V2ray-Collector
 2025-09-24 06:20:57,755 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 96 files, 14480 lines total.
+Pushed to origin/main.
+2025-09-24 09:21:05,888 [INFO] collector: Fetching: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2025-09-24 09:21:06,149 [INFO] collector: Fetching: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0924.txt
+2025-09-24 09:21:06,342 [INFO] collector: Fetching: https://proxypool.link/sip002/sub
+2025-09-24 09:21:16,381 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /sip002/sub
+2025-09-24 09:21:28,429 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /sip002/sub
+2025-09-24 09:21:42,458 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /sip002/sub
+2025-09-24 09:21:52,498 [WARNING] root: Request error for https://proxypool.link/sip002/sub ➜ HTTPSConnectionPool(host='proxypool.link', port=443): Max retries exceeded with url: /sip002/sub (Caused by ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)"))
+2025-09-24 09:21:52,498 [WARNING] collector: Failed to fetch https://proxypool.link/sip002/sub
+2025-09-24 09:21:52,499 [INFO] collector: Fetching: https://proxypool.link/ss/sub
+2025-09-24 09:22:02,528 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /ss/sub
+2025-09-24 09:22:14,561 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /ss/sub
+2025-09-24 09:22:28,596 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /ss/sub
+2025-09-24 09:22:38,626 [WARNING] root: Request error for https://proxypool.link/ss/sub ➜ HTTPSConnectionPool(host='proxypool.link', port=443): Max retries exceeded with url: /ss/sub (Caused by ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)"))
+2025-09-24 09:22:38,627 [WARNING] collector: Failed to fetch https://proxypool.link/ss/sub
+2025-09-24 09:22:38,627 [INFO] collector: Fetching: https://proxypool.link/vmess/sub
+2025-09-24 09:22:48,658 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /vmess/sub
+2025-09-24 09:23:00,698 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /vmess/sub
+2025-09-24 09:23:14,745 [WARNING] urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)")': /vmess/sub
+2025-09-24 09:23:24,774 [WARNING] root: Request error for https://proxypool.link/vmess/sub ➜ HTTPSConnectionPool(host='proxypool.link', port=443): Max retries exceeded with url: /vmess/sub (Caused by ReadTimeoutError("HTTPSConnectionPool(host='proxypool.link', port=443): Read timed out. (read timeout=10)"))
+2025-09-24 09:23:24,774 [WARNING] collector: Failed to fetch https://proxypool.link/vmess/sub
+2025-09-24 09:23:24,774 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt
+2025-09-24 09:23:24,930 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt
+2025-09-24 09:23:25,189 [INFO] collector: Fetching: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+2025-09-24 09:23:25,487 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-09-24 09:23:25,669 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-09-24 09:23:25,915 [INFO] collector: Fetching: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+2025-09-24 09:23:26,194 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+2025-09-24 09:23:26,408 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+2025-09-24 09:23:26,579 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+2025-09-24 09:23:26,780 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+2025-09-24 09:23:26,960 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+2025-09-24 09:23:27,172 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+2025-09-24 09:23:27,461 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+2025-09-24 09:23:27,658 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+2025-09-24 09:23:27,872 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-09-24 09:23:27,901 [INFO] collector: Fetching: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+2025-09-24 09:23:28,057 [INFO] collector: Fetching: https://raw.githubusercontent.com/freefq/free/master/v2
+2025-09-24 09:23:28,215 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-09-24 09:23:28,247 [INFO] collector: Fetching: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt
+2025-09-24 09:23:28,824 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=1
+2025-09-24 09:23:29,035 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=2
+2025-09-24 09:23:29,987 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=3
+2025-09-24 09:23:30,053 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=4
+2025-09-24 09:23:30,206 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=5
+2025-09-24 09:23:30,428 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=6
+2025-09-24 09:23:30,572 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2025-09-24 09:23:30,846 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2025-09-24 09:23:30,903 [INFO] collector: Decoded 40 configs from 32 links
+2025-09-24 09:23:34,172 [INFO] save_config: Saving 45 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-24 09:23:34,545 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/59005 [00:00<?, ?cfg/s]Renaming configs:  17%|█▋        | 10237/59005 [00:00<00:00, 102365.70cfg/s]Renaming configs:  35%|███▍      | 20474/59005 [00:00<00:00, 89138.91cfg/s] Renaming configs:  53%|█████▎    | 31371/59005 [00:00<00:00, 97514.76cfg/s]Renaming configs:  70%|██████▉   | 41250/59005 [00:00<00:00, 91676.98cfg/s]Renaming configs:  86%|████████▌ | 50526/59005 [00:00<00:00, 79926.82cfg/s]Renaming configs: 100%|█████████▉| 58759/59005 [00:00<00:00, 49552.53cfg/s]Renaming configs: 100%|██████████| 59005/59005 [00:00<00:00, 64746.03cfg/s]
+Sorting by protocol:   0%|          | 0/14516 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 14516/14516 [00:00<00:00, 1302676.98cfg/s]
+2025-09-24 09:23:50,905 [INFO] save_config: Saving 3284826 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-24 09:23:51,538 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
