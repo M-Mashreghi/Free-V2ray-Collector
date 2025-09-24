@@ -2569,3 +2569,44 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/14724 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 14724/14724 [00:00<00:00, 1160233.94cfg/s]
 2025-09-24 18:25:38,639 [INFO] save_config: Saving 3324620 configs to /home/h329838/apps/Free-V2ray-Collector
 2025-09-24 18:25:39,295 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 96 files, 14724 lines total.
+Pushed to origin/main.
+2025-09-24 21:25:46,286 [INFO] collector: Fetching: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2025-09-24 21:25:46,543 [INFO] collector: Fetching: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0924.txt
+2025-09-24 21:25:46,750 [INFO] collector: Fetching: https://proxypool.link/sip002/sub
+2025-09-24 21:25:47,258 [INFO] collector: Fetching: https://proxypool.link/ss/sub
+2025-09-24 21:25:47,431 [INFO] collector: Fetching: https://proxypool.link/vmess/sub
+2025-09-24 21:25:47,603 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt
+2025-09-24 21:25:47,791 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt
+2025-09-24 21:25:47,983 [INFO] collector: Fetching: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+2025-09-24 21:25:48,166 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-09-24 21:25:48,349 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-09-24 21:25:48,512 [INFO] collector: Fetching: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+2025-09-24 21:25:48,694 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+2025-09-24 21:25:48,877 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+2025-09-24 21:25:49,062 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+2025-09-24 21:25:49,259 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+2025-09-24 21:25:49,489 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+2025-09-24 21:25:49,699 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+2025-09-24 21:25:49,893 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+2025-09-24 21:25:50,099 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+2025-09-24 21:25:50,279 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-09-24 21:25:50,314 [INFO] collector: Fetching: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+2025-09-24 21:25:50,477 [INFO] collector: Fetching: https://raw.githubusercontent.com/freefq/free/master/v2
+2025-09-24 21:25:50,655 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-09-24 21:25:50,697 [INFO] collector: Fetching: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt
+2025-09-24 21:25:52,430 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=1
+2025-09-24 21:25:52,753 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=2
+2025-09-24 21:25:54,334 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=3
+2025-09-24 21:25:54,608 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=4
+2025-09-24 21:25:54,754 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=5
+2025-09-24 21:25:54,944 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=6
+2025-09-24 21:25:55,106 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2025-09-24 21:25:55,153 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2025-09-24 21:25:55,226 [INFO] collector: Decoded 43 configs from 32 links
+2025-09-24 21:25:58,275 [INFO] save_config: Saving 47 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-24 21:25:59,869 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/59270 [00:00<?, ?cfg/s]Renaming configs:  18%|█▊        | 10685/59270 [00:00<00:00, 106842.97cfg/s]Renaming configs:  43%|████▎     | 25411/59270 [00:00<00:00, 130614.19cfg/s]Renaming configs:  66%|██████▌   | 38939/59270 [00:00<00:00, 132741.09cfg/s]Renaming configs:  88%|████████▊ | 52214/59270 [00:00<00:00, 90329.04cfg/s] Renaming configs: 100%|██████████| 59270/59270 [00:00<00:00, 93051.89cfg/s]
+Sorting by protocol:   0%|          | 0/14750 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 14750/14750 [00:00<00:00, 969093.88cfg/s]
+2025-09-24 21:26:07,460 [INFO] save_config: Saving 3332080 configs to /home/h329838/apps/Free-V2ray-Collector
+2025-09-24 21:26:08,104 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
