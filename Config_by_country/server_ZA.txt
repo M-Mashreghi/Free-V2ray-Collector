@@ -1,19 +1,18 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990 #@Xen2ray🧡 Johannesburg 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#@Xen2ray💙 Johannesburg 🇿🇦
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#@Xen2ray💙 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbEJGRTFGdVdVWU9pV0RUc2xxQXhB@192.142.105.41:1080 #@Xen2ray💜 🇿🇦
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@41.203.4.34:989 #@Xen2ray💚 🇿🇦
-vless://7646b550-0600-45cf-9a0e-ed38f2a88222@102.177.176.213:80?path=🔒 [By EbraSha]&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade #@Xen2ray🧡 🇿🇦
-vmess://eyJhZGQiOiIxMjkuMTUxLjE2NC4xNTIiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImUzMGY4NTg4LTI1NTUtNDhiOC1jMzU0LWM4ZTYzZjU3MjMyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo1NTYwMCwicHMiOiJAWGVuMnJhefCfkpogSm9oYW5uZXNidXJnIPCfh7/wn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#@Xen2ray💚 Johannesburg 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#@Xen2ray💜 Pretoria 🇿🇦
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?type=tcp&security=tls&sni=icecream.955850.xyz&fp=chrome&allowInsecure=1#@Xen2ray❤️ 🇿🇦
-vmess://eyJhZGQiOiI0NS4xOTIuOTguMjA1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiZWQwODNmOC1hNGRmLTQyOTMtYTQ2ZC1mMTU4YTI3YjVkNWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MzEwODQsInBzIjoiQFhlbjJyYXnwn6ehIEpvaGFubmVzYnVyZyDwn4e/8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880/?type=grpc&encryption=none&serviceName=vless-grpc #@Xen2ray🖤 🇿🇦
-vmess://eyJhZGQiOiIxNDAuOTkuMTU3Ljg2IiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY4OTkzNTI0MzAyNyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfpI4gSm9oYW5uZXNidXJnIPCfh7/wn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.211:443/?type=ws&encryption=none #@Xen2ray❤️ 🇿🇦
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#@Xen2ray🧡 🇿🇦
-ss://YWVzLTI1Ni1nY206ZTc2MTVkOTMtZjcyNS00NzJlLWE4OTUtYTE4Yzk5MTQ1Zjdi@192.142.18.127:443#@Xen2ray💛 🇿🇦
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.201:443?type=ws&encryption=none&flow=&path=/blue&security=tls&sni=hp.kpcloud.eu.org&fp=chrome&allowInsecure=1#@Xen2ray💚 🇿🇦
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#@Xen2ray💜 Johannesburg 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#@Xen2ray❤️ Johannesburg 🇿🇦
+vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880/?type=grpc&encryption=none&serviceName=vless-grpc #@Xen2ray🧡 🇿🇦
+vmess://eyJhZGQiOiIxNDAuOTkuMTU3Ljg2IiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY4OTkzNTI0MzAyNyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpkgSm9oYW5uZXNidXJnIPCfh7/wn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?type=tcp&security=tls&sni=icecream.955850.xyz&fp=chrome&allowInsecure=1#@Xen2ray🖤 🇿🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#@Xen2ray💚 Pretoria 🇿🇦
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@41.203.4.34:989 #@Xen2ray🖤 🇿🇦
+vmess://eyJhZGQiOiIxMjkuMTUxLjE2NC4xNTIiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImUzMGY4NTg4LTI1NTUtNDhiOC1jMzU0LWM4ZTYzZjU3MjMyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo1NTYwMCwicHMiOiJAWGVuMnJhefCfkpwgSm9oYW5uZXNidXJnIPCfh7/wn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#@Xen2ray🤎 Johannesburg 🇿🇦
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#@Xen2ray🤎 Johannesburg 🇿🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#@Xen2ray💚 Johannesburg 🇿🇦
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.211:443/?type=ws&encryption=none #@Xen2ray🤍 🇿🇦
+vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc #@Xen2ray💜 🇿🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990 #@Xen2ray❤️ Johannesburg 🇿🇦
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#@Xen2ray🤍 🇿🇦
+vless://7646b550-0600-45cf-9a0e-ed38f2a88222@102.177.176.213:80?path=🔒 [By EbraSha]&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade #@Xen2ray🖤 🇿🇦
+ss://YWVzLTI1Ni1nY206ZTc2MTVkOTMtZjcyNS00NzJlLWE4OTUtYTE4Yzk5MTQ1Zjdi@192.142.18.127:443#@Xen2ray🤎 🇿🇦
+vmess://eyJhZGQiOiI0NS4xOTIuOTguMjA1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiZWQwODNmOC1hNGRmLTQyOTMtYTQ2ZC1mMTU4YTI3YjVkNWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MzEwODQsInBzIjoiQFhlbjJyYXnwn5akIEpvaGFubmVzYnVyZyDwn4e/8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#@Xen2ray❤️ Johannesburg 🇿🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbEJGRTFGdVdVWU9pV0RUc2xxQXhB@192.142.105.41:1080 #@Xen2ray🤎 🇿🇦
