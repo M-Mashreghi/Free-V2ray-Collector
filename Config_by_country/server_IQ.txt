@@ -1,4 +1,4 @@
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&type=tcp#@Xen2ray🤍 🇮🇶
-ss://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray🤎 🇮🇶
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&type=tcp#@Xen2ray🤎 🇮🇶
 vless://ec943cd3-9abb-4d67-b8e0-17c071ddad53@deu661.webunlocked.org:443?security=reality&type=tcp&sni=www.fh-aachen.de&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&encryption=none#@Xen2ray💙 🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#@Xen2ray💜 🇮🇶
+ss://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray💚 🇮🇶
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#@Xen2ray🧡 🇮🇶
