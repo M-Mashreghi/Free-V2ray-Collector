@@ -1,11 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.153.107:990 #@Xen2ray💙 Santiago 🇨🇱
-vmess://eyJhZGQiOiIxNzIuNjQuMTk0Ljk4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGdjZWZvbW4iLCJwb3J0IjoyMDk1LCJwcyI6IkBYZW4ycmF58J+kjSBTYW50aWFnbyDwn4eo8J+HsSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiIxNzIuNjQuMTk1LjgwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmNDY3ZjRkYS0yMjI2LTQ0OGQtYTMwZC00NjNlZjEwNTQ4YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJAWGVuMnJhefCfkpwgU2FudGlhZ28g8J+HqPCfh7EiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989 #@Xen2ray💚 Quilicura 🇨🇱
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#@Xen2ray💜 Viña del Mar 🇨🇱
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&sni=quietplace.lazymountain.click&path=/#@Xen2ray🧡 Santiago 🇨🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313 #@Xen2ray🤍 Santiago 🇨🇱
-vmess://eyJhZGQiOiIxNzIuNjQuMTk0LjIzNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDE3ZDI3ZmItY2I5My0zYmQ4LTliZjctNzFjZDkxMzE5ODIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwicG9ydCI6MjA5NSwicHMiOiJAWGVuMnJhefCfkpkgU2FudGlhZ28g8J+HqPCfh7EiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=pq.chile1.09vpn.com#@Xen2ray🧡 Santiago 🇨🇱
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#@Xen2ray💜 🇨🇱
-ss://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=pq.chile1.09vpn.com#@Xen2ray💚 Santiago 🇨🇱
+vmess://eyJhZGQiOiIxNzIuNjQuMTk0Ljk4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGdjZWZvbW4iLCJwb3J0IjoyMDk1LCJwcyI6IkBYZW4ycmF58J+SmyBTYW50aWFnbyDwn4eo8J+HsSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#@Xen2ray💛 Viña del Mar 🇨🇱
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=pq.chile1.09vpn.com#@Xen2ray💜 Santiago 🇨🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.153.107:990 #@Xen2ray💛 Santiago 🇨🇱
+ss://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=pq.chile1.09vpn.com#@Xen2ray💛 Santiago 🇨🇱
+vmess://eyJhZGQiOiIxNzIuNjQuMTk1LjgwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmNDY3ZjRkYS0yMjI2LTQ0OGQtYTMwZC00NjNlZjEwNTQ4YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJAWGVuMnJhefCflqQgU2FudGlhZ28g8J+HqPCfh7EiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?security=tls&sni=pq.chile1.09vpn.com&fp=chrome&type=ws&path=/vless/&host=pq.chile1.09vpn.com&packetEncoding=xudp&encryption=none&allowInsecure=1#@Xen2ray🖤 Santiago 🇨🇱
+vmess://eyJhZGQiOiIxNzIuNjQuMTk0LjIzNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDE3ZDI3ZmItY2I5My0zYmQ4LTliZjctNzFjZDkxMzE5ODIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwicG9ydCI6MjA5NSwicHMiOiJAWGVuMnJhefCfpI0gU2FudGlhZ28g8J+HqPCfh7EiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989 #@Xen2ray🤍 Quilicura 🇨🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313 #@Xen2ray💛 Santiago 🇨🇱
+trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&sni=quietplace.lazymountain.click&path=/#@Xen2ray❤️ Santiago 🇨🇱
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#@Xen2ray🤍 🇨🇱
