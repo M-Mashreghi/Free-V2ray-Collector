@@ -1,1 +1,1 @@
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&allowInsecure=1#@Xen2ray💛 Tbilisi 🇬🇪
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&flow=xtls-rprx-vision&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#@Xen2ray🤍 Tbilisi 🇬🇪
