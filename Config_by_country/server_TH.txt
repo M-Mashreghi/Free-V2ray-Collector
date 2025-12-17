@@ -1,6 +1,7 @@
-vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#@Xen2ray💜 Nonthaburi 🇹🇭
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@27.131.164.85:47121 #@Xen2ray💛 🇹🇭
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@27.131.164.85:47121#@Xen2ray🧡 🇹🇭
+vless://65094902-5425-464d-9171-d3a69d9e1cbc@45.150.128.215:80?encryption=none&security=none&type=ws&host=t.me/v2Line&path=/#@Xen2ray💚 Nonthaburi 🇹🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990 #@Xen2ray🤎 🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990 #@Xen2ray💚 🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009 #@Xen2ray💙 Nonthaburi 🇹🇭
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989 #@Xen2ray💜 🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009 #@Xen2ray💚 Nonthaburi 🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990 #@Xen2ray🖤 🇹🇭
+vmess://eyJhZGQiOiIxODUuODQuMTYxLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlYmJhMDY3Ni1lMDVhLTQ5ZWMtODM0NC1kOTZkNzQ5ZTAxYzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJAWGVuMnJheeKdpO+4jyBCYW5na29rIPCfh7nwn4etIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#@Xen2ray💜 🇹🇭
