@@ -1,3 +1,1 @@
-trojan://d06a636e-5aa7-4ee9-a38d-baae9c13facd@82.148.2.86:443?path=🔒 [By EbraSha]&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=🔒 [By EbraSha] ➠ @tik7net_vpn کانال تلگرام 🇺🇿 #@Xen2ray🤍 Tashkent 🇺🇿
-trojan://d06a636e-5aa7-4ee9-a38d-baae9c13facd@82.148.2.86:443?path=🔒 [By EbraSha]&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=🔒 [By EbraSha] â�  @tik7net_vpn Ú©Ø§Ù†Ø§Ù„ ØªÙ„Ú¯Ø±Ø§Ù… ğŸ‡ºğŸ‡¿ #@Xen2ray💚 Tashkent 🇺🇿
-vless://06dea0c2-488d-4e6a-a8c3-fb7d4c5a4be8@82.148.2.86:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 672 #@Xen2ray💚 Tashkent 🇺🇿
+vless://c110a9d5-9f71-4b06-8c42-4456b5ea9d1a@nl.vip-get.ru:443?security=reality&encryption=none&pbk=d4nrz5jZn6OcMGmRr4H-2v6hKexlwe4hKaDMgMqSV3A&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=cc196f6d752c02d2#@Xen2ray🤎 Tashkent 🇺🇿
