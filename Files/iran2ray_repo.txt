@@ -505,3 +505,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWhjdDNwSlhrQVNIZ0tRY1FjbGl3@46.224.157.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%40Xen2ray%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#%40Xen2ray%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDNPTGlMT0xKUkg2dU5KV3A3Vm1m@104.192.227.162:443#%40Xen2ray%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US
+vless://a286f903-32d9-4950-a3a3-60937d533326@dl5-de6-cdn.cloud-files-uploader.com:2052?path=%2F&security=none&encryption=none&host=dl5-de6-cdn.cloud-files-uploader.com&fp=chrome&type=ws#%40Xen2ray%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
