@@ -587,3 +587,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#%40Xen2ray%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%40Xen2ray%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3bUJmMU1Mb251QUs5NGZGVjJLVXJK@45.95.232.236:4248#%40Xen2ray%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#%40Xen2ray%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
+vless://e79c5771-9940-4907-b1c7-6388ee75a08a@85.192.49.156:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=d1579a8745398e34#%40Xen2ray%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI
+vless://07f29b2e-b64b-4224-a215-4abefc89d728@167.235.146.176:8443?security=&encryption=none&headerType=&type=tcp#%40Xen2ray%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
