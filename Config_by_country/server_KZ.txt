@@ -1,46 +1,46 @@
-ss://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&amp;encryption=none&amp;pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=fa#@Xen2ray💚 Astana 🇰🇿
-trojan://3676801f-39ed-4bf3-93e4-cece2277fcfa@95.164.114.43:443?security=tls&encryption=none&type=tcp&fp=chrome&allowInsecure=1#@Xen2ray💙 Almaty 🇰🇿
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&amp;encryption=none&amp;pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=fa#@Xen2ray🖤 Astana 🇰🇿
-vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #@Xen2ray💜 Almaty 🇰🇿
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=f79448a30d#@Xen2ray🧡 Almaty 🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💛 Almaty 🇰🇿
-trojan://NISHIKUITAN111@185.176.26.131:443/?type=tcp&security=tls #@Xen2ray🤍 Almaty 🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#@Xen2ray🧡 Almaty 🇰🇿
-trojan://NISHIKUITAN111@195.245.221.107:443/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray❤️ 🇰🇿
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443/?type=ws&encryption=none&flow=&host=lw.kpcloud.eu.org&path=🔒 [By EbraSha] #@Xen2ray🧡 Almaty 🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💙 Almaty 🇰🇿
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@195.245.221.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #@Xen2ray💚 🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.245.221.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💚 🇰🇿
-ss://680c950c-417b-4388-8d57-5cd6a65c3cd1@103.106.3.198:4443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=github.com&amp;fp=chrome&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;sid=aa7e96542880027a&amp;packetEncoding=xudp#@Xen2ray💚 Almaty 🇰🇿
-vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #@Xen2ray🖤 Almaty 🇰🇿
-vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=🔒 [By EbraSha]&security=&encryption=none&type=ws #@Xen2ray💜 Almaty 🇰🇿
-ss://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&amp;sid=c4da507c203b545a&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#@Xen2ray🤎 Astana 🇰🇿
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws #@Xen2ray💙 🇰🇿
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkBYZW4ycmF58J+noSBBbG1hdHkg8J+HsPCfh78iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#@Xen2ray💚 Almaty 🇰🇿
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@31.43.179.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Xen2ray🤎 🇰🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #@Xen2ray🤎 🇰🇿
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws #@Xen2ray🤍 🇰🇿
+vless://ae564d93-0a3f-40b6-9137-4b73da4432c5@194.76.18.46:2052/?type=httpupgrade&encryption=none&host=ch-configt1.nipytee.info #@Xen2ray💛 Almaty 🇰🇿
 vless://6206bf1d-068d-4186-9eee-d534a01cb98e@kazakhstan22.clearorbitllc.com:443?security=reality&encryption=none&pbk=fHpH9g6a4LZOICjPOq7yFgqKWNG5a_idjfoDBGk_OwQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan22.clearorbitllc.com&sid=aee3#@Xen2ray🤎 Almaty 🇰🇿
-vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KZIEFsbWF0eSDwn4ew8J+HvyIsImFkZCI6IjQ1LjgyLjMxLjE2NCIsInBvcnQiOjMzODksImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInRscyI6IiJ9
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.176.26.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray💛 Almaty 🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.155:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💛 🇰🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💜 🇰🇿
+vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=f79448a30d#@Xen2ray🖤 Almaty 🇰🇿
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #@Xen2ray🤎 Almaty 🇰🇿
+vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80/?type=tcp&encryption=none #@Xen2ray💛 🇰🇿
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.176.26.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Xen2ray❤️ Almaty 🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray❤️ Almaty 🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💙 🇰🇿
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkBYZW4ycmF58J+SmSBBbG1hdHkg8J+HsPCfh78iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989 #@Xen2ray💛 Almaty 🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #@Xen2ray🤍 🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbW43ZEhQdzV3TmZrcVFNUGNHV1FB@31.3.209.183:28212#@Xen2ray🤍 Almaty 🇰🇿
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@31.43.179.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Xen2ray🤎 🇰🇿
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&amp;encryption=none&amp;pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=fa#@Xen2ray💙 Astana 🇰🇿
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@194.76.18.6:2082/?type=httpupgrade&encryption=none&flow=&host=finhztco.nipytee.info&path=🔒 [By EbraSha] #@Xen2ray🖤 Almaty 🇰🇿
 trojan://NISHIKUITAN111@31.43.179.32:443/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray❤️ 🇰🇿
-vless://ae564d93-0a3f-40b6-9137-4b73da4432c5@194.76.18.46:2052/?type=httpupgrade&encryption=none&host=ch-configt1.nipytee.info #@Xen2ray🖤 Almaty 🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbW43ZEhQdzV3TmZrcVFNUGNHV1FB@31.3.209.183:28212#@Xen2ray💛 Almaty 🇰🇿
-vmess://eyJhZGQiOiIxOTUuMjQ1LjIyMS4yNDYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M1MTA2OCIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwg8J+HsPCfh78iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80/?type=tcp&encryption=none #@Xen2ray🧡 🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?prefix=%16%03%01%00%C2%A8%01%01 #@Xen2ray🤎 Almaty 🇰🇿
-ss://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=f79448a30d#@Xen2ray💜 Almaty 🇰🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray🧡 🇰🇿
-vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.155:8080/?type=httpupgrade&encryption=none&flow=&host=mahil1.hal-ma.info&path=🔒 [By EbraSha] #@Xen2ray💚 Almaty 🇰🇿
-trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1 #@Xen2ray💜 Almaty 🇰🇿
-vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&amp;sid=c4da507c203b545a&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#@Xen2ray🤎 Astana 🇰🇿
-ss://caec3612-9516-4454-b75d-6b05f859e4ce@91.217.10.166:9443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=api.avito.ru&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;sid=&amp;packetEncoding=xudp#@Xen2ray🧡 Almaty 🇰🇿
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #@Xen2ray🧡 Almaty 🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.155:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💚 🇰🇿
+ss://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=f79448a30d#@Xen2ray🖤 Almaty 🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.159:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray🖤 Almaty 🇰🇿
+trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#@Xen2ray🤎 Almaty 🇰🇿
+vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=/&security=&encryption=none&type=ws#@Xen2ray💙 Almaty 🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#@Xen2ray🧡 Almaty 🇰🇿
+vless://680c950c-417b-4388-8d57-5cd6a65c3cd1@103.106.3.198:4443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=github.com&amp;fp=chrome&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;sid=aa7e96542880027a&amp;packetEncoding=xudp#@Xen2ray🧡 Almaty 🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?prefix=%16%03%01%00%C2%A8%01%01 #@Xen2ray❤️ Almaty 🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Xen2ray💛 🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#@Xen2ray🤎 Almaty 🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#@Xen2ray💚 Almaty 🇰🇿
+ss://caec3612-9516-4454-b75d-6b05f859e4ce@91.217.10.166:9443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=api.avito.ru&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;sid=&amp;packetEncoding=xudp#@Xen2ray🤍 Almaty 🇰🇿
+trojan://NISHIKUITAN111@195.245.221.107:443/?type=tcp&security=tls&allowInsecure=1 #@Xen2ray🤎 🇰🇿
+trojan://3676801f-39ed-4bf3-93e4-cece2277fcfa@95.164.114.43:443?security=tls&encryption=none&type=tcp&fp=chrome&allowInsecure=1#@Xen2ray🖤 Almaty 🇰🇿
+ss://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&amp;sid=c4da507c203b545a&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#@Xen2ray💛 Astana 🇰🇿
+vless://1b8dd35a-6213-4a33-84e9-ce662ad6e280@78.140.246.39:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp #@Xen2ray🤎 Almaty 🇰🇿
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443/?type=ws&encryption=none&flow=&host=lw.kpcloud.eu.org&path=🔒 [By EbraSha] #@Xen2ray💙 Almaty 🇰🇿
 vless://caec3612-9516-4454-b75d-6b05f859e4ce@91.217.10.166:9443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=api.avito.ru&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;sid=&amp;packetEncoding=xudp#@Xen2ray💛 Almaty 🇰🇿
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@194.76.18.6:2082/?type=httpupgrade&encryption=none&flow=&host=finhztco.nipytee.info&path=🔒 [By EbraSha] #@Xen2ray🤎 Almaty 🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.159:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💛 Almaty 🇰🇿
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989 #@Xen2ray🖤 Almaty 🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#@Xen2ray❤️ Almaty 🇰🇿
-vless://680c950c-417b-4388-8d57-5cd6a65c3cd1@103.106.3.198:4443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=github.com&amp;fp=chrome&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;sid=aa7e96542880027a&amp;packetEncoding=xudp#@Xen2ray💙 Almaty 🇰🇿
-vless://1b8dd35a-6213-4a33-84e9-ce662ad6e280@78.140.246.39:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp #@Xen2ray❤️ Almaty 🇰🇿
+vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&amp;sid=c4da507c203b545a&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#@Xen2ray💛 Astana 🇰🇿
+vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.155:8080/?type=httpupgrade&encryption=none&flow=&host=mahil1.hal-ma.info&path=🔒 [By EbraSha] #@Xen2ray🖤 Almaty 🇰🇿
+ss://680c950c-417b-4388-8d57-5cd6a65c3cd1@103.106.3.198:4443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=github.com&amp;fp=chrome&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;sid=aa7e96542880027a&amp;packetEncoding=xudp#@Xen2ray❤️ Almaty 🇰🇿
+vmess://eyJ2IjoiMiIsInBzIjoiQFhlbjJyYXnwn5KaIEFsbWF0eSDwn4ew8J+HvyIsImFkZCI6IjQ1LjgyLjMxLjE2NCIsInBvcnQiOjMzODksImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInRscyI6IiJ9
+trojan://NISHIKUITAN111@185.176.26.131:443/?type=tcp&security=tls #@Xen2ray🖤 Almaty 🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💜 Almaty 🇰🇿
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@195.245.221.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #@Xen2ray🤎 🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.245.221.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Xen2ray💙 🇰🇿
+vmess://eyJhZGQiOiIxOTUuMjQ1LjIyMS4yNDYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M1MTA2OCIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwg8J+HsPCfh78iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&amp;encryption=none&amp;pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=fa#@Xen2ray💙 Astana 🇰🇿

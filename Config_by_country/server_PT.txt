@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#@Xen2ray🖤 Lisbon 🇵🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ@pt-1.stunnel.cc:8444 #@Xen2ray🖤 Porto 🇵🇹
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989 #@Xen2ray💛 🇵🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueGdzbUhrUDNKVTdoYlFrSmZ4Z3BYaDV0bHZYZTFlbg==@45.83.142.237:443#@Xen2ray🤍 Lisbon 🇵🇹
-ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#@Xen2ray🤍 Lisbon 🇵🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVElaWEdvZTB3a3Q@31.129.22.32:443 #@Xen2ray🖤 Viana do Castelo 🇵🇹
+vmess://eyJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJhaWQiOjAsImhvc3QiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6SOIExpc2JvbiDwn4e18J+HuSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#@Xen2ray💛 🇵🇹
-vless://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#@Xen2ray💚 Porto 🇵🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVElaWEdvZTB3a3Q@31.129.22.32:443 #@Xen2ray🧡 Viana do Castelo 🇵🇹
-vmess://eyJhZGQiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJhaWQiOjAsImhvc3QiOiJzdy05NC4xMzEuMTAuNS5uaXAuaW8iLCJpZCI6Ijg4ZDQ3NmMxLTQ4ZjctNGQzZC1hMGU2LWFjY2NiZmYwMmRiNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6ehIExpc2JvbiDwn4e18J+HuSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiI5NC4xMzEuMTAuNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJhefCfkpwgTGlzYm9uIPCfh7Xwn4e5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ@pt-1.stunnel.cc:8444 #@Xen2ray🤍 Porto 🇵🇹
+vmess://eyJhZGQiOiI5NC4xMzEuMTAuNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODhkNDc2YzEtNDhmNy00ZDNkLWEwZTYtYWNjY2JmZjAyZGI2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJAWGVuMnJheeKdpO+4jyBMaXNib24g8J+HtfCfh7kiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#@Xen2ray🤍 Lisbon 🇵🇹
+ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#@Xen2ray🤍 Lisbon 🇵🇹
+vless://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#@Xen2ray🖤 Porto 🇵🇹
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989 #@Xen2ray💙 🇵🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueGdzbUhrUDNKVTdoYlFrSmZ4Z3BYaDV0bHZYZTFlbg==@45.83.142.237:443#@Xen2ray🤍 Lisbon 🇵🇹
