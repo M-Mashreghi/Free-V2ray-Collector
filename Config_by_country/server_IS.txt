@@ -1,12 +1,12 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray🧡 Reykjavik 🇮🇸
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💛 Reykjavik 🇮🇸
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💜 Reykjavik 🇮🇸
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#@Xen2ray💙 Reykjavik 🇮🇸
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@Xen2ray💜 Reykjavik 🇮🇸
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💜 Reykjavik 🇮🇸
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #@Xen2ray💚 Hafnarfjordur 🇮🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg%3D%3D@89.221.224.94:1443 #@Xen2ray💚 Reykjavik 🇮🇸
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;fp=chrome#@Xen2ray💜 Reykjavik 🇮🇸
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#@Xen2ray💚 Reykjavik 🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray🖤 Reykjavik 🇮🇸
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;fp=chrome#@Xen2ray🧡 Reykjavik 🇮🇸
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #@Xen2ray💜 Hafnarfjordur 🇮🇸
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray🖤 Reykjavik 🇮🇸
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #@Xen2ray🖤 Hafnarfjordur 🇮🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💜 Reykjavik 🇮🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💛 Reykjavik 🇮🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💛 Reykjavik 🇮🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💜 Reykjavik 🇮🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg%3D%3D@89.221.224.94:1443 #@Xen2ray🧡 Reykjavik 🇮🇸
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@Xen2ray💚 Reykjavik 🇮🇸
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #@Xen2ray❤️ Hafnarfjordur 🇮🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#@Xen2ray💛 Reykjavik 🇮🇸
