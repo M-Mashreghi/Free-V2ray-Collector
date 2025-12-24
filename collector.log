@@ -7353,3 +7353,49 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/17276 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 17276/17276 [00:00<00:00, 1362224.28cfg/s]
 2025-12-24 05:42:22,502 [INFO] save_config: Saving 3998882 configs to /home/apps/Free-V2ray-Collector
 2025-12-24 05:42:22,786 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+2025-12-24 20:47:44,201 [INFO] collector: Starting collector run
+2025-12-24 20:47:44,204 [INFO] collector: Fetching: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2025-12-24 20:47:44,568 [WARNING] root: Request error for https://raw.githubusercontent.com/internet4jina/daily/main/studious ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2025-12-24 20:47:44,574 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2025-12-24 20:47:44,574 [INFO] collector: Fetching: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1224.txt
+2025-12-24 20:47:44,814 [INFO] collector: Fetching: https://proxypool.link/sip002/sub
+2025-12-24 20:47:45,584 [INFO] collector: Fetching: https://proxypool.link/ss/sub
+2025-12-24 20:47:45,768 [INFO] collector: Fetching: https://proxypool.link/vmess/sub
+2025-12-24 20:47:45,948 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt
+2025-12-24 20:47:46,109 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt
+2025-12-24 20:47:46,252 [INFO] collector: Fetching: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+2025-12-24 20:47:46,386 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-12-24 20:47:46,513 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-12-24 20:47:46,637 [WARNING] root: Request error for https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-12-24 20:47:46,638 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-12-24 20:47:46,638 [INFO] collector: Fetching: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+2025-12-24 20:47:46,776 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+2025-12-24 20:47:46,897 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+2025-12-24 20:47:47,017 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+2025-12-24 20:47:47,154 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+2025-12-24 20:47:47,293 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+2025-12-24 20:47:47,431 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+2025-12-24 20:47:47,564 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+2025-12-24 20:47:47,691 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+2025-12-24 20:47:47,825 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2025-12-24 20:47:47,843 [INFO] collector: Fetching: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+2025-12-24 20:47:47,975 [INFO] collector: Fetching: https://raw.githubusercontent.com/freefq/free/master/v2
+2025-12-24 20:47:48,098 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-12-24 20:47:48,114 [WARNING] root: Request error for https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-12-24 20:47:48,114 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2025-12-24 20:47:48,114 [INFO] collector: Fetching: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt
+2025-12-24 20:47:51,794 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=1
+2025-12-24 20:47:52,197 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=2
+2025-12-24 20:47:53,838 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=3
+2025-12-24 20:47:53,969 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=4
+2025-12-24 20:47:54,127 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=5
+2025-12-24 20:47:54,474 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=6
+2025-12-24 20:47:54,785 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2025-12-24 20:47:54,961 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2025-12-24 20:47:55,171 [INFO] collector: Decoded 30 configs from 32 links
+2025-12-24 20:47:57,408 [INFO] save_config: Saving 42 configs to /home/apps/Free-V2ray-Collector
+2025-12-24 20:47:57,536 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/71548 [00:00<?, ?cfg/s]Renaming configs:   1%|▏         | 988/71548 [00:00<00:07, 9771.22cfg/s]Renaming configs:   4%|▎         | 2533/71548 [00:00<00:09, 7152.74cfg/s]Renaming configs:   8%|▊         | 6049/71548 [00:00<00:06, 10234.54cfg/s]Renaming configs:  10%|▉         | 7051/71548 [00:01<00:10, 6264.21cfg/s] Renaming configs:  11%|█         | 7761/71548 [00:01<00:16, 3984.75cfg/s]Renaming configs:  12%|█▏        | 8270/71548 [00:01<00:19, 3180.45cfg/s]Renaming configs:  14%|█▎        | 9788/71548 [00:01<00:13, 4601.69cfg/s]Renaming configs:  15%|█▍        | 10502/71548 [00:12<03:16, 310.91cfg/s]Renaming configs:  19%|█▉        | 13723/71548 [00:12<01:19, 726.56cfg/s]Renaming configs:  21%|██▏       | 15235/71548 [00:12<00:58, 968.12cfg/s]Renaming configs:  23%|██▎       | 16488/71548 [00:12<00:45, 1200.47cfg/s]Renaming configs:  29%|██▉       | 20604/71548 [00:12<00:20, 2514.49cfg/s]Renaming configs:  32%|███▏      | 22559/71548 [00:14<00:26, 1845.60cfg/s]Renaming configs:  33%|███▎      | 23952/71548 [00:18<00:45, 1038.63cfg/s]Renaming configs:  35%|███▍      | 24935/71548 [00:19<00:44, 1044.35cfg/s]Renaming configs:  36%|███▌      | 25654/71548 [00:19<00:38, 1191.51cfg/s]Renaming configs:  37%|███▋      | 26306/71548 [00:19<00:33, 1364.18cfg/s]Renaming configs:  38%|███▊      | 26906/71548 [00:19<00:29, 1512.16cfg/s]Renaming configs:  38%|███▊      | 27415/71548 [00:19<00:25, 1720.14cfg/s]Renaming configs:  39%|███▉      | 27909/71548 [00:19<00:23, 1827.27cfg/s]Renaming configs:  40%|███▉      | 28434/71548 [00:20<00:20, 2138.15cfg/s]Renaming configs:  40%|████      | 28873/71548 [00:20<00:18, 2305.98cfg/s]Renaming configs:  41%|████      | 29277/71548 [00:20<00:19, 2116.45cfg/s]Renaming configs:  41%|████▏     | 29609/71548 [00:20<00:19, 2184.43cfg/s]Renaming configs:  42%|████▏     | 29916/71548 [00:20<00:21, 1954.22cfg/s]Renaming configs:  43%|████▎     | 30997/71548 [00:20<00:12, 3275.35cfg/s]Renaming configs:  44%|████▍     | 31440/71548 [00:26<02:05, 319.89cfg/s] Renaming configs:  44%|████▍     | 31801/71548 [00:26<01:40, 396.57cfg/s]Renaming configs:  46%|████▌     | 32573/71548 [00:26<01:01, 633.07cfg/s]Renaming configs:  46%|████▌     | 33020/71548 [00:26<00:51, 749.78cfg/s]Renaming configs:  47%|████▋     | 33385/71548 [00:26<00:42, 898.20cfg/s]Renaming configs:  47%|████▋     | 33727/71548 [00:27<00:35, 1072.41cfg/s]Renaming configs:  48%|████▊     | 34058/71548 [00:27<00:33, 1117.21cfg/s]Renaming configs:  49%|████▉     | 35125/71548 [00:27<00:17, 2086.45cfg/s]Renaming configs:  50%|████▉     | 35600/71548 [00:29<00:51, 694.46cfg/s] Renaming configs:  50%|█████     | 35940/71548 [00:29<00:43, 814.57cfg/s]Renaming configs:  51%|█████     | 36253/71548 [00:29<00:39, 904.21cfg/s]Renaming configs:  51%|█████     | 36551/71548 [00:29<00:32, 1068.46cfg/s]Renaming configs:  52%|█████▏    | 37422/71548 [00:30<00:19, 1767.66cfg/s]Renaming configs:  53%|█████▎    | 37809/71548 [00:30<00:17, 1918.40cfg/s]Renaming configs:  53%|█████▎    | 38147/71548 [00:30<00:19, 1740.66cfg/s]Renaming configs:  57%|█████▋    | 40676/71548 [00:30<00:06, 4888.13cfg/s]Renaming configs:  58%|█████▊    | 41450/71548 [00:30<00:06, 4489.96cfg/s]Renaming configs:  59%|█████▉    | 42098/71548 [00:31<00:12, 2362.72cfg/s]Renaming configs:  60%|█████▉    | 42579/71548 [00:31<00:11, 2478.41cfg/s]Renaming configs:  60%|██████    | 43010/71548 [00:35<01:04, 442.93cfg/s] Renaming configs:  72%|███████▏  | 51589/71548 [00:36<00:07, 2819.71cfg/s]Renaming configs:  89%|████████▉ | 63993/71548 [00:36<00:01, 7457.73cfg/s]Renaming configs: 100%|██████████| 71548/71548 [00:36<00:00, 1973.64cfg/s]
+Sorting by protocol:   0%|          | 0/17424 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 17424/17424 [00:00<00:00, 1417572.89cfg/s]
+2025-12-24 20:50:12,675 [INFO] save_config: Saving 4057951 configs to /home/apps/Free-V2ray-Collector
+2025-12-24 20:50:13,162 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
