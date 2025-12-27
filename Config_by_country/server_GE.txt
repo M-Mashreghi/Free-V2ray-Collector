@@ -1,3 +1,2 @@
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] | @HajmVPN_Config #@Xen2ray💜 Tbilisi 🇬🇪
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#@Xen2ray💛 Tbilisi 🇬🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad3dCYlE2MnJqR1BIeXJEMXo2clNt@185.143.179.164:8443#@Xen2ray🖤 🇬🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad3dCYlE2MnJqR1BIeXJEMXo2clNt@185.143.179.164:8443#@Xen2ray💙 🇬🇪
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] | @HajmVPN_Config #@Xen2ray🤎 Tbilisi 🇬🇪
