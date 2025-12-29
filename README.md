@@ -114,10 +114,10 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 ## Contact
 🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker or telegram channel [@Xen2ray](https://t.me/Xen2ray).
 
-## Special Thanks To
-[@ircfspace](https://github.com/MrPooyaX)
+
 [@hossein-mohseni](https://github.com/hossein-mohseni)
 [@mahdibland](https://github.com/mahdibland)
 [@MrPooyaX](https://github.com/MrPooyaX)
 [@Bardiafa](https://github.com/Bardiafa)
+
 
