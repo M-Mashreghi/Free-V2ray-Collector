@@ -4,7 +4,8 @@
 
 ![آخرین تغییرات](https://img.shields.io/github/last-commit/M-Mashreghi/Free-V2ray-Collector.svg) [![MIT لایسنس](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub ستاره ها](https://img.shields.io/github/stars/M-Mashreghi/Free-V2ray-Collector.svg)](https://github.com/M-Mashreghi/Free-V2ray-Collector/stargazers) [![بروزرسانی میشود](https://github.com/M-Mashreghi/Free-V2ray-Collector/actions/workflows/python-app.yml/badge.svg)](https://github.com/M-Mashreghi/Free-V2ray-Collector/actions/workflows/python-app.yml) ![سایز این مجموعه](https://img.shields.io/github/repo-size/M-Mashreghi/Free-V2ray-Collector) [![CodeFactor](https://www.codefactor.io/repository/github/M-Mashreghi/Free-V2ray-Collector/badge)](https://www.codefactor.io/repository/github/M-Mashreghi/Free-V2ray-Collector) 
 
-
+# کانال اصلی
+##[@TwitroChannels](https://t.me/TwitroChannels)
 ## راه‌اندازی
 👉 برای استفاده از یکی از این پیکربندی ها، فقط فایل `configs.txt` را در مسیر ریشه باز کنید. این فایل شامل لینک های مختلفی به فایل های پیکربندی V2ray است که می توانید با کلاینت V2ray خود استفاده کنید. [این لینک](https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/All_Configs_Sub.txt) را برای فایل پیکربندی مورد نظر از فایل configs.txt کپی کرده و آن را در کلاینت V2ray خود وارد کنید. برای اطلاعات بیشتر در مورد نحوه انجام این کار به مستندات کلاینت خود ارجاع دهید.
 
@@ -61,5 +62,6 @@ https://t.me/TwitroChannels
 📝 این مخزن تحت لایسنس MIT منتشر شده است. برای کسب اطلاعات بیشتر به فایل LICENSE مراجعه کنید.
 
 ## تماس با ما
-🙋‍♀️ اگر سوال یا نیاز به راهنمایی دارید، لطفاً از طریق پیگیری مسئله با ما تماس بگیرید یا در گروه تلگرام [@Xen2ray](https://t.me/Xen2ray) بپرسید.
+🙋‍♀️ اگر سوال یا نیاز به راهنمایی دارید، لطفاً از طریق پیگیری مسئله با ما تماس بگیرید یا در گروه تلگرام [@TwitroChannels](https://t.me/TwitroChannels) بپرسید.
+
 
