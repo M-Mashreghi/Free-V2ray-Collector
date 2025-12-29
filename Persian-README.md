@@ -54,13 +54,12 @@ ShadowSocksR : https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collecto
 ### 🍎 مک و 📱 آی‌اواس
 در مک، ما پیشنهاد می کنیم از [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488) استفاده کنید. برای import کردن یک فایل پیکربندی، به سادگی برنامه را باز کنید، در پایان صفحه "import VPN Configs" را انتخاب کرده و لینک پیکربندی را paste کنید و سپس "ok" را بزنید.
 
-همچنین از این نرم افزار ها نیز میتونید استفاده کنید :  [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id6450534064)
+همچنین از این نرم افزار ها نیز میتونید استفاده کنید :  [Foxray](https://apps.apple.com/us/app/foxray/id6448898396) , [ShadowRocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) , [V2BOX](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) , [Streisand](https://apps.apple.com/us/app/streisand/id645053406)
 
-## مشارکت
-✍️ اگر شما یک فایل پیکربندی V2ray دارید که می‌خواهید به این مخزن کمک کنید، به راحتی یک درخواست pull جدید ایجاد کنید تا آن را بررسی کنیم.
-
+https://t.me/TwitroChannels
 ## لایسنس
 📝 این مخزن تحت لایسنس MIT منتشر شده است. برای کسب اطلاعات بیشتر به فایل LICENSE مراجعه کنید.
 
 ## تماس با ما
 🙋‍♀️ اگر سوال یا نیاز به راهنمایی دارید، لطفاً از طریق پیگیری مسئله با ما تماس بگیرید یا در گروه تلگرام [@Xen2ray](https://t.me/Xen2ray) بپرسید.
+
