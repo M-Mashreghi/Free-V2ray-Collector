@@ -7,6 +7,8 @@
 -->
 
 
+# Main Channel
+[@TwitroChannels](https://t.me/TwitroChannels)
 
 ## Usage
 👉 To use one of these configurations, simply open the configs.txt file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. Copy [THIS LINK](https://raw.githubusercontent.com/M-Mashreghi/Free-V2ray-Collector/main/All_Configs_Sub.txt) link of the configuration file you want to use from the configs.txt file and import it into your V2ray client. Refer to your client's documentation for more information on how to do this.
@@ -113,6 +115,7 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 
 ## Contact
 🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker or telegram channel [@TwitroChannels](https://t.me/TwitroChannels).
+
 
 
 
