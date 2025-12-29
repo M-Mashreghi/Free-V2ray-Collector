@@ -112,12 +112,7 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 📝 This repository is licensed under the MIT license. See LICENSE for more information.
 
 ## Contact
-🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker or telegram channel [@Xen2ray](https://t.me/Xen2ray).
+🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker or telegram channel [@TwitroChannels](https://t.me/TwitroChannels).
 
-
-[@hossein-mohseni](https://github.com/hossein-mohseni)
-[@mahdibland](https://github.com/mahdibland)
-[@MrPooyaX](https://github.com/MrPooyaX)
-[@Bardiafa](https://github.com/Bardiafa)
 
 
