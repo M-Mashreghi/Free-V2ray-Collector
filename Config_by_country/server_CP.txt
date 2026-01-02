@@ -1,1 +1,0 @@
-vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=🔒 [By EbraSha] |🇨🇵 #@Xen2ray❤️
